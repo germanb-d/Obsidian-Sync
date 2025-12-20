@@ -1,49 +1,49 @@
 # Write Two Questions that Can Be Answered with the Information in This Text.
 
-Is java a pure object-oriented language?
+Is [[Java]] a pure object-oriented language?
 
-> Java, on the other hand, is not a pure object-oriented language.
+> [[Java]], on the other hand, is not a pure object-oriented language.
 
 Is Python slower than C++ ?
 
-> Though Java is fast as compared to Python, it runs significantly slower than
+> Though [[Java]] is fast as compared to Python, it runs significantly slower than
 C++.
 
 # Indicate whether These Sentences Are True or False. Highlight the Lines that Justify Your Answer.
 
-Java programs are longer than Python programs TRUE
+[[Java]] programs are longer than Python programs TRUE
 
-> One of the key differences between the two is that Python programs are shorter as compared to Java programs.
+> One of the key differences between the two is that Python programs are shorter as compared to [[Java]] programs.
 
-Java library support is not as strong as Python’s. FALSE
+[[Java]] library support is not as strong as Python’s. FALSE
 
->  Moreover, Java has much better library support for some of the use cases than Python.
+>  Moreover, [[Java]] has much better library support for some of the use cases than Python.
 
-Even though Java runs slower than C++, programs written in C++ can be heavier due to the garbage collection procedure. TRUE
+Even though [[Java]] runs slower than C++, programs written in C++ can be heavier due to the garbage collection procedure. TRUE
 
-> Java is fast as compared to Python, it runs significantly slower than C ++ .
-> Java garbage collection happens automatically but there is no automatic garbage collection in C++; all objects must be destroyed manually through the code
+> [[Java]] is fast as compared to Python, it runs significantly slower than C ++ .
+> [[Java]] garbage collection happens automatically but there is no automatic garbage collection in C++; all objects must be destroyed manually through the code
 
-Java programmes are longer than their Ruby counterparts.
+[[Java]] programmes are longer than their Ruby counterparts.
 
 >  <mark class="hltr-r">Completar</mark>
 
-C# is more constrained than Java as regards the platforms they can run on. FALSE
+C# is more constrained than [[Java]] as regards the platforms they can run on. FALSE
 
 > It is supported on more operating systems than C# without recompiling code. On the other hand, C# is not quite platform independent as it can run on Windows and Mac OS-X but not Linux.
 
-Writing a program in php takes longer than writing the same program in Java. FALSE
+Writing a program in php takes longer than writing the same program in [[Java]]. FALSE
 
 >  A programmer should choose PHP if he/she doesn’t have a lot of time to complete a project
 
-After comparing all the languages to Java, the author states which the best language is. FALSE
+After comparing all the languages to [[Java]], the author states which the best language is. FALSE
 
 >  YES, because.....
 >  And No, because.....
 
 # Indicate what the Words Highlighted in Yellow Refer To.
 
-It: Java
+It: [[Java]]
 
 It:
 
@@ -85,6 +85,6 @@ Its:
 
 # Arrange the Underlined Expressions in the following Table
 
-| Java | Other Languages |
+| [[Java]] | Other Languages |
 | ---- | --------------- |
 |      |                 |

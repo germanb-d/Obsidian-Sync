@@ -45,21 +45,21 @@ Preguntas exactas para coloquio:
 # 🎯 *Preguntas integradoras*
 
 23. *¿Cómo se combinan los conceptos de archivos, bloques, índices y árboles para lograr eficiencia en bases de datos grandes?*
-24. *¿Qué decisiones debe tomar un diseñador de base de datos al elegir entre almacenamiento secuencial, indexado o por dispersión (hashing)?*
-25. *¿Cómo influye el tamaño de bloque en el rendimiento general del sistema de almacenamiento?*
+24. *¿Qué decisiones debe tomar un diseñador de [[Base de Datos]] al elegir entre almacenamiento secuencial, indexado o por dispersión (hashing)?*
+25. *¿Cómo influye el tamaño de [[Bloque]] en el rendimiento general del sistema de almacenamiento?*
 
 Preguntas generales para coloquio (nivel comprensión):
 
-1. *¿Cuál sería la mejor forma de aprovechar el espacio en archivos de base de datos?*
-2. *¿Qué estrategia usarías para que una base de datos con muchos registros pueda mantenerse ordenada y rápida al buscar datos?*
-3. *¿Qué problemas puede traer eliminar registros en un archivo, y cómo se puede solucionar?*
+1. *¿Cuál sería la mejor forma de aprovechar el espacio en archivos de [[Base de Datos]]?*
+2. *¿Qué estrategia usarías para que una [[Base de Datos]] con muchos registros pueda mantenerse ordenada y rápida al buscar datos?*
+3. *¿Qué problemas puede traer eliminar registros en un [[Archivo]], y cómo se puede solucionar?*
 4. *¿Por qué no conviene guardar registros de longitud variable sin ningún tipo de control?*
-5. *¿Qué ventajas tiene utilizar un índice en un archivo? ¿Y qué posibles desventajas?*
+5. *¿Qué ventajas tiene utilizar un índice en un [[Archivo]]? ¿Y qué posibles desventajas?*
 6. *Si tuvieras que diseñar un sistema que consulte mucha información ordenada, ¿qué tipo de estructura elegirías y por qué?*
 7. *¿Qué papel juegan los bloques en el aprovechamiento del espacio y el rendimiento del acceso a los datos?*
 8. *¿Qué estrategia de organización de archivos te parece más eficiente: secuencial, directo o indizado? ¿Por qué?*
 9. *¿Por qué es importante que las hojas de un árbol B estén todas al mismo nivel?*
-10. *¿Qué sucede si no se controla el crecimiento del archivo y no se reorganiza nunca?*
+10. *¿Qué sucede si no se controla el crecimiento del [[Archivo]] y no se reorganiza nunca?*
 
 Registros de longitud fija vs variable
 
@@ -71,26 +71,26 @@ Como se lleva la cuenta de los espacios disponibles en registros de longitud fij
 
 Variable
 
-Que es la fragmentación interna y externa
+Que es la [[Fragmentación]] interna y externa
 
-Que tipo de fragmentación se puede dar en registros de longitud fija, y variable
+Que tipo de [[Fragmentación]] se puede dar en registros de longitud fija, y variable
 
 Como se lidia con la fragmentacion interna y externa.
 
-Que es un indice primario y para que sirve
+Que es un [[Indice]] primario y para que sirve
 
-Que es un indice secundario y para que sirve
+Que es un [[Indice]] secundario y para que sirve
 
-Como esta compuesto un indice primario y como se utiliza
+Como esta compuesto un [[Indice]] primario y como se utiliza
 
-Como esta compuesto un indice secundario y como funciona
+Como esta compuesto un [[Indice]] secundario y como funciona
 
-Que es un indice selectivo
+Que es un [[Indice]] selectivo
 
-Que pasa si un indice es demasiado grande
+Que pasa si un [[Indice]] es demasiado grande
 
 Como se realizan las operaciones (baja, alta, modificacion) sobre indices primarios y
 
 Secundarios
 
-Para que sirve el flag del indice
+Para que sirve el flag del [[Indice]]

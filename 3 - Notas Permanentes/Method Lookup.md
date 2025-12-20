@@ -59,7 +59,7 @@ tags:
 
 > [!example] Ejemplo
 >
-> ```java
+> ```[[Java]]
 > List<Animal> animales = List.of(new Perro(), new Gato());
 > for (Animal a : animales) {
 >     a.sonido(); // "Guau!" o "Miau!" según el objeto real

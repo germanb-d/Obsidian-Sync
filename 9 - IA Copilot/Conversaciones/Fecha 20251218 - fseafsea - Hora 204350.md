@@ -6,7 +6,7 @@ tags:
 ---
 
 **user**: fseafsea
-[Context: Notes: Obsidian-Sync/9 - IA Copilot/Conversaciones/pepe - 20251218 - 204153.md]
+[Context: Notes: Obsidian-Sync/9 - IA Copilot/Conversaciones/[[pepe - 20251218 - 204153]].md]
 [Timestamp: 2025/12/18 20:43:50]
 
 **ai**:

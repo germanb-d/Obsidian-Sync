@@ -17,7 +17,7 @@ Al trabajar con particiones fijas, los tamaños de las mismas se pueden consider
 
 ### Desventajas
 
-- Se puede dar que un proceso de menor tamaño ocupe una partición de mayor tamaño, esto **genera una fragmentación interna** (ese espacio sobrante en cada partición).
+- Se puede dar que un proceso de menor tamaño ocupe una partición de mayor tamaño, esto **genera una [[Fragmentación]] interna** (ese espacio sobrante en cada partición).
 - Se puede dar que un proceso sea más grande que la partición provocando que este no se puede ejecutar.  Aunque existen soluciones como dividir el proceso en segmentación o paginación, de forma básica sin tomar en cuenta esto se puede interpretar como una desventaja.
 
 ## Particiones De Diferente Tamaño
@@ -26,26 +26,26 @@ Al trabajar con particiones fijas, los tamaños de las mismas se pueden consider
 
 Podrás tener particiones más grandes en el mismo espacio de memoria de lo que tendrías en una distribución de particiones de igual tamaño, lo cual te **permitirá tener procesos de mayor tamaño**
 
-Además, **aprovecha de mejor forma la memoria** al poder tener procesos de menor tamaño en particiones también de menor tamaño, y así poder reducir la fragmentación interna.
+Además, **aprovecha de mejor forma la memoria** al poder tener procesos de menor tamaño en particiones también de menor tamaño, y así poder reducir la [[Fragmentación]] interna.
 
 ### Desventajas
 
 A diferencia de la distribución igual tamaño, acá si deberás tener un criterio de asignación para cada proceso, para así determinar que partición es mejor para ese proceso. Esto **puede conllevar más tiempo y recursos.**
 
-Aunque en menor medida, **seguirá generando fragmentación interna**.
+Aunque en menor medida, **seguirá generando [[Fragmentación]] interna**.
 
 # Punto 4
 
-Ambos métodos de particiones presentan el problema de la fragmentación:
+Ambos métodos de particiones presentan el problema de la [[Fragmentación]]:
 
-- Fragmentación Interna (Para el caso de Particiones Fijas)
-- Fragmentación Externa (Para el caso de Particiones Dinámicas)
+- [[Fragmentación]] Interna (Para el caso de Particiones Fijas)
+- [[Fragmentación]] Externa (Para el caso de Particiones Dinámicas)
 
 ## 1. Explique a Que Hacen Referencia Estos 2 Problemas
 
-La fragmentación interna hace referencia al espacio sobrante que queda al guardar un proceso en una partición fija. Este espacio libre espacio que se desperdicia porque no puede ser usado por otro proceso.
+La [[Fragmentación]] interna hace referencia al espacio sobrante que queda al guardar un proceso en una partición fija. Este espacio libre espacio que se desperdicia porque no puede ser usado por otro proceso.
 
-La fragmentación externa hace referencia cuando hay suficiente espacio libre para un proceso, pero este espacio libre está fragmentado en pequeños fragmentos.
+La [[Fragmentación]] externa hace referencia cuando hay suficiente espacio libre para un proceso, pero este espacio libre está fragmentado en pequeños fragmentos.
 
 ![[Administracion de Memoria - Practica Entregable-1747862141372.webp]]
 
@@ -86,7 +86,7 @@ Cite similitudes y diferencias entre la técnica de segmentación y la de partic
 
 ## Similitudes
 
-- En ambos métodos se pueden dar fragmentación externa.
+- En ambos métodos se pueden dar [[Fragmentación]] externa.
 - En ambos usamos bloques de tamaño variable para la memoria
 - En ambos podríamos llegar a tener que hacer una compactación
 - En ambos se necesita usar una tabla como índice

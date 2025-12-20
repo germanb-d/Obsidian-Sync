@@ -95,7 +95,7 @@ Son instrucciones que permiten **interactuar con los datos reales** dentro de la
 
 > [!example] Ejemplo de Comandos
 >
-> ```sql
+> ```[[SQL]]
 > -- Recuperar información
 > SELECT * FROM Clientes WHERE nombre = 'Ana';
 > 

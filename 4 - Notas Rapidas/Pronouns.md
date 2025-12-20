@@ -1,6 +1,6 @@
 # Tabla Comparativa De Pronombres En Inglés
 
-| Pronombre Personal (Personal Pronouns)<br>(Sujeto) | Pronombre de Objeto (Object Pronouns)<br>(Complemento) | Adjetivo Posesivo (Possessive Adjectives)<br>(+ Sustantivo) | Pronombre Posesivo (Possessive Pronouns)<br>(Independiente) | Pronombre Reflexivo (Reflexive Pronouns) |
+| Pronombre Personal ([[Personal Pronouns]])<br>(Sujeto) | Pronombre de Objeto (Object Pronouns)<br>(Complemento) | Adjetivo Posesivo (Possessive Adjectives)<br>(+ Sustantivo) | Pronombre Posesivo (Possessive Pronouns)<br>(Independiente) | Pronombre Reflexivo (Reflexive Pronouns) |
 |:---------------------------------------------------:|:------------------------------------------------------:|:-----------------------------------------------------------:|:-----------------------------------------------------------:|:----------------------------------------:|
 | I (yo)                                              | me (a mí, me, mí)                                      | my (mi, mis)                                                | mine (el mío, la mía, míos, mías)                           | myself (me, mí mismo/a)                  |
 | you (tú, usted, vosotros, ustedes)                  | you (a ti, te, ti, a usted, etc.)                      | your (tu, tus, su, sus [de usted])                          | yours (tuyo, suyo, etc.)                                    | yourself / yourselves (te, se, etc.)     |

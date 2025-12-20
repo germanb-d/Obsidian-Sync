@@ -171,7 +171,7 @@ This refers to the sluggish who cause don't have enough RAM.
 > **Versiones correctas**:
 > - "This refers to the **situation of** not having enough RAM **and the computer being** sluggish."
 > - "This refers to the **problem that** the computer **becomes** sluggish when you don't have enough RAM."
-> - "This refers to the **fact that** insufficient RAM causes the computer to be sluggish."
+> - "This refers to the **fact that** insufficient RAM causes the computer [[To be]] sluggish."
 > 
 > La opcion 2 esta mal gramaticalmente porque:
 > - Si usas **"who"**, el verbo debe concordar: "who **causes**" o "who **cause**"

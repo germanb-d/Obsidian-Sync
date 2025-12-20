@@ -63,7 +63,7 @@ Archivo
 | [[Campo]]                 | Dato individual (una celda)                 |
 
 > [!important] Importante
-> ![[Bloque]]
+> ![[[[Bloque]]]]
 
 # Archivo Físico Y Lógico
 
@@ -77,7 +77,7 @@ Un archivo `ventas2025.dat` que está en `C:\Datos` y que ocupa 2 MB.
 
 > Es **una representación abstracta del archivo** dentro del **programa o sistema** que lo utiliza.
 
-Lo **usa un programa** (como una base de datos, o un lenguaje de programación como C o Java) para trabajar **sin preocuparse de los detalles físicos** del archivo.
+Lo **usa un programa** (como una [[Base de Datos]], o un lenguaje de programación como C o [[Java]]) para trabajar **sin preocuparse de los detalles físicos** del archivo.
 
 - Es como un **puente o interfaz** entre el programa y el archivo físico.
 - Permite hacer operaciones como `abrir`, `leer`, `escribir`, `cerrar`, etc., sin saber el nombre físico exacto ni su ubicación.
@@ -98,8 +98,8 @@ Lo **usa un programa** (como una base de datos, o un lenguaje de programación c
 ## Acceso a Archivos
 
 - **Secuencial**: Acceso a los registros uno tras otro y en el orden físico en el que están guardados
-- **Secuencial indizado**: Acceso a los registros de acuerdo al orden establecido por otra estructura. (Ej: índice temático de un libro)
-- **Directo:** Se accede a un registro determinado sin necesidad de haber accedido a otro registro previamente
+- **Secuencial indizado**: Acceso a los registros de acuerdo al orden establecido por otra estructura. (Ej: índice temático de un [[Libro]])
+- **Directo:** Se accede a un [[Registro]] determinado sin necesidad de haber accedido a otro [[Registro]] previamente
 
 ## Organización De Archivos
 
@@ -120,14 +120,14 @@ Como se almacenan, eliminan, modifican y se consulta su contenido.
 
 Se recorren los registros **uno a uno** desde el inicio hasta el final.
 
-Pero a veces puede usarse **acceso relativo** si se quiere llegar rápidamente a una posición conocida (por ejemplo, el registro n.º 25 directamente).
+Pero a veces puede usarse **acceso relativo** si se quiere llegar rápidamente a una posición conocida (por ejemplo, el [[Registro]] n.º 25 directamente).
 
 ##### La Forma De Organizar Los Registros Depende De Su Longitud
 
 ###### Registros Son De Longitud Fija:
 
-- Cada registro ocupa el mismo espacio.
-- Es fácil calcular la posición de un registro, por ejemplo:  
+- Cada [[Registro]] ocupa el mismo espacio.
+- Es fácil calcular la posición de un [[Registro]], por ejemplo:  
     `posición = número_de_registro × tamaño_del_registro`
 
 ###### Registros Son De Longitud Variable:
@@ -136,7 +136,7 @@ Pero a veces puede usarse **acceso relativo** si se quiere llegar rápidamente a
     - Se pueden almacenar **uno detrás de otro directamente** (como un texto continuo), sin bloques.
 - **Actualizables**:
     - Se organizan en **bloques**, dejando espacio extra para posibles modificaciones.
-    - Esto permite que si un registro cambia de tamaño, no sea necesario mover todo el archivo.
+    - Esto permite que si un [[Registro]] cambia de tamaño, no sea necesario mover todo el archivo.
 
 ##### Las Primitivas (operaciones) Varían Según El Tipo De Archivo
 
@@ -161,10 +161,10 @@ Pero a veces puede usarse **acceso relativo** si se quiere llegar rápidamente a
 
 1. Los **registros están ordenados** por una [[Registro#Clave|clave]] (por ejemplo, DNI).
 2. Se crea un **índice** que guarda las claves de algunos registros (no todos), y su posición en el archivo.
-3. Para buscar un registro:
+3. Para buscar un [[Registro]]:
     - Primero se consulta el **índice** (rápido).
-    - Luego se accede **secuencialmente** desde esa posición hasta encontrar el registro buscado.
+    - Luego se accede **secuencialmente** desde esa posición hasta encontrar el [[Registro]] buscado.
 
 #### Relativo / Directo
 
-Se accede directamente al registro mediante el [[NRR]].
+Se accede directamente al [[Registro]] mediante el [[NRR]].

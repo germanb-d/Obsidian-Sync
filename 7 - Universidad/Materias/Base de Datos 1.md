@@ -11,8 +11,8 @@ banner: "[[Base de Datos 1-1755819399363.webp]]"
 
 # Practicos
 
-![[Practica - Base de Datos 1.base]]
+![[Practica - [[Base de Datos]] 1.base]]
 
 # Teoria
 
-![[Teoria - Base de Datos 1.base]]
+![[Teoria - [[Base de Datos]] 1.base]]

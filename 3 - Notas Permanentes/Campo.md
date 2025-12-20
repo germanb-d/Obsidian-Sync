@@ -9,15 +9,15 @@ tags:
 
 # ¿Qué Es Un Campo?
 
-Un **campo** es la unidad básica de información dentro de un [[Registro]] en una base de datos. Representa un atributo específico de la entidad que se está almacenando y contiene un tipo particular de dato.
+Un **campo** es la unidad básica de información dentro de un [[Registro]] en una [[Base de Datos]]. Representa un atributo específico de la entidad que se está almacenando y contiene un tipo particular de dato.
 
 **Características fundamentales de un campo:**
-- Es la menor unidad de datos con significado propio dentro de un registro
+- Es la menor unidad de datos con significado propio dentro de un [[Registro]]
 - Tiene un nombre que lo identifica (como "nombre", "edad", "salario")
 - Tiene un tipo de dato específico (texto, número, fecha, etc.)
-- Almacena un valor concreto para cada registro
+- Almacena un valor concreto para cada [[Registro]]
 
-**Ejemplo conceptual:** En un *registro* de "Empleado", los campos podrían ser:
+**Ejemplo conceptual:** En un *[[Registro]]* de "Empleado", los campos podrían ser:
 
 - Campo "ID": contiene el número identificador
 - Campo "Nombre": contiene el nombre de la persona
@@ -39,7 +39,7 @@ Un **campo fijo** es aquel que tiene un tamaño predeterminado y constante, inde
 
 **Ubicación predecible:**
 
-- Su posición dentro del registro es siempre la misma
+- Su posición dentro del [[Registro]] es siempre la misma
 - Se puede acceder directamente usando un offset calculado
 
 ## Ejemplos De Campos Fijos:
@@ -73,7 +73,7 @@ Fecha B: "2025-12-31"
 
 # Campo Variable
 
-Un **campo variable** es aquel que puede cambiar de tamaño según la cantidad de datos que necesite almacenar en cada registro.
+Un **campo variable** es aquel que puede cambiar de tamaño según la cantidad de datos que necesite almacenar en cada [[Registro]].
 
 ## Características Del Campo Variable:
 
@@ -85,7 +85,7 @@ Un **campo variable** es aquel que puede cambiar de tamaño según la cantidad d
 
 **Ubicación relativa:**
 
-- Su posición puede variar dentro del registro
+- Su posición puede variar dentro del [[Registro]]
 - Requiere metadatos o delimitadores para ser localizado
 
 ## Métodos De Implementación:
@@ -143,4 +143,4 @@ Pedido 3: "Cliente prefiere entrega en horario de mañana, tocar timbre dos vece
 - **Complejidad**: Requiere algoritmos más sofisticados para acceso
 - **Overhead**: Necesita metadatos adicionales (indicadores, delimitadores)
 - **Rendimiento**: Acceso más lento que los campos fijos
-- **Fragmentación**: Puede causar problemas de fragmentación externa
+- **[[Fragmentación]]**: Puede causar problemas de [[Fragmentación]] externa

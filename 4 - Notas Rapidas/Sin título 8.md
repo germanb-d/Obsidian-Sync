@@ -1,8 +1,8 @@
 # Práctica Teórica 7
 
-1) Una transacción es un conjunto de operaciones unidas en una única unidad lógica de trabajo. Estas transacciones permite quitar gran parte de las cargas del programador, como en el manejo en entornos concurrentes; además permiten una mayor escalabidad de la BD y un mejor manejo de los fallos y las debidas recuperaciones ante este, entre muchas otras ventajas.
+1) Una transacción es un conjunto de operaciones unidas en una única unidad lógica de trabajo. Estas [[Transacciones]] permite quitar gran parte de las cargas del programador, como en el manejo en entornos concurrentes; además permiten una mayor escalabidad de la BD y un mejor manejo de los fallos y las debidas recuperaciones ante este, entre muchas otras ventajas.
 2) Se denomina una única unidad lógica de trabajo, en especial por una de sus propiedades que es la atomicidad, la que implica que una transacción se realiza en su totalidad o no se realiza, en caso de quedar una transacción a la mitad y datos sobrescritos se hace su debido UNDO ( retroceder hasta dejar la BD como estaba con anterioridad a la transacción).
-3) El aislamiento en el entorno monousuario es en gran parte trivial debido a la falta de transacciones en paralelo, esta propiedad de las transacciones se vuelve fundamental en entornos concurrentes para evitar fallos y asegurar una buena consistencia.
+3) El aislamiento en el entorno monousuario es en gran parte trivial debido a la falta de [[Transacciones]] en paralelo, esta propiedad de las [[Transacciones]] se vuelve fundamental en entornos concurrentes para evitar fallos y asegurar una buena consistencia.
 4) La modificación diferida es más fácil de implementar y menos costosa al hacer todas las escrituras a la vez y evitar la realización de UNDO en caso de caídas. Pero no hay que olvidar que esta es más lenta en su uso que la modificación inmediata.
 5) Un ejemplo sencillo podria ser una transferencia del saldo de una cuenta A a una cuenta B.
    A = 100 y B = 150
@@ -25,7 +25,7 @@ WRITE(B)
 COMMIT
 ```
 
-Donde se cae la base de datos, se generaría una inconsistencia. Porque al ser modificación inmediata en A quedaría almacenado 50, pero B seguiría siendo 150. A + B = 200
+Donde se cae la [[Base de Datos]], se generaría una inconsistencia. Porque al ser modificación inmediata en A quedaría almacenado 50, pero B seguiría siendo 150. A + B = 200
 
 6) Los puntos de verificación o checkpoints se usan para decir: "De acá para atrás está todo bien", por cuál a la hora de revisar la bitácora solo se revisará del checkpoint para delante.
 
@@ -33,9 +33,9 @@ Donde se cae la base de datos, se generaría una inconsistencia. Porque al ser m
 
 7) .
 
-	1) En caso de modificacion inmediata: Al revisar la bitácora aquellas transacciones que tengan un comienzo y fin (start y commit) se les realiza un REDO, o sea se sobrescriben los datos de la BD por los nuevos valores almacenados en la bitácora. Para las transacciones que tienen comienzo, pero no fin (start y no commit) se realiza un UNDO, se sobrescriben los valores de la BD por los valores antiguos almacenados en la bitácora con la intención de dejar la BD consistente a como estaba antes de la transacción.
+	1) En caso de modificacion inmediata: Al revisar la bitácora aquellas [[Transacciones]] que tengan un comienzo y fin (start y commit) se les realiza un REDO, o sea se sobrescriben los datos de la BD por los nuevos valores almacenados en la bitácora. Para las [[Transacciones]] que tienen comienzo, pero no fin (start y no commit) se realiza un UNDO, se sobrescriben los valores de la BD por los valores antiguos almacenados en la bitácora con la intención de dejar la BD consistente a como estaba antes de la transacción.
 
-	2) En caso de modificación diferida: Al revisar la bitácora aquellas transacciones que tengan un comienzo y fin (start y commit) se les realiza un REDO igual que en la inmediata. Para las transacciones que tienen comienzo, pero no fin (start y no commit) no se hace nada, debido a que no se modificó ningún dato en la BD.
+	2) En caso de modificación diferida: Al revisar la bitácora aquellas [[Transacciones]] que tengan un comienzo y fin (start y commit) se les realiza un REDO igual que en la inmediata. Para las [[Transacciones]] que tienen comienzo, pero no fin (start y no commit) no se hace nada, debido a que no se modificó ningún dato en la BD.
 
 	3) En caso de doble paginación: No sé
 
@@ -64,7 +64,7 @@ Donde se cae la base de datos, se generaría una inconsistencia. Porque al ser m
 
 En este ejemplo podemos ver como T 2 Pisa el dato de T 1, es aún más gráfico cuando desarrollamos un grafo de precedencia donde veríamos como se genera un ciclo al cada transacción deber realizarse antes que la otra.
 
-2) La mayor diferencia recae en el uso de checkpoints, en entornos recurrentes pueden que no se generen espacios sin transacciones para crear los checkpoint, por esto a la hora de crearlos a la vez se crea una lista de las transacciones que están siendo ejecutadas en el momento de crear el checkpoint.Así si se llega a caer la base de datos puedo decir: revisa a partir del checkpoint para delante y para detrás del checkpoint solo revisa las transacciones de esta lista.
+2) La mayor diferencia recae en el uso de checkpoints, en entornos recurrentes pueden que no se generen espacios sin [[Transacciones]] para crear los checkpoint, por esto a la hora de crearlos a la vez se crea una lista de las [[Transacciones]] que están siendo ejecutadas en el momento de crear el checkpoint.Así si se llega a caer la [[Base de Datos]] puedo decir: revisa a partir del checkpoint para delante y para detrás del checkpoint solo revisa las [[Transacciones]] de esta lista.
 3) .
 	1) Podria demostrar la consistencia diciendo que tanto al ejecutarse T 0 -> T 1 o T 1- > T 0 en ambos casos B u A quedan 1 y 0, o 0 y 1 siendo ambos respuestas consistentes.
 
@@ -97,15 +97,15 @@ T1: Write(A)
 	2) En la fase de 2 de decrecimiento se van liberando los bloqueos, empezando pasando del bloqueo exclusivo al compoartido y posteriormente a desbloquear el dato. Tambien puede terminar totalmente con los bloqueos con el commit o abort.
 5) no se toman lo relacionado con las marcas de tiempo
 6) no se toman lo relacionado con las marcas de tiempo
-7) En este caso se debe revisar la bitacora aquellas transacciones que tengan un comienzo y fin (start y commit) se les realiza un REDO, o sea se sobrescriben los datos de la BD por los nuevos valores almacenados en la bitácora. Para las transacciones que tienen comienzo, pero no fin (start y no commit) no se hace nada, debido a que no se modificó ningún dato en la BD.
+7) En este caso se debe revisar la bitacora aquellas [[Transacciones]] que tengan un comienzo y fin (start y commit) se les realiza un REDO, o sea se sobrescriben los datos de la BD por los nuevos valores almacenados en la bitácora. Para las [[Transacciones]] que tienen comienzo, pero no fin (start y no commit) no se hace nada, debido a que no se modificó ningún dato en la BD.
 
 # Primer Parcial
 
 1) Las 4 propiedaes son:
-	1) Atomicidad: Se realiza toda la transaccion o no se realiza, se ve aplicado a la hora de recuperar transacciones que estaban a medias por una caida, siempre se decide si volverla a empezar o abortarla pero jamas quedan datos procesados a medias
+	1) Atomicidad: Se realiza toda la transaccion o no se realiza, se ve aplicado a la hora de recuperar [[Transacciones]] que estaban a medias por una caida, siempre se decide si volverla a empezar o abortarla pero jamas quedan datos procesados a medias
 	2) Consistencia: La BD debe ser consistente, si dos saldos de cuenta suman 100, despues de una transferencia deben seguir siendo 100. Se ve aplicado en el uso de planificaciones que cumplan con serialidad para garantizar esto.
-	3) Aislamiento: Aunque trivial en el entornos monousuario en entornos concurrentes se vuevle fundamental para que una transacciones no se vean diferidades por la ejecucion de otras transacciones, esto se logra con el uso de bloqueos.
-	4) Durabilidad: Las transacciones deben ser permanentes, deben quedar almacenadas y registradas. Ademas del uso de una memoria no volatil para la BD, esto se vuelve fundamental para el procesamiento en memoria volatil donde se usa una bitacora para garantizar la durabilidad de toda transaccion.
+	3) Aislamiento: Aunque trivial en el entornos monousuario en entornos concurrentes se vuevle fundamental para que una [[Transacciones]] no se vean diferidades por la ejecucion de otras [[Transacciones]], esto se logra con el uso de bloqueos.
+	4) Durabilidad: Las [[Transacciones]] deben ser permanentes, deben quedar almacenadas y registradas. Ademas del uso de una memoria no volatil para la BD, esto se vuelve fundamental para el procesamiento en memoria volatil donde se usa una bitacora para garantizar la durabilidad de toda transaccion.
 2) La diferencia es que en la Parcialmente Cometida se realizaron todas las operaciones pero la transaccion aun no esta comitieada, osea no esta respaldada en una memoria no volatil como la bitacora, caso contrario a la Cometida que si lo esta, llego al commit.
 3) Porque si yo primero grabo en la BD y luego en la bitacora podria generar que en una hipotetica caida de la base, al levantar nuevamente la BD tenga datos que fueron almacenados por una transaccion en curso pero al no estar respaldara en la bitacora no hay forma de hacer un UNDO de estos elementos o determinar si ya habia terminado la transaccion o no. Ademas que siempre es mas rapida la escritura en la bitacora que en la BD
 4) Cuando nosotros hacemos un read/white la BD busca el dato o lo almacena en el buffer de la BD, en caso de querer usar un dato y no estar ahi lo buscara en disco, pero es fundamental entender que aca no lo controlamoss nosotros, si hacemos un write este se grabara en el buffer la decsion de cuando se traslarada adisco queda en la BD. El imput/output se usa para sacar y almacenar directamente del disco ( la memoria no volatil)
@@ -137,12 +137,12 @@ T1: Write(A)
 	1) El proposito principal del bloqueo en dos fases es poder crear una planificacion serializable mediente el uso correcto de los bloqueos:
 	2)    En la primera fase de crecimiento se van creando los bloqueos, ya sea compartidos, exclusivos o aumentando de forma progrsiva de uno al otro. Lo principal  es que aca no se cierra ningun bloqueo.
 	   En la segunda fase de decrecimiento se van liberando los bloqueos, ya sa de forma directa o decreciendo. Lo principal es que aca no se crea ningun nuevo bloqueo.
-	3) Garantiza el Aislamiento de las transacciones, permitiendo generar un orden correcto que sea equivalente a una planificacion en seri
+	3) Garantiza el Aislamiento de las [[Transacciones]], permitiendo generar un orden correcto que sea equivalente a una planificacion en seri
 	4) No soluciona los conflictos en sentido de que estos seguiran estando, solo se ordenan de tal manera para que no sucedan. Ademas de que no arregla errores de logica.
 10) .
 	1) Se genera un interbloqueo o deadlock.
 	2) No puedo dibujar al estar haciendo lo en pc, pero serian dos puntos por cada transaccion y dos aristas donde se apuntarian entre si, porque ambas esperan a la otra.
-	3) Primero se deberia buscar prevenirlo ya sea que cada transaccion pida todos los datos al comienzo (mas ineficiente) o darle un orden de "prioridad" a los datos, donde las transacciones siempre empezarian por A, luego B, etc. Una vez que ya se dio no queda otra que elegir una "victima" que sera la transaccion que se va a abortar, para elegirla nos podemos basar en varios parametros desde cual tiene menos operaciones, cual usa menos datos, cual es mas rapida, etc.
+	3) Primero se deberia buscar prevenirlo ya sea que cada transaccion pida todos los datos al comienzo (mas ineficiente) o darle un orden de "prioridad" a los datos, donde las [[Transacciones]] siempre empezarian por A, luego B, etc. Una vez que ya se dio no queda otra que elegir una "victima" que sera la transaccion que se va a abortar, para elegirla nos podemos basar en varios parametros desde cual tiene menos operaciones, cual usa menos datos, cual es mas rapida, etc.
 	4) Creo que en este caso daria igual, pero elegiria T 1 porque para prevenir el proximo deadlock deberia empezar por A?
 11) .
 
@@ -198,7 +198,7 @@ T1: Write(A)
 
 1) .
 	1) Esta memoria solo es utilizada en la ejecucion de la transacccion, para la realizacion de operaciones. Es volatil, nos la podriamos imaginar como "la memoria cache"
-	2) Esta memoria es utilizada por la BD y maneja una gran cantidad de transacciones y datos. Sirve como punto intermedio entre la transaccion y el disco. Al igual que la anterior es volatil, pero esta es mas utilizada como una "memoria Ram". Aca se suelen grabar los datos con Write y leer con Read.
+	2) Esta memoria es utilizada por la BD y maneja una gran cantidad de [[Transacciones]] y datos. Sirve como punto intermedio entre la transaccion y el disco. Al igual que la anterior es volatil, pero esta es mas utilizada como una "memoria Ram". Aca se suelen grabar los datos con Write y leer con Read.
 	3) Aca es donde se almacena toda la informacion de la BD de forma permanente, las tablas, los datos, la bitacora, etc. Es no volatil, pero no se busca entrar y salir permanentemente por su falta de velocidad en comparasion con los otros dos tipos de memoria. Se usa con imput para leer datos y con output para grabar datos.
 2) .
 	1) Se modifica con el WRITE ( A, a 1)
@@ -207,6 +207,6 @@ T1: Write(A)
 	4) Podria recien ir a partir del commit
 3) Si se diera esto, en caso de una caida esta transaccion al no tener el Commit grabado se le haria un UNDO. Esto tambien podria llevar a una eliminacion en cascada?
 4) .
-	1) Requieren REDO: T 1 . Es la unica que llega al commit de las transacciones a revisar posterior al checkpoint (se encuentra en la lista a la hora de realizar el checkpoint)
+	1) Requieren REDO: T 1 . Es la unica que llega al commit de las [[Transacciones]] a revisar posterior al checkpoint (se encuentra en la lista a la hora de realizar el checkpoint)
 	2) Se ignoran T 2 y T 3 porque quedaron a medias
 	3) X = 10, Y =

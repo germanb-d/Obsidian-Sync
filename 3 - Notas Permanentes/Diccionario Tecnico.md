@@ -58,8 +58,8 @@ tags:
         → Las radios antiguas tienen perillas para ajustar la frecuencia.
 
 8.  **Strongly typed** ← *Fuertemente tipado*
-    -   Ejemplo: *Java is a **strongly typed** language, so you must declare the variable type.*
-        → Java es un lenguaje fuertemente tipado, por lo que debes declarar el tipo de variable.
+    -   Ejemplo: *[[Java]] is a **strongly typed** language, so you must declare the variable type.*
+        → [[Java]] es un lenguaje fuertemente tipado, por lo que debes declarar el tipo de variable.
 9.  **Library support** ← *Soporte de librerías*
     -   Ejemplo: *Python is popular for data science because of its extensive **library support**.*
         → Python es popular para la ciencia de datos debido a su amplio soporte de librerías.
@@ -96,7 +96,7 @@ tags:
     -   Ejemplo: *The OS allows users to communicate with the computer.*
         → El sistema operativo permite que los usuarios se comuniquen con la computadora.
 4.  **Run** ← *Ejecutar / correr*
-    -   Ejemplo: *You need to run the installer file to set up the software.* → Tenés que ejecutar el archivo de instalación para configurar el programa.
+    -   Ejemplo: *You need to run the installer file to set up the software.* → Tenés que ejecutar el [[Archivo]] de instalación para configurar el programa.
 5.  **Save** ← *Guardar*
     -   Ejemplo: *Don't forget to save your work before you close the program.* → No te olvides de guardar tu trabajo antes de cerrar el programa.
 6.  **Store** ← *Almacenar / guardar*
@@ -207,7 +207,7 @@ tags:
         → En pocas palabras, la actualización soluciona problemas de seguridad.
 12. **Since** ← *Dado que / Ya que* (cuando explica una razón)
     -   Ejemplo: ***Since** the file is corrupted, we cannot open it.*
-        → Dado que el archivo está corrupto, no podemos abrirlo.
+        → Dado que el [[Archivo]] está corrupto, no podemos abrirlo.
 
 To define the type of each variable
 

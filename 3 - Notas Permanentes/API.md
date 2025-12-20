@@ -18,11 +18,11 @@ En lugar de que cada programador tenga que crear desde cero las mismas funcional
 
 ## Ejemplos En Java:
 
-Java provee un gran conjunto de APIs para utilizar en nuestros programas:
+[[Java]] provee un gran conjunto de APIs para utilizar en nuestros programas:
 
-- **Collections API** - Para manejar colecciones de datos
+- **Collections API** - Para manejar [[Colecciones]] de datos
 - **Exception API** - Para manejo de errores
-- **AWT/Swing API** - Para interfaces gráficas
+- **[[AWT]]/[[Swing]] API** - Para [[Interfaces]] gráficas
 - **IO API** - Para entrada/salida de datos
 - **Network API** - Para comunicaciones de red
 

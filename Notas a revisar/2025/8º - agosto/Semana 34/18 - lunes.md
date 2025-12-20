@@ -19,7 +19,7 @@ Datos Derivados -> Se obtienen con lógica a partir de otros datos (como sacar l
 
 #### Ventaja
 
-Es más fácil saber cuanto debo en la cuenta o la tarjeta si tengo un dato de `SaldoActual` a tener que procesar todas las transacciones para averiguar el saldo. Si digo que tengo la cuenta hace 20 años, esto implicaría trabajar con millones de cálculos algebraicos para determinar el saldo.
+Es más fácil saber cuanto debo en la cuenta o la tarjeta si tengo un dato de `SaldoActual` a tener que procesar todas las [[Transacciones]] para averiguar el saldo. Si digo que tengo la cuenta hace 20 años, esto implicaría trabajar con millones de cálculos algebraicos para determinar el saldo.
 
 #### Desventaja
 
@@ -40,7 +40,7 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 			- Del lado de la identidad original queda la misma cardinalidad que habia.
 			- Del lado de la nueva identidad queda (1, X) puede ser 1,2,3..... N depende el caso
 - **Eliminación de Jerarquías de Generalización**
-	- Guardar todo en la clase padre. Genera muchos atributos y relaciones opcionales, más un atributo `Tipo`.  En caso de jerarquías parciales también necesitaría un `TipoAmbos` o separar en `Hijo1` e `Hijo2` los atributos.
+	- Guardar todo en la [[Clase]] padre. Genera muchos atributos y relaciones opcionales, más un atributo `Tipo`.  En caso de jerarquías parciales también necesitaría un `TipoAmbos` o separar en `Hijo1` e `Hijo2` los atributos.
 	- Eliminar al padre y quedarme con los hijos. Se repiten los atributos y las relaciones en todos los hijos. `[!!info|La relación debe ser total|var(--color-orange-rgb)]`. Si la relación además es superpuesta, puedo generar inconsistencias al tener datos redundantes.
 	- Relacionar `Padre` con los hijos con Es Un. Abajo (del lado del hijo) siempre es 1;1 y arriba (del lado del padre) siempre es 0; 1. Siempre tendrá una clave totalmente externa en la relación. La clave es necesaria para saber cuál es el padre del hijo.
 

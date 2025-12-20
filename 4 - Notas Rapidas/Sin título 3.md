@@ -10,19 +10,19 @@
 	1) System
 	2) Hash
 4) **Underline the head noun and translate these noun phrases:**
-	1) Un digital, libro mayor o libro record
+	1) Un digital, [[Libro]] mayor o [[Libro]] record
 	2) Una gran red de computadoras alrededor del mundo
 	3) El codigo criptografico unico llamado un hash
 	4) Sus potenciales usuarios son mas extensos
 5) **Choose the most appropriate translation for these expressions:**
 	1) Desventajas
-	2) libro mayor
+	2) [[Libro]] mayor
 	3) Alternar
 6) **According to the text, why is blockchain considered very secure? Explain in 2-3 sentences.**
 	1) The ledger of the Blockchain isn't stored in one single location.
 	2) Verify every transaction with solving complex mathematical puzzles.
 	3) The ledger of the Blockchain is public.
-7) **Complete with the present simple form of the verbs in brackets:**
+7) **Complete with the [[Present Simple]] form of the verbs in brackets:**
 	1) is
 	2) solve
 	3) haves
@@ -118,7 +118,7 @@
 	1. Núcleo
 	2. Vasto
 	3. Obstáculo
-6. **Complete with the present simple or present continuous form of the verbs in brackets**
+6. **Complete with the [[Present Simple]] or present continuous form of the verbs in brackets**
 	1. Are collecting
 	2. Are installing
 	3. Don't understand
@@ -132,7 +132,7 @@
 	2. My smartwatch can monitor my heart rate.
 	3.  You should change the default password on your router
 	4. The sensor may be broken
-	5. The light doesn't have to be on when nobody is in the room
+	5. The light doesn't have [[To be]] on when nobody is in the room
 9. **Complete with the COMPARATIVE or SUPERLATIVE form of the adjectives in brackets**
 	1. Faster than
 	2. The most important

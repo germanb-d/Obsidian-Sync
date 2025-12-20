@@ -61,7 +61,7 @@ Al realizar una venta no tengo conocimiento de que sucede con esa venta.
 > [!example] Ejemplo
 > Si sos un vendedor que le vende a minoristas (osea sos mayorista) no podes estar al tanto del cliente final del minorista, esto te puede generar problematicas.
 
-Muchas empresas prefieren "regalar" un sistema a sus clientes minoristas para poder llevar un registro de los consumidores y las ventas. Así podrás manejar tu relación con tu cliente minorista, tener más poder en esta.
+Muchas empresas prefieren "regalar" un sistema a sus clientes minoristas para poder llevar un [[Registro]] de los consumidores y las ventas. Así podrás manejar tu relación con tu cliente minorista, tener más poder en esta.
 
 *Mientras más pueda extender mi sistema de información y mis procesos al exterior mejor*
 
@@ -78,7 +78,7 @@ Consolidar a una misma empresa que esté dividida en distintos países/monedas/i
 ### Ventajas
 
 - Un único producto
-- Una sola base de datos
+- Una sola [[Base de Datos]]
 - Estandarización de Procesos
 - Reducir tiempos de solución
 - Involucrar a toda la organización

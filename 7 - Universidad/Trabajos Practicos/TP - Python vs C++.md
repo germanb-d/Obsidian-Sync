@@ -15,7 +15,7 @@ Tags:
 	1. a. Python is ideal for programming beginners, because [[python-vs-cplusplus-comparison-guide.pdf#page=1&selection=33,16,33,63&color=note|The focus on simple and easy-to-understand code]]
 	2. b. Python is a good option when you want your code to work in different devices, due to the fact that [[python-vs-cplusplus-comparison-guide.pdf#page=1&selection=62,111,64,27&color=note|its compatibility with numerous other languages facilitates effortless integration, simplifying the development process and fostering interoperability.]]
 	3. Being an open source language means that resources to learn Python ___________________________________________ _ _ _ _ _ _ and its users are encouraged to _ _ _ _ _ _ _ _
-	4.  [[python-vs-cplusplus-comparison-guide.pdf#page=2&selection=21,19,22,1&color=note|Python’s relatively high memory consumption]] _,which may cause problems when something has a high memory requirement. e. The reason why it’s necessary to be extremely careful when testing code written in Python is [[python-vs-cplusplus-comparison-guide.pdf#page=2&selection=27,16,28,14&color=note|As a dynamically-typed language, Python poses a higher risk of errors, which may only become apparent during runtime]]
+	4.  [[python-vs-cplusplus-comparison-guide.pdf#page=2&selection=21,19,22,1&color=note|Python’s relatively high memory consumption]] _,which may cause problems when something has a high memory requirement. e. The reason why it’s necessary [[To be]] extremely careful when testing code written in Python is [[python-vs-cplusplus-comparison-guide.pdf#page=2&selection=27,16,28,14&color=note|As a dynamically-typed language, Python poses a higher risk of errors, which may only become apparent during runtime]]
 	5. C++ and Python have different uses, while C++ [[python-vs-cplusplus-comparison-guide.pdf#page=2&selection=56,5,70,25&color=note|is commonly employed in large-scale projects and low-level hardware programming. It is also well-suited for building extensive games.]], Python finds its strength in software development and web applications. It is widely used in machine learning and artificial intelligence.
 3.  Match the expressions with the ones that replace them (highlighted in yellow)
 	1. Projects that demand a lot of memory SUCH SCENARIOS
@@ -67,7 +67,7 @@ Aquí tienes la traducción de las expresiones solicitadas:
 5.  **stands out** = se destaca / se distingue
 6.  **provides valuable support** = brinda / proporciona un apoyo valioso
 7.  **gained significant traction** = ha ganado un impulso significativo / ha cobrado gran popularidad
-8.  **excels in the domains of** = se destaca en el ámbito de / sobresale en el campo de
+8.  **excels in the domains of** = se destaca en el ámbito de / sobresale en el [[Campo]] de
 9.  **Is one of its major drawbacks** = Es una de sus principales desventajas
 10. **detect and address issues** = detectar y solucionar/abordar problemas
 11. **outperforms** = supera en rendimiento / rinde más que

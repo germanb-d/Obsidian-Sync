@@ -20,7 +20,7 @@ Son los pronombres en inglés:
 
 # 1st Person
 
-The first person refers to the speaker or writer of the sentence. It uses pronouns like "I," "me," "my," "mine," and "myself" in the **singular**, and "we," "us," "our," "ours," and "ourselves" in the **plural**.
+The first person refers to the speaker or writer of the sentence. It uses [[Pronouns]] like "I," "me," "my," "mine," and "myself" in the **singular**, and "we," "us," "our," "ours," and "ourselves" in the **plural**.
 
 I -> Yo (singular)
 
@@ -32,7 +32,7 @@ Example: We
 
 # 2nd Person
 
-The second person refers to the person being addressed. It uses pronouns like "you," "your," "yours," and "yourself" in both singular and plural forms.
+The second person refers to the person being addressed. It uses [[Pronouns]] like "you," "your," "yours," and "yourself" in both singular and plural forms.
 
 You -> Usted, Tú / Ustedes (singular y plural)
 
@@ -42,7 +42,7 @@ Example: You all are students.
 
 # 3rd Person
 
- The third person refers to someone or something other than the speaker or the person being addressed. It uses pronouns like "he," "him," "his," "himself," "she," "her," "hers," "herself," "it," "its," "itself" in the **singular**, and "they," "them," "their," "theirs," and "themselves" in the **plural**.
+ The third person refers to someone or something other than the speaker or the person being addressed. It uses [[Pronouns]] like "he," "him," "his," "himself," "she," "her," "hers," "herself," "it," "its," "itself" in the **singular**, and "they," "them," "their," "theirs," and "themselves" in the **plural**.
 
 He -> El (singular)
 

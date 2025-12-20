@@ -88,5 +88,5 @@ Acá el objeto **recibe una orden (Tell)** y **decide internamente** cómo cumpl
 _Tell don’t ask_ = **decile al objeto qué hacer, no le preguntes para hacerlo vos por él**.
 
 - Evita romper encapsulamiento.
-- Centraliza la lógica dentro de la clase.
-- Se apoya en el polimorfismo y el method lookup.
+- Centraliza la lógica dentro de la [[Clase]].
+- Se apoya en el [[Polimorfismo]] y el [[Method Lookup]].

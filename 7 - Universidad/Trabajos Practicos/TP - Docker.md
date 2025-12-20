@@ -278,7 +278,7 @@ FROM nginx:alpine
 COPY index.html /usr/share/nginx/html/index.html
 ```
 
-**COPY**: Copia el archivo `index.html` desde tu directorio local al directorio donde Nginx sirve archivos web dentro del contenedor.
+**COPY**: Copia el [[Archivo]] `index.html` desde tu directorio local al directorio donde Nginx sirve archivos web dentro del contenedor.
 
 ```dockerfile
 # Exponer el puerto 80

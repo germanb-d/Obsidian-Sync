@@ -351,7 +351,7 @@ public class EjemploClaseLocal {
 | -------------------------- | --------------------- | ------------------------------------- | --------------------------- | --------------------------------------------------------- |
 | **Instanciación**          | ✓ Se puede instanciar | ✗ No se puede instanciar directamente | ✓ Se puede instanciar       | ✓ Se instancia automáticamente                            |
 | **[[Herencia]]**           | ✓ Puede heredar       | ✓ Diseñada para ser heredada          | ✓ Puede heredar             | ✓ Hereda o implementa                                     |
-| **Reutilización**          | ✓ Se puede reutilizar | ✓ Se reutiliza por herencia           | ✓ Se puede reutilizar       | ✗ No se puede reutilizar                                  |
+| **Reutilización**          | ✓ Se puede reutilizar | ✓ Se reutiliza por [[Herencia]]           | ✓ Se puede reutilizar       | ✗ No se puede reutilizar                                  |
 | **Acceso a clase externa** | ✓ Acceso completo     | N/A                                   | ✗ Solo a miembros estáticos | ✓ Acceso a variables final/effectively final y atributos. |
 | **Nombre**                 | Tiene nombre          | Tiene nombre                          | Tiene nombre                | No tiene nombre                                           |
 | **Uso principal**          | Encapsulación interna | Plantillas/contratos                  | Utilidades independientes   | Implementaciones rápidas                                  |

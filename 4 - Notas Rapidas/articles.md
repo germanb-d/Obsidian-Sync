@@ -11,7 +11,7 @@ tags:
 
 - Se usa para referirse a algo específico o ya mencionado
 - Ejemplos:
-    - **The** book on the table (el libro en la mesa - uno específico)
+    - **The** book on the table (el [[Libro]] en la mesa - uno específico)
     - **The** sun rises in the east (el sol - único)
     - **The** president of the country (el presidente - específico)
 

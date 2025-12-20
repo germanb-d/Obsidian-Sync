@@ -8,15 +8,15 @@ tags:
 
 Swing es una segunda generación de herramientas para el desarrollo de GUI. Incluida en el [[Java#JDK - Java Development Kit (Plataforma De Desarrollo)|JDK]]
 
-Las componentes Swing reemplazan a las [[AWT|AWT]] y permiten construir interfaces
+Las componentes Swing reemplazan a las [[AWT|AWT]] y permiten construir [[Interfaces]]
 
 De usuario de alta calidad.
 
-Swing provee múltiples componentes de GUI que no están presentes en el AWT: fichas, barras de herramientas, tablas, árboles, cajas de diálogo, etc.
+Swing provee múltiples componentes de GUI que no están presentes en el [[AWT]]: fichas, barras de herramientas, tablas, árboles, cajas de diálogo, etc.
 
 **Ventajas de Swing**:
 
-- **Lightweight**: Dibujado en Java, no usa componentes nativos
+- **Lightweight**: Dibujado en [[Java]], no usa componentes nativos
 - **Consistente**: Mismo aspecto en todas las plataformas
 - **Más componentes**: JTable, JTree, JTabbedPane, JSplitPane, etc.
 - **Personalizable**: Look and Feel configurable (Metal, Nimbus, etc.)
@@ -30,7 +30,7 @@ Donde hay Contenedores (Container), Componentes (Component) y Layouts
 
 El layout se le aplica a los Containers para generar una división, permitiendo cosas como:
 
-![[AWT-1756334397967.webp|278x284]]
+![[[[AWT]]-1756334397967.webp|278x284]]
 
 Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una de ellas podría contener otros contenedores o componentes como botón, lista, etc.
 
@@ -41,13 +41,13 @@ Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una 
 
 ## Contenedores
 
-![[GUI en Java-1755726057350.webp]]
+![[GUI en [[Java]]-1755726057350.webp]]
 
 ![[Swing-1759415395277.webp]]
 
-`Container` es una **clase abstracta base** de la que heredan `JFrame`, `JPanel`, `JDialog`, etc.
+`Container` es una **[[Clase]] abstracta base** de la que heredan `JFrame`, `JPanel`, `JDialog`, etc.
 
-- Tan solo se suele declarar algo de tipo `container` para **dar generalidad**, igual que `Object` lo es para todos los objetos en Java. Usualmente, se usan sus subclases.
+- Tan solo se suele declarar algo de tipo `container` para **dar generalidad**, igual que `Object` lo es para todos los objetos en [[Java]]. Usualmente, se usan sus subclases.
 - Sirve cuando no te importa el tipo concreto del contenedor, sino que solo querés trabajar con él como "algo que puede contener componentes".
 
 ### ScrollPane
@@ -109,7 +109,7 @@ frame.add(panel);
 
 Era un contenedor especial para ejecutar en navegadores (ya obsoleto).
 
-Permitía incrustar aplicaciones Java en páginas web.
+Permitía incrustar aplicaciones [[Java]] en páginas web.
 
 Hoy casi no se usa.
 
@@ -139,11 +139,11 @@ Este Layout ofrece un esquema complejo para la ubicación de componentes en un c
 
 ![[Swing-1756656747322.webp]]
 
-`{java} new BorderLayout();` : Constructor por defecto sin espacio entre regiones.
+`{[[Java]]} new BorderLayout();` : Constructor por defecto sin espacio entre regiones.
 
-`{java} new BorderLayout(hgap,vgap);` : Constructor con espacio entre los componentes.
+`{[[Java]]} new BorderLayout(hgap,vgap);` : Constructor con espacio entre los componentes.
 
-`{java} contenedor.add(button,BorderLayout.NORTH);` Agrega el componente `button` en la región norte del contenedor.
+`{[[Java]]} contenedor.add(button,BorderLayout.NORTH);` Agrega el componente `button` en la región norte del contenedor.
 
 > [!danger] Un componente por región
 > Se puede agregar solo un componente por región. Si se agregan más de una en una misma región, solo la última quedará visible
@@ -180,7 +180,7 @@ El ancho de todas las celdas es idéntico y está determinado por el resultado d
 
 El orden en que los componentes se agregan a la grilla determina la celda que se ocupa. Las celdas se ocupan de izquierda a derecha y de arriba hacia abajo.
 
-`{java}new GridLayout(int rows, int cols, int hgap, int vgap);`
+`{[[Java]]}new GridLayout(int rows, int cols, int hgap, int vgap);`
 
 - `rows` Son las filas
 - `cols` Son las columnas
@@ -202,13 +202,13 @@ new GridLayout(3,0); //Indica 3 filas y cantidad flexible de columnas
 
 ## Components
 
-![[GUI en Java-1755725462126.webp]]
+![[GUI en [[Java]]-1755725462126.webp]]
 
 ![[Swing-1759415476379.webp]]
 
 Se le llama Componentes a todo lo que baja de `MenuComponent` y `Component`.
 
-Los componentes básicos de Swing son subclases de “Container” (las AWT son subclases de `component`) por lo tanto, están capacitadas para contener a otras componentes
+Los componentes básicos de Swing son subclases de “Container” (las [[AWT]] son subclases de `component`) por lo tanto, están capacitadas para contener a otras componentes
 
 > Las componentes de GUI básicas y los contenedores, heredan de Component una cantidad de métodos y variables de instancia.
 
@@ -216,13 +216,13 @@ Los componentes [[JList y JTable]] se explicarán aparte por su extensión.
 
 ### Tipos De Componentes Básicos
 
-![[GUI en Java-1755726018448.webp]]
+![[GUI en [[Java]]-1755726018448.webp]]
 
 #### Button - Botón
 
-![[GUI en Java-1755726246539.webp|0x0]]
+![[GUI en [[Java]]-1755726246539.webp|0x0]]
 
-La clase Button es una clase que produce una componente de tipo botón con una etiqueta (texto) que se visualizará.
+La [[Clase]] Button es una [[Clase]] que produce una componente de tipo botón con una etiqueta (texto) que se visualizará.
 
 **Métodos más importantes:**
 - `AddActionListener ()`: añade un receptor de eventos de tipo Action producidos por el botón
@@ -232,13 +232,13 @@ La clase Button es una clase que produce una componente de tipo botón con una e
 
 #### ComboBox - Botones De Elección
 
-![[GUI en Java-1755726287106.webp|241x60]]
+![[GUI en [[Java]]-1755726287106.webp|241x60]]
 
 Los botones de selección en una lista (choice) permiten el rápido acceso a una lista de elementos. Por ejemplo, podríamos implementar una selección de colores y mantenerla en un botón Choice.
 
 #### CheckBox - Botones De Marcación
 
-![[GUI en Java-1755726651629.webp|172x57]]
+![[GUI en [[Java]]-1755726651629.webp|172x57]]
 
 La de comprobación (Checkbox) se utilizan frecuentemente como botones de estado. Proporcionan información del tipo Sí o No (true o false). El estado del botón se devuelve en el argumento `Object` de los eventos `Checkbox`; el argumento es de tipo booleano: verdadero (true) si la caja se ha seleccionado y falso (false) en otro caso.
 
@@ -246,25 +246,25 @@ Tanto el nombre como el estado se devuelven en el argumento del evento, aunque s
 
 #### CheckboxGroup - Botones De Selección
 
-![[GUI en Java-1755726918532.webp|423x61]]
+![[GUI en [[Java]]-1755726918532.webp|423x61]]
 
 Los botones de comprobación se pueden agrupar para formar una interfaz de botón de radio(CheckboxGroup), que son agrupaciones de botones Checkbox en las que siempre hay un único botón activo.
 
 #### Labels - Etiquetas
 
-![[GUI en Java-1755796030296.webp|303x202]]
+![[GUI en [[Java]]-1755796030296.webp|303x202]]
 
 Las etiquetas (Label) proporcionan una forma de colocar texto estático en un panel, para mostrar información que normalmente no varía, al usuario.
 
 #### List - Listas
 
-![[GUI en Java-1755796105335.webp]]
+![[GUI en [[Java]]-1755796105335.webp]]
 
-Las listas (List) aparecen en los interfaces de usuario para facilitar a los operadores la manipulación de muchos elementos. Se crean utilizando métodos similares a los de los botones choice. La lista es visible todo el tiempo, utilizándose una barra de desplazamiento para visualizar los elementos que no caben en el área que aparece en la pantalla.
+Las listas (List) aparecen en los [[Interfaces]] de usuario para facilitar a los operadores la manipulación de muchos elementos. Se crean utilizando métodos similares a los de los botones choice. La lista es visible todo el tiempo, utilizándose una barra de desplazamiento para visualizar los elementos que no caben en el área que aparece en la pantalla.
 
 #### TextField - Campos De Texto
 
-![[GUI en Java-1755796677447.webp|517x302]]
+![[GUI en [[Java]]-1755796677447.webp|517x302]]
 
 ```java
 import java.awt.*;
@@ -287,7 +287,7 @@ public class CAmpoTexto {
 
 #### TextArea - Áreas De Texto
 
-![[GUI en Java-1755796723732.webp|440x342]]
+![[GUI en [[Java]]-1755796723732.webp|440x342]]
 
 Permite incorporar texto multilínea dentro de zonas de texto (TextArea). Los objetos TextArea se utilizan para elementos de texto que ocupan más de una línea, como puede ser la presentación tanto de texto editable como de solo lectura.
 
@@ -295,13 +295,13 @@ Para las áreas de texto hay que especificar el número de columnas.
 
 #### Scrollbar - Barra De Desplazamiento
 
-![[GUI en Java-1755796817956.webp]]
+![[GUI en [[Java]]-1755796817956.webp]]
 
 En determinada situación se necesitan realizar el ajuste de valores lineales en pantalla, resulta útil el uso de barras de desplazamiento. Proporcionan una forma de trabajar con rangos de valores o de áreas, como el componente TextArea, que proporciona dos barras de desplazamiento automáticamente.
 
 #### JOptionPane - Ventana De Dialogo
 
-Swing también provee una clase que automatiza muchas de las actividades que un programador haría para crear ventanas de diálogo: `JOptionPane`. Esta clase tiene muchos métodos de clase que permiten crear diálogos con íconos, mensajes, campos de entrada y botones.
+Swing también provee una [[Clase]] que automatiza muchas de las actividades que un programador haría para crear ventanas de diálogo: `JOptionPane`. Esta [[Clase]] tiene muchos métodos de [[Clase]] que permiten crear diálogos con íconos, mensajes, campos de entrada y botones.
 
 Todos los diálogos creados con JOptionPane, son modales. Por lo cual bloquean las acciones del padre.
 

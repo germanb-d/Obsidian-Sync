@@ -85,9 +85,9 @@ public CuentaAhorros(float saldo, float tasaAnual) {
 ### Constructores Heredados
 
 - Los constructores **no se heredan**.
-- Si no definís uno en la subclase, Java crea un constructor vacío por defecto.
+- Si no definís uno en la subclase, [[Java]] crea un constructor vacío por defecto.
 - Para **reutilizar el constructor del padre**, usa `super(...)`.
-- Para reutilizar otro constructor de la misma clase, usa `this(...)`.
+- Para reutilizar otro constructor de la misma [[Clase]], usa `this(...)`.
 
 #### Orden De Ejecución En la Jerarquía:
 

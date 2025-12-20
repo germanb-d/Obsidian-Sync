@@ -48,7 +48,7 @@ For instance = for example
 	1. A comparative adjective: trickier
 	2. Two modal verbs (indicate what extra layer of meaning they are adding):
 	3. A verb in the present continuous form:
-	4. A verbs in the present simple form:
+	4. A verbs in the [[Present Simple]] form:
 	5. An expression that means: “Sabés exactamente dónde estás.”:
 5. **Find the Spanish equivalent of the expressions highlighted in green.**
 	1. figure out -> Comprender

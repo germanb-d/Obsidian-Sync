@@ -22,7 +22,7 @@ El Modelo se encarga de almacenar y administrar los datos de la aplicación. Ini
 
 *   Representa los [[POO - Programación Orientada a Objetos#^kfgnea|objetos]] del dominio (ej: Persona, Producto, Usuario).
 *   Contiene los atributos y la lógica de negocio de estos objetos.
-*   Se comunica con la base de datos para persistir y recuperar datos.
+*   Se comunica con la [[Base de Datos]] para persistir y recuperar datos.
 
 > [!warning] A tener en cuenta
 > Los modelos deben limitarse a getters, setters, el método `equals` y métodos particulares para modificar booleanos. La lógica de creación y manipulación de los objetos residirá en el Controlador.

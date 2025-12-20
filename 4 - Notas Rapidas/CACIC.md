@@ -215,7 +215,7 @@ Usar Commmunity Edition de manera local
 
 Thing Board
 
-Lenguaje de Java VHL ?
+Lenguaje de [[Java]] VHL ?
 
 ## Edge Computing
 

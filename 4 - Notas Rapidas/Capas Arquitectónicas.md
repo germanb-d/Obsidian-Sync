@@ -58,7 +58,7 @@ De esta forma:
 
 - La **capa de Presentación** utiliza MVC para separar Vista, Controlador y Modelo. Junto con patrones como el [[Facade]].
 - El **Modelo en MVC** puede apoyarse en [[DTO - Data Transfer Object]] o clases de dominio simplificadas para que la UI no dependa de toda la complejidad interna.
-- El **Controlador en MVC** puede servirse de un **Facade** para comunicarse con la lógica de aplicación sin exponer la complejidad al usuario.
+- El **Controlador en MVC** puede servirse de un **[[Facade]]** para comunicarse con la lógica de aplicación sin exponer la complejidad al usuario.
 
 #Completar
 
@@ -68,9 +68,9 @@ Frontend
 
 - Todos los DTOs.
 Backend
-- Api: el FACADE
+- [[API]]: el [[Facade]]
 - Servicio: para crear servicios para resolver algo como entrar con cuenta de Google (algo q no usamos aún)
-- Persistencia: En principio solo en la memoria posteriormente en una base de datos¿ el main?
+- Persistencia: En principio solo en la memoria posteriormente en una [[Base de Datos]]¿ el main?
 Entities
 - Las entidades que creemos como usuario, donante, etc
 Commons

@@ -215,5 +215,5 @@ Maria (25)
 
 <u>Regla práctica</u>
 
-- Si tu clase **tiene un único criterio obvio** de orden (ej: `Integer`, `String`, `Fecha`) → usá `Comparable`.
-- Si tu clase puede ordenarse de varias formas (ej: `Persona` → por nombre, edad, apellido, etc.) → usá `Comparator`.
+- Si tu [[Clase]] **tiene un único criterio obvio** de orden (ej: `Integer`, `String`, `Fecha`) → usá `Comparable`.
+- Si tu [[Clase]] puede ordenarse de varias formas (ej: `Persona` → por nombre, edad, apellido, etc.) → usá `Comparator`.

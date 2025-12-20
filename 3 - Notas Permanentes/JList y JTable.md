@@ -4,7 +4,7 @@ Materia: Seminario de Lenguajes
 tags:
 ---
 
-![[Clase Swing MVC - List Table.pdf]]
+![[[[Clase]] [[Swing]] MVC - List Table.pdf]]
 
 # Que Son
 
@@ -18,7 +18,7 @@ Ambos son componentes de [[Swing]] que se utilizan para funciones similares:
 Ambos componentes constan de una mayor sofisticación entre las que se incluye el aplicar una arquitectura [[MVC - Modelo Vista Controlador|MVC]].
 
 > [!PDF|yellow] [[Clase Swing MVC - List Table.pdf#page=5&selection=23,0,118,1&color=yellow|Clase Swing MVC - List Table, p.5]]
-> La arquitectura de las componentes Swing responde a una versión especializada del patrón MVC. Está basada en 2 objetos: un objeto [[MVC - Modelo Vista Controlador#Modelo|Modelo]] y un objeto encargado del display o apariencia y del manejo de los eventos, que representan la [[MVC - Modelo Vista Controlador#Vista|Vista]]  + el [[MVC - Modelo Vista Controlador#Controlador|Controlador]] en el patrón [[MVC - Modelo Vista Controlador|MVC]].
+> La arquitectura de las componentes [[Swing]] responde a una versión especializada del patrón MVC. Está basada en 2 objetos: un objeto [[MVC - Modelo Vista Controlador#Modelo|Modelo]] y un objeto encargado del display o apariencia y del manejo de los eventos, que representan la [[MVC - Modelo Vista Controlador#Vista|Vista]]  + el [[MVC - Modelo Vista Controlador#Controlador|Controlador]] en el patrón [[MVC - Modelo Vista Controlador|MVC]].
 
 ![[JList y JTable-1759348285700.webp]]
 
@@ -36,8 +36,8 @@ Muestra un listado de elementos.
 
 Al crear una lista pasándole directamente el array este creará un modelo por defecto, aunque este sera inmutable, no podremos agregar ni eliminar ni modificar elementos.
 
-- `{java} JList(Object[] arg0)`
-- `{java} JList(Vector  arg0))`
+- `{[[Java]]} JList(Object[] arg0)`
+- `{[[Java]]} JList(Vector  arg0))`
 
 ## Crear Una Lista Con Modelo
 
@@ -82,9 +82,9 @@ Igual que JLIst en cuanto a que si se crea pasando en los parametros directament
 
 Se puede crear directamente pasando el array con el contenido de la tabla y un array con el nombre de las columnas:
 
-`{java} JTable(Object[][] rowData, Object[] columnNames)`
+`{[[Java]]} JTable(Object[][] rowData, Object[] columnNames)`
 
-`{java} JTable(Vector rowData, Vector columnNames)`
+`{[[Java]]} JTable(Vector rowData, Vector columnNames)`
 
 ### Crear Una Tabla Con Modelo
 
@@ -102,7 +102,7 @@ Al crear un `DefaultTableModel`, se especifican los títulos de las columnas y l
 
 > [!PDF|yellow] [[Clase Swing MVC - List Table.pdf#page=17&selection=8,0,129,1&color=yellow|Clase Swing MVC - List Table, p.17]]
 >
-> > Los datos de la tabla son mostrados como String porque usamos como modelo una instancia de la clase DefaultTableModel. Esta clase tiene una manera por defecto de mostrar los datos y es en formato String. Para poder cambiar esto, debemos crear una clase que extienda a DefaultTableModel y sobreescribir un método para indicar el tipo de dato de cada celda
+> > Los datos de la tabla son mostrados como String porque usamos como modelo una instancia de la [[Clase]] DefaultTableModel. Esta [[Clase]] tiene una manera por defecto de mostrar los datos y es en formato String. Para poder cambiar esto, debemos crear una [[Clase]] que extienda a DefaultTableModel y sobreescribir un método para indicar el tipo de dato de cada celda
 
 ```java
 package tablas;
@@ -124,6 +124,6 @@ public class ModeloReservas extends DefaultTableModel {
 
 ```
 
-Ahora a la tabla le podras crear un modelo de este tipo siendo `{java}tabla.setModel (new ModeloReservas(datos,titulos))`
+Ahora a la tabla le podras crear un modelo de este tipo siendo `{[[Java]]}tabla.setModel (new ModeloReservas(datos,titulos))`
 
  De esta forma, si en alguna columna tienes un `Boolean`, se mostrará como un `JCheckBox`.

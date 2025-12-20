@@ -4,7 +4,7 @@ Structured Query Language - Lenguaje de consulta estructurado
 
 Lenguaje declarativo de acceso a bases de datos relacionales que permite especificar diversos tipos de operaciones sobre las mismas.
 
-Es el lenguaje estandarizado para consultas en base de datos. Aunque muchos sistemas traen opciones extras, aca buscaremos desarrollar SQL base.
+Es el lenguaje estandarizado para consultas en [[Base de Datos]]. Aunque muchos sistemas traen opciones extras, aca buscaremos desarrollar SQL base.
 
 ## MySQL
 
@@ -14,7 +14,7 @@ Es el lenguaje estandarizado para consultas en base de datos. Aunque muchos sist
 - Fecha: `DATE`, `DATETIME`, `TIME`.
 	- Cadena de caracteres: `CHAR(N)`, `VARCHAR(N)`, `TEXT`, `MEMO`.
 	- `CHAR (N)`: Donde N es un numero fijo
-	  `VARCHAR (N)`: Longitud Variable `[!!info|No usar si sabemos que el campo es fijo|var(--color-red-rgb)]`
+	  `VARCHAR (N)`: Longitud Variable `[!!info|No usar si sabemos que el [[Campo]] es fijo|var(--color-red-rgb)]`
 - Cadenas binarias: `BINARY`, `BLOB`.
 
 > [!note]

@@ -65,7 +65,7 @@ What are the examples used for the text to explains the devices with voice comma
 	2. A CLI is not fast for the user, because **the user has to learn a number of commands just to carry out basic operations**
 	3. The first versions of MS DOS are not examples of GUI, because
 	4. For a dialogue based interface to work, it is necessary that a device
-	5. In gesture-based interfaces, a sensor recognizes a gesture and sends a signal to execute an instruction,
+	5. In gesture-based [[Interfaces]], a sensor recognizes a gesture and sends a signal to execute an instruction,
 	6. So there is no need for
 
 ## Punto 3
@@ -147,7 +147,7 @@ What are the examples used for the text to explains the devices with voice comma
 1. DEAL WITH:
 	1. To take appropriate action in a particular situation or according to who you are talking to, managing, etc.  ✅
 	2. To do business with a person, a company or an organization
-	3. To be about something
+	3. [[To be]] about something
 2. TYPE IN:
 	1. A class or group of people or things that share particular qualities or features and are part of a larger group; a kind or sort;
 	2. Having the qualities or features of the group, person or thing mentioned
@@ -157,7 +157,7 @@ What are the examples used for the text to explains the devices with voice comma
 	2. To do and complete a task ✅
 	3. To take somebody/something from one place to another
 4. LOOK AFTER:
-	1. To be responsible for or to take care of somebody/something/yourself ✅
+	1. [[To be]] responsible for or to take care of somebody/something/yourself ✅
 	2. To make sure that things happen to somebody’s advantage
 	3. An act of looking at somebody/something❌
 5. SWITCH ON/OFF:
@@ -171,7 +171,7 @@ What are the examples used for the text to explains the devices with voice comma
 
 > [!failure] Corrección
 > ❌ Vos elegiste: 3. An act of looking at somebody/something
-> La correcta es la 1. To be responsible for or to take care of somebody/something/yourself.
+> La correcta es la 1. [[To be]] responsible for or to take care of somebody/something/yourself.
 > En el texto: “A window manager looks after the interaction between windows, the applications and window system” → significa que se encarga de / administra esa interacción.
 
 ## Punto 7
@@ -181,7 +181,7 @@ What are the examples used for the text to explains the devices with voice comma
 	2. A linking word that contrasts two ideas.
 	3. Three examples of actions that you perform with your fingers
 	4. An expression that can be translated as “Ya sea …. O ….”
-	5. Two verbs in the present simple tense.
+	5. Two verbs in the [[Present Simple]] tense.
 
 ## Punto 8
 

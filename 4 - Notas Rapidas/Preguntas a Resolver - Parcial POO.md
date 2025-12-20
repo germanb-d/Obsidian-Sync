@@ -1,6 +1,6 @@
 Diferencia entre hash y lista enlazada?
 
-Bloque que se debe ejecutar si o si: FINAL
+[[Bloque]] que se debe ejecutar si o si: FINAL
 
 Diferenia entre == e equals
 

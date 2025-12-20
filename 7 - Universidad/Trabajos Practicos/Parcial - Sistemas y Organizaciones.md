@@ -42,8 +42,8 @@
 	3. Que pasaría a su entender si no existiera un organigrama definido en una organización?
 	4. En la siguiente organización proponga y grafique la estructura organizacional que recomienda implementar y justifique su respuesta.
 		1. Empresa: UBER es conocida por brindar servicios de transporte en áreas metropolitanas, ofrece una plataforma tecnológica para que socios conductores se conecten fácilmente con usuarios que buscan viajes seguros y conductores confiables.
-5. ¿Cuáles serían los objetivos de una auditoria con los sistemas informáticos de una empresa de acuerdo a lo visto en clase?
-6. Describa el siguiente proceso en forma esquemática: Proceso de información de egresados de una universidad (situación laboral actual e histórica) adicionando la comprobación de título/s obtenido/s
+5. ¿Cuáles serían los objetivos de una auditoria con los sistemas informáticos de una empresa de acuerdo a lo visto en [[Clase]]?
+6. Describa el siguiente proceso en forma esquemática: Proceso de información de egresados de una [[Universidad]] (situación laboral actual e histórica) adicionando la comprobación de título/s obtenido/s
 7. RR. HH. ^98bf43
 	1. Porque es bueno conocer la motivación de las personas en un equipo de trabajo?
 	2. Es conveniente tomar decisiones en grupos de trabajo haciendo participar a todos, pero hay desventajas al hacer esto ¿cuáles son?

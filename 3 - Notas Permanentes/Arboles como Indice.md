@@ -255,6 +255,6 @@ Nodos hoja (datos+enlace):  [10,datos|20,datos]→[30,datos|50,datos]→[70,dato
 
 # Uso En Sistemas De Bases De Datos Reales
 
-**Árboles B:** PostgreSQL, muchos sistemas de archivos **Árboles B+:** MySQL (InnoDB), SQL Server, Oracle, SQLite __Árboles B_:_* Menos comunes, algunos sistemas especializados
+**Árboles B:** PostgreSQL, muchos sistemas de archivos **Árboles B+:** MySQL (InnoDB), [[SQL]] Server, Oracle, SQLite __Árboles B_:_* Menos comunes, algunos sistemas especializados
 
 Los **árboles B+** dominan en RDBMS modernos porque combinan eficiencia en búsquedas puntuales con excelente rendimiento en consultas de rango, que son muy comunes en aplicaciones de bases de datos.

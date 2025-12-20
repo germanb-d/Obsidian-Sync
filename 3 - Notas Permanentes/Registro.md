@@ -106,7 +106,7 @@ El registro anterior ocupa 314 bytes. Cada vez que se ingresan los datos de un e
 
 **Delimitador** -> Carácter especial para separar registros
 
-**Segundo archivo** -> Archivo que guarda direcciones de registros
+**Segundo [[Archivo]]** -> [[Archivo]] que guarda direcciones de registros
 
 ### Ventajas Y Desventajas
 
@@ -123,9 +123,9 @@ El registro anterior ocupa 314 bytes. Cada vez que se ingresan los datos de un e
 	- Registro Fijo:  `"Juan    Pérez   25"  (15 bytes de datos puros)`
 	- Registro Variable:  `"04Juan05Pérez0225" (15b de datos + 6b de metadatos = 21 bytes)`
 - **Mayor complejidad de implementación**: Requiere algoritmos más complejos.
-- Fragmentación: Puede haber [[Fragmentación#Fragmentación Externa|fragmentación externa]] del espacio de almacenamiento.
+- [[Fragmentación]]: Puede haber [[Fragmentación#Fragmentación Externa|fragmentación externa]] del espacio de almacenamiento.
 -  **Rendimiento más lento**: Las operaciones de búsqueda y la actualización de registros son más complejas. Por ej.: Para actualizar un registro en registros fijos solo sobrescribes el mismo lugar, con registros variables: Necesitas:
 	- 1. Marcar el espacio viejo como libre
-	- 2. Encontrar un nuevo espacio del nuevo tamaño del registro en caso de no entrar en el espacio viejo (fragmentación externa)
+	- 2. Encontrar un nuevo espacio del nuevo tamaño del registro en caso de no entrar en el espacio viejo ([[Fragmentación]] externa)
 	- 3. Actualizar todos los índices
-	- 4. Posible reorganización del archivo
+	- 4. Posible reorganización del [[Archivo]]

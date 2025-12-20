@@ -694,12 +694,12 @@ La lista L del checkpoint es como un "punto de referencia" que nos dice:
 - **Antes del checkpoint**: Solo miramos lo que está en L
 - **Después del checkpoint**: Miramos todo (estén o no en L)
 
-Esto ahorra tiempo porque no revisamos transacciones que ya sabemos que están completas y en disco.
+Esto ahorra tiempo porque no revisamos [[Transacciones]] que ya sabemos que están completas y en disco.
 
 #### Funcionamiento
 
 1. El sistema hace checkpoint **en cualquier momento** (sin esperar)
-2. Anota qué transacciones están **activas** en ese instante
+2. Anota qué [[Transacciones]] están **activas** en ese instante
 3. Guarda: `<Checkpoint, [T1, T3, T5]>` (ejemplo de lista L)
 
 Ante un fallo - Proceso de recuperación: **UNDO y REDO según el caso**
@@ -710,21 +710,21 @@ Reglas generales:
 - Transacción con `<Start>` sin `<Commit>` → **UNDO**
 
 > [!NOTE]
-> Debemos buscar antes del Checkpoint solo aquellas transacciones que estén en la lista
+> Debemos buscar antes del Checkpoint solo aquellas [[Transacciones]] que estén en la lista
 
 Esta es la regla clave:
 
-1. **Transacciones que NO están en la lista L**:
+1. **[[Transacciones]] que NO están en la lista L**:
     
     - Ya terminaron antes del checkpoint
     - Sus datos ya están confirmados en disco
     - **NO las revisamos** antes del checkpoint (optimización)
-2. **Transacciones que SÍ están en la lista L**:
+2. **[[Transacciones]] que SÍ están en la lista L**:
     
     - Estaban activas al momento del checkpoint
     - Pueden tener operaciones antes Y después del checkpoint
     - **SÍ las revisamos** antes del checkpoint
-3. **Transacciones que comenzaron después del checkpoint**:
+3. **[[Transacciones]] que comenzaron después del checkpoint**:
     
     - Todas se revisan (estén o no en la lista)
     - Se aplica REDO o UNDO según tengan commit
@@ -796,6 +796,6 @@ DESPUÉS del checkpoint:
 #### Ventajas De Este Método
 
 1. **No detiene el sistema** al hacer checkpoint
-2. **Optimiza la recuperación**: No revisa transacciones antiguas ya confirmadas
+2. **Optimiza la recuperación**: No revisa [[Transacciones]] antiguas ya confirmadas
 3. **Reduce tiempo de recuperación**: Solo procesa lo necesario
 4. **Permite alta concurrencia**: El sistema sigue funcionando normalmente

@@ -34,7 +34,7 @@ Punto 19 f: el resultao esta mal
 Hace falta agregar Donaciones?
 
 - Si, pero hago que las agregue con otra pantalla
-Las excepciones estan bien?
+Las [[Excepciones]] estan bien?
 - No va el try catch en el back, que le mande un throws directo para el front  
 El agregarUltimaVisita es un metodo distinto?  Y si no, agregarVisita deberia tener como parametro un boolean? En caso de que use una checkbox
 - Le agrego un parametro mas a agregarVisita que verifique si es la ultima.

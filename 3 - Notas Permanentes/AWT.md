@@ -10,7 +10,7 @@ Abstract Window Toolkit (AWT): Es un conjunto de [[Clase|clases]] que provee [[J
 
 La explicacion del codigo esta directamente desarrollada en [[Swing]]
 
-Excelente pregunta sobre la historia de las interfaces gráficas en Java. Te explico las **limitaciones de AWT** que llevaron a crear Swing:
+Excelente pregunta sobre la historia de las [[Interfaces]] gráficas en [[Java]]. Te explico las **limitaciones de AWT** que llevaron a crear [[Swing]]:
 
 # Problemas Principales De AWT:
 

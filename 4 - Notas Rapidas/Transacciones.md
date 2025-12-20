@@ -1,6 +1,6 @@
 ---
 Categoria: Sistemas
-Materia: Base de Datos 1
+Materia: [[Base de Datos 1]]
 tags:
 ---
 
@@ -412,7 +412,7 @@ La diferencia es ese paso crítico de asegurar el commit en almacenamiento persi
 
 ### 2. Pool De Buffers (Memoria De la BD)
 
-**Hardware:** RAM del servidor de base de datos
+**Hardware:** RAM del servidor de [[Base de Datos]]
 - Es un área de memoria RAM dedicada que el DBMS reserva para cachear datos
 - Actúa como caché entre las transacciones y el disco
 - **Volátil:** Se pierde si el servidor se cae o reinicia
@@ -423,7 +423,7 @@ La diferencia es ese paso crítico de asegurar el commit en almacenamiento persi
 **Hardware:** Almacenamiento no volátil
 - **SSD/HDD:** El almacenamiento físico del servidor
 - **Almacenamiento estable:** Puede incluir discos espejo (RAID), backups
-- **Nube:** Podría ser almacenamiento distribuido (AWS RDS, Google Cloud SQL)
+- **Nube:** Podría ser almacenamiento distribuido (AWS RDS, Google Cloud [[SQL]])
 - **No volátil:** Los datos persisten aunque se apague el servidor
 
 ## Explicación Paso a Paso
@@ -442,7 +442,7 @@ La diferencia es ese paso crítico de asegurar el commit en almacenamiento persi
 1. La transacción pregunta: "¿Está A en el pool de buffers?"
     - **SI está:** Copia el valor de A desde el pool → variable local `a1`
     - **NO está:**
-        - Ejecuta `INPUT(A)`: trae el bloque con A desde **disco → pool de buffers** (vía SO)
+        - Ejecuta `INPUT(A)`: trae el [[Bloque]] con A desde **disco → pool de buffers** (vía SO)
         - Luego copia el valor de A desde el pool → variable local `a1`
 
 **Resultado:** `a1` tiene el valor de A (supongamos a1 = 1000)
@@ -472,7 +472,7 @@ La diferencia es ese paso crítico de asegurar el commit en almacenamiento persi
 1. La transacción pregunta: "¿Está B en el pool de buffers?"
     - **SI está:** Copia el valor de B desde el pool → variable local `b1`
     - **NO está:**
-        - Ejecuta `INPUT(B)`: trae el bloque con B desde **disco → pool de buffers**
+        - Ejecuta `INPUT(B)`: trae el [[Bloque]] con B desde **disco → pool de buffers**
         - Luego copia el valor de B desde el pool → variable local `b1`
 
 **Resultado:** `b1` tiene el valor de B (supongamos b1 = 2000)
@@ -598,7 +598,7 @@ Métodos De Recuperación:
 
 # Basado En Bitácora (log)
 
-**Registro histórico**: secuencia de actividades realizadas sobre la BD
+**[[Registro]] histórico**: secuencia de actividades realizadas sobre la BD
 
 - Idealmente se almacena en otra memoria física separada de la BD
 
@@ -629,7 +629,7 @@ La respuesta está en la **eficiencia** y el **tipo de escritura**.
 Diferencia clave entre escribir bitácora vs escribir datos:
 
 > [!NOTE] Escritura de BITÁCORA (Log)
-> - Es **secuencial** (siempre al final del archivo)
+> - Es **secuencial** (siempre al final del [[Archivo]])
 > - Es **pequeña** (solo registra qué cambió: `<T, dato, Va, Vn>`)
 > - Es **rápida** (append al final)
 > - Es en un **solo lugar** del disco
@@ -728,7 +728,7 @@ Si no tiene Commit entonces se ignora, dado que no llegó a hacer algo en la BD.
 
 - La actualización de la BD se realiza **mientras la transacción está activa**
 - **PERMITE** (no lo hace siempre, solo está habilitada) que la BD pueda ir al disco cuando quiera (OUTPUT)
-- El registro paso a paso sigue en la bitácora, aunque no espera al commit
+- El [[Registro]] paso a paso sigue en la bitácora, aunque no espera al commit
 - **Necesita valor viejo y nuevo** (Va y Vn)
 
 **Ejemplo de bitácora con modificación inmediata**
@@ -757,7 +757,7 @@ Si no tiene Commit entonces se ignora, dado que no llegó a hacer algo en la BD.
 ## Buffers De Bitácora
 
 **Problema**
-Grabar en disco cada registro de bitácora consume mucho tiempo Solución: Usar buffers en memoria
+Grabar en disco cada [[Registro]] de bitácora consume mucho tiempo Solución: Usar buffers en memoria
 
 > [!NOTE] Regla fundamental
 > **"Siempre graba primero la Bitácora y luego la BD"**
