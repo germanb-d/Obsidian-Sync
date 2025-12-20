@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Cursado == true
+        - Aprobado == true
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Vista
+    filters:
+      and:
+        - Cursado == true
+        - Terminado == true
+    cardSize: 290
+    imageAspectRatio: 0.5
+    image: note.banner

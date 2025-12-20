@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Materia == "Ingles Integral 1"
+        - '!file.hasTag("Practico")'
+        - '!file.hasProperty("Profesor")'
+    order:
+      - file.name

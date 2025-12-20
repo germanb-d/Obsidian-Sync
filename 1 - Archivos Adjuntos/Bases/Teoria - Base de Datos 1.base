@@ -1,0 +1,7 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Materia == "Base de Datos 1"
+        - '!file.hasTag("Practico")'

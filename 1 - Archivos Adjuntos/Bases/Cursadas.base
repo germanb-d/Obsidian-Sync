@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Cursado == true
+        - Aprobado == false
+  - type: cards
+    name: Vista
+    filters:
+      and:
+        - Cursado == true
+        - Aprobado == false
+    image: note.banner
+    imageAspectRatio: 0.5
+    cardSize: 280

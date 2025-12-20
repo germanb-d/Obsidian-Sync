@@ -1,0 +1,14 @@
+views:
+  - type: cards
+    name: Vista
+    filters:
+      and:
+        - file.hasProperty("Cursado")
+        - Cursado != true
+        - '!file.inFolder("Obsidian-Sync/2 - Plantillas")'
+    order:
+      - file.name
+    image: note.banner
+    imageFit: ""
+    cardSize: 280
+    imageAspectRatio: 0.5

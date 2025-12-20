@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Tabla
+    filters:
+      and:
+        - Materia == "Seminario de Lenguajes"
+        - file.hasTag("Practico")
+    order:
+      - file.name
+      - Terminado
+      - Fecha de Entrega

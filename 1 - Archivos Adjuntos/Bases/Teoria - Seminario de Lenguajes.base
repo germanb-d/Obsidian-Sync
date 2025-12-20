@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - Materia == "Seminario de Lenguajes"
+        - '!file.hasTag("Practico")'
+    sort:
+      - property: file.ctime
+        direction: ASC

@@ -1,0 +1,11 @@
+views:
+  - type: cards
+    name: Tabla
+    filters:
+      and:
+        - file.hasTag("Practico")
+        - Materia == "Ingles Integral 1"
+    order:
+      - file.name
+      - Terminado
+      - Fecha de Entrega
