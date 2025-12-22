@@ -8,7 +8,7 @@ tags:
 
 # Definición
 
-**Concurrente** significa que múltiples [[transacciones]] se ejecutan simultáneamente y pueden acceder a los mismos datos.
+**Concurrente** significa que múltiples [[Transacciones]] se ejecutan simultáneamente y pueden acceder a los mismos datos.
 
 Problema de la serialidad pura: Si dos transacciones quieren manejar el mismo dato y funcionan en **serie estricta** (primero se ejecuta completamente una, después la otra), el sistema se vuelve **inviable con el tiempo** por la lentitud que generaría.
 
