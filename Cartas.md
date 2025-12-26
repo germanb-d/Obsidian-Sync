@@ -1,2 +1,2 @@
-Germán: -9
+Germán: -7
 Mamá: -8
