@@ -30,7 +30,7 @@ Donde hay Contenedores (Container), Componentes (Component) y Layouts
 
 El layout se le aplica a los Containers para generar una división, permitiendo cosas como:
 
-![[[[AWT]]-1756334397967.webp|278x284]]
+![[AWT-1756334397967.webp|278x284]]
 
 Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una de ellas podría contener otros contenedores o componentes como botón, lista, etc.
 
@@ -41,7 +41,7 @@ Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una 
 
 ## Contenedores
 
-![[GUI en [[Java]]-1755726057350.webp]]
+![[GUI en Java-1755726057350.webp]]
 
 ![[Swing-1759415395277.webp]]
 
@@ -216,11 +216,11 @@ Los componentes [[JList y JTable]] se explicarán aparte por su extensión.
 
 ### Tipos De Componentes Básicos
 
-![[GUI en [[Java]]-1755726018448.webp]]
+![[GUI en Java-1755726018448.webp]]
 
 #### Button - Botón
 
-![[GUI en [[Java]]-1755726246539.webp|0x0]]
+![[GUI en Java-1755726246539.webp|0x0]]
 
 La [[Clase]] Button es una [[Clase]] que produce una componente de tipo botón con una etiqueta (texto) que se visualizará.
 
@@ -232,13 +232,13 @@ La [[Clase]] Button es una [[Clase]] que produce una componente de tipo botón c
 
 #### ComboBox - Botones De Elección
 
-![[GUI en [[Java]]-1755726287106.webp|241x60]]
+![[GUI en Java-1755726287106.webp|241x60]]
 
 Los botones de selección en una lista (choice) permiten el rápido acceso a una lista de elementos. Por ejemplo, podríamos implementar una selección de colores y mantenerla en un botón Choice.
 
 #### CheckBox - Botones De Marcación
 
-![[GUI en [[Java]]-1755726651629.webp|172x57]]
+![[GUI en Java-1755726651629.webp|172x57]]
 
 La de comprobación (Checkbox) se utilizan frecuentemente como botones de estado. Proporcionan información del tipo Sí o No (true o false). El estado del botón se devuelve en el argumento `Object` de los eventos `Checkbox`; el argumento es de tipo booleano: verdadero (true) si la caja se ha seleccionado y falso (false) en otro caso.
 
@@ -246,25 +246,25 @@ Tanto el nombre como el estado se devuelven en el argumento del evento, aunque s
 
 #### CheckboxGroup - Botones De Selección
 
-![[GUI en [[Java]]-1755726918532.webp|423x61]]
+![[GUI en Java-1755726918532.webp|423x61]]
 
 Los botones de comprobación se pueden agrupar para formar una interfaz de botón de radio(CheckboxGroup), que son agrupaciones de botones Checkbox en las que siempre hay un único botón activo.
 
 #### Labels - Etiquetas
 
-![[GUI en [[Java]]-1755796030296.webp|303x202]]
+![[GUI en Java-1755796030296.webp|303x202]]
 
 Las etiquetas (Label) proporcionan una forma de colocar texto estático en un panel, para mostrar información que normalmente no varía, al usuario.
 
 #### List - Listas
 
-![[GUI en [[Java]]-1755796105335.webp]]
+![[GUI en Java-1755796105335.webp]]
 
 Las listas (List) aparecen en los [[Interfaces]] de usuario para facilitar a los operadores la manipulación de muchos elementos. Se crean utilizando métodos similares a los de los botones choice. La lista es visible todo el tiempo, utilizándose una barra de desplazamiento para visualizar los elementos que no caben en el área que aparece en la pantalla.
 
 #### TextField - Campos De Texto
 
-![[GUI en [[Java]]-1755796677447.webp|517x302]]
+![[GUI en Java-1755796677447.webp|517x302]]
 
 ```java
 import java.awt.*;
@@ -287,7 +287,7 @@ public class CAmpoTexto {
 
 #### TextArea - Áreas De Texto
 
-![[GUI en [[Java]]-1755796723732.webp|440x342]]
+![[GUI en Java-1755796723732.webp|440x342]]
 
 Permite incorporar texto multilínea dentro de zonas de texto (TextArea). Los objetos TextArea se utilizan para elementos de texto que ocupan más de una línea, como puede ser la presentación tanto de texto editable como de solo lectura.
 
@@ -295,7 +295,7 @@ Para las áreas de texto hay que especificar el número de columnas.
 
 #### Scrollbar - Barra De Desplazamiento
 
-![[GUI en [[Java]]-1755796817956.webp]]
+![[GUI en Java-1755796817956.webp]]
 
 En determinada situación se necesitan realizar el ajuste de valores lineales en pantalla, resulta útil el uso de barras de desplazamiento. Proporcionan una forma de trabajar con rangos de valores o de áreas, como el componente TextArea, que proporciona dos barras de desplazamiento automáticamente.
 
