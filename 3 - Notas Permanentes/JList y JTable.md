@@ -4,7 +4,7 @@ Materia: Seminario de Lenguajes
 tags:
 ---
 
-![[[[Clase]] [[Swing]] MVC - List Table.pdf]]
+![[Clase Swing MVC - List Table.pdf]]
 
 # Que Son
 
