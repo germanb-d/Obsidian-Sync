@@ -41,7 +41,7 @@ Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una 
 
 ## Contenedores
 
-![[GUI en Java-1755726057350.webp]]
+![[Swing-1767116300523.webp]]
 
 ![[Swing-1759415395277.webp]]
 
