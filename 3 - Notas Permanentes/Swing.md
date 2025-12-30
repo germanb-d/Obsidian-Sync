@@ -26,7 +26,7 @@ Swing provee múltiples componentes de GUI que no están presentes en el [[AWT]]
 
 Donde hay Contenedores (Container), Componentes (Component) y Layouts
 
-		Un `Container` pueden contener múltiples `Components`, y cada `Component` tiene un container padre. Un `container` también puede contener otro container con components dentro.
+- Un `Container` pueden contener múltiples `Components`, y cada `Component` tiene un container padre. Un `container` también puede contener otro container con components dentro.
 
 El layout se le aplica a los Containers para generar una división, permitiendo cosas como:
 
