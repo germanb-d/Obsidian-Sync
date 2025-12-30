@@ -63,7 +63,7 @@ Archivo
 | [[Campo]]                 | Dato individual (una celda)                 |
 
 > [!important] Importante
-> ![[[[Bloque]]]]
+> ![[Bloque]]
 
 # Archivo Físico Y Lógico
 
