@@ -41,7 +41,7 @@ Al crear una lista pasándole directamente el array este creará un modelo por d
 
 ## Crear Una Lista Con Modelo
 
-En este caso hay dos alternativas:
+En este caso hay dos alternativas: 
 
 Se crea usando el constructor por defecto (el que no tiene argumentos) y luego se le setea un Modelo
 
@@ -127,3 +127,4 @@ public class ModeloReservas extends DefaultTableModel {
 Ahora a la tabla le podras crear un modelo de este tipo siendo `{[[Java]]}tabla.setModel (new ModeloReservas(datos,titulos))`
 
  De esta forma, si en alguna columna tienes un `Boolean`, se mostrará como un `JCheckBox`.
+
