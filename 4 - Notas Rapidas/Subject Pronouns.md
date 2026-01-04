@@ -1,4 +1,4 @@
-Los subject pronouns son las [[Personal Pronouns]] que usamos con el objetivo de que reemplazen al sustantivo (la persona, animal o cosa) que realiza la acción principal en una oración. Su función es indicar quién o qué está ejecutando el verbo.
+Los subject pronouns son las [[Personal Pronouns]] que usamos con el objetivo de que reemplazen al sustantivo (la persona, animal o cosa) que realiza la acción principal en una oración. Su función es indicar quién o qué está ejecutando el verbo. 
 
 ![[Personal Pronouns#Introducción]]
 
