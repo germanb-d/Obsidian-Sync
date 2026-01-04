@@ -3,7 +3,6 @@ Categoria: Sistemas
 Materia: Seminario de Lenguajes
 tags:
 ---
-
 # ¿Qué Es Una Clase?
 
 Una **clase** es un molde o plantilla que define las características ([[POO - Programación Orientada a Objetos#^a8ad8d|atributos]]) y comportamientos ([[POO - Programación Orientada a Objetos#^38a6db|métodos]]) que tendrán los objetos creados a partir de ella. Es la unidad fundamental de la [[POO - Programación Orientada a Objetos|programación orientada a objetos]] en [[Java]].
