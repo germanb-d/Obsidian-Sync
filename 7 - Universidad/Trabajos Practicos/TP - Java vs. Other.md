@@ -1,3 +1,12 @@
+---
+Categoria: Sistemas
+Materia: Ingles Integral 1
+Fecha de Entrega:
+Terminado: true
+Tags:
+  - "#Practico"
+---
+
 # Write Two Questions that Can Be Answered with the Information in This Text.
 
 Is [[Java]] a pure object-oriented language?

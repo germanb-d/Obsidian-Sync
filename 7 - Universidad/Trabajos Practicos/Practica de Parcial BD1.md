@@ -1,3 +1,12 @@
+---
+Categoria: Sistemas
+Materia: Base de Datos 1
+Fecha de Entrega:
+Terminado: true
+Tags:
+  - "#Practico"
+---
+
 # Práctica Teórica 7
 
 1) Una transacción es un conjunto de operaciones unidas en una única unidad lógica de trabajo. Estas [[Transacciones]] permite quitar gran parte de las cargas del programador, como en el manejo en entornos concurrentes; además permiten una mayor escalabidad de la BD y un mejor manejo de los fallos y las debidas recuperaciones ante este, entre muchas otras ventajas.

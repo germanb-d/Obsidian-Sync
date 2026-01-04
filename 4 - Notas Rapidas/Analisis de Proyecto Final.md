@@ -1,3 +1,9 @@
+---
+Categoria: Sistemas
+Materia: Seminario de Lenguajes
+tags:
+---
+
 # Análisis Arquitectónico De Un Sistema Java Orientado a Objetos: Justificación De la Arquitectura En Capas Y Mapeo Curricular
 
 ## I. Fundamentos Arquitectónicos: La Arquitectura En Capas Y Principios De Diseño

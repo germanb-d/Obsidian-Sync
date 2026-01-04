@@ -1,3 +1,12 @@
+---
+Categoria: Sistemas
+Materia: Ingles Integral 1
+Fecha de Entrega:
+Terminado: true
+Tags:
+  - "#Practico"
+---
+
 # Notas Rapidas
 
 Between es la manera mas comun de decir entre dos cosas

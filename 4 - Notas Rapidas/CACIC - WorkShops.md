@@ -1,3 +1,9 @@
+---
+Categoria: Sistemas
+Materia: CACIC
+tags:
+---
+
 Slurm +openMPI para la gestion y comunicación.
 
 ¿Cronos y programación en paralelo? Cronos es un planificador de trabajos (job scheduler) que se utiliza para programar y ejecutar tareas en sistemas distribuidos o de computación de alto rendimiento.

@@ -1,3 +1,9 @@
+---
+Categoria: Sistemas
+Materia: Base de Datos 1
+tags:
+---
+
 # Introduccion
 
 Structured Query Language - Lenguaje de consulta estructurado
