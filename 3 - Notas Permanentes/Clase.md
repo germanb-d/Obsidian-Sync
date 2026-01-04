@@ -43,7 +43,7 @@ public class Vehiculo {
         this.modelo = modelo;
     }
     
-    public void acelerar() {
+   public void acelerar() {
         System.out.println("El " + marca + " " + modelo + " está acelerando");
     }
 }
