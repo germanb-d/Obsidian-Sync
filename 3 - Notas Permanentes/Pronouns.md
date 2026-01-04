@@ -1,3 +1,10 @@
+---
+Categoria: Sistemas
+Materia: Ingles Integral 1
+tags:
+  - Ingles
+---
+
 # Tabla Comparativa De Pronombres En Inglés
 
 | Pronombre Personal ([[Personal Pronouns]])<br>(Sujeto) | Pronombre de Objeto (Object Pronouns)<br>(Complemento) | Adjetivo Posesivo (Possessive Adjectives)<br>(+ Sustantivo) | Pronombre Posesivo (Possessive Pronouns)<br>(Independiente) | Pronombre Reflexivo (Reflexive Pronouns) |
