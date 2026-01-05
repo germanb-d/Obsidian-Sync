@@ -1,17 +1,12 @@
 ---
-journal: Calendario
-Diario-Fecha: 2025-08-18
+Categoria: Sistemas
+Materia: Base de Datos 1
+tags:
 ---
 
 # Modelo Lógico Y Físico
 
 ## Modelo Conceptual - > Modelo Lógico
-
-#Parcial
-
-Hacer modelo conceptual, pasar a lógico y físico.
-
-No abra datos derivados
 
 ### Datos Derivados
 

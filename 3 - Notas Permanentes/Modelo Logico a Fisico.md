@@ -1,6 +1,7 @@
 ---
-journal: Calendario
-Diario-Fecha: 2025-08-25
+Categoria: Sistemas
+Materia: Base de Datos 1
+tags:
 ---
 
 # Diseño Físico
@@ -33,7 +34,7 @@ Si mi entidad Ciudad tiene una clave Nombre que se relaciona con la entidad Prov
 
 Ciudad = (<u>nombre, codigo_provincia</u>, X, Y)
 
-![[[[Drawing 2025-08-25 18.28.23.excalidraw]]]]
+![[Drawing 2025-08-25 18.28.23.excalidraw]]
 
 `Persona` = (DNI, Nombre, Apellido)
 
