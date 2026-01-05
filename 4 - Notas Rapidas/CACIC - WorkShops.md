@@ -2,6 +2,7 @@
 Categoria: Sistemas
 Materia: CACIC
 tags:
+  - Revisar
 ---
 
 Slurm +openMPI para la gestion y comunicación.
