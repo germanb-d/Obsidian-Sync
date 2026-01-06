@@ -1,2 +1,2 @@
-Germán: -22
-Mamá: 24
+Germán: -21
+Mamá: 68
