@@ -1,4 +1,4 @@
-Germán: -30
-Mamá: 92
+Germán: -55
+Mamá: 100
 
-Mover comodines solo dentro del mismo juegl
+Mover comodines solo dentro del mismo juego
