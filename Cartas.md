@@ -1,4 +1,4 @@
-Germán: -55
-Mamá: 100
+Germán: -70
+Mamá: 85
 
 Mover comodines solo dentro del mismo juego
