@@ -291,3 +291,14 @@ Se usan para preguntar sobre **procesos, acciones en desarrollo o cambios** que 
 5. **Revisa la gramática:** Asegúrate de que los verbos concuerden con los sujetos y uses los tiempos correctos.
 
 ¡Con estas fórmulas podrás estructurar respuestas claras, concisas y que demuestren tu comprensión del texto! ¿Necesitas practicar con algún tipo específico de pregunta?
+
+
+
+
+
+
+
+
+
+
+
