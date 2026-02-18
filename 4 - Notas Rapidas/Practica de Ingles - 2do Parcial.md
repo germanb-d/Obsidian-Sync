@@ -9,7 +9,6 @@ Comparative:
 En una oración afirmativa en **Presente Simple**, los adverbios de frecuencia como **always, usually, often, sometimes, never** y las frases de tiempo como **every day, on Mondays** tienen **posiciones específicas**.
 
 ---
-
 ## **1. Adverbios De Frecuencia (always, Never, Sometimes, etc.)**
 
 La regla general es: van **ANTES** del verbo principal, pero **DESPUÉS** del verbo `to be`.
