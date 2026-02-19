@@ -6,7 +6,7 @@ Comparative:
 
 ¡Excelente pregunta! Es justamente una de las claves para usar bien el Presente Simple.
 
-En una oración afirmativa en **Presente Simple**, los adverbios de frecuencia como **always, usually, often, sometimes, never** y las frases de tiempo como **every day, on Mondays** tienen **posiciones específicas**.
+%%> En una oración afirmativa en **Presente Simple**, los adverbios de frecuencia como **always, usually, often, sometimes, never** y las frases de tiempo como **every day, on Mondays** tienen **posiciones específicas**. %%
 
 ---
 ## **1. Adverbios De Frecuencia (always, Never, Sometimes, etc.)**
