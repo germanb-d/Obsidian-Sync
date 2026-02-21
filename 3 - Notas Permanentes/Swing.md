@@ -139,11 +139,11 @@ Este Layout ofrece un esquema complejo para la ubicación de componentes en un c
 
 ![[Swing-1756656747322.webp]]
 
-`{[[Java]]} new BorderLayout();` : Constructor por defecto sin espacio entre regiones.
+`{Java} new BorderLayout();` : Constructor por defecto sin espacio entre regiones.
 
-`{[[Java]]} new BorderLayout(hgap,vgap);` : Constructor con espacio entre los componentes.
+`{Java} new BorderLayout(hgap,vgap);` : Constructor con espacio entre los componentes.
 
-`{[[Java]]} contenedor.add(button,BorderLayout.NORTH);` Agrega el componente `button` en la región norte del contenedor.
+`{Java} contenedor.add(button,BorderLayout.NORTH);` Agrega el componente `button` en la región norte del contenedor.
 
 > [!danger] Un componente por región
 > Se puede agregar solo un componente por región. Si se agregan más de una en una misma región, solo la última quedará visible
