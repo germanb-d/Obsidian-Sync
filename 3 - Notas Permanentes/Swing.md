@@ -30,8 +30,6 @@ Donde hay Contenedores (Container), Componentes (Component) y Layouts
 
 El layout se le aplica a los Containers para generar una división, permitiendo cosas como:
 
-![[AWT-1756334397967.webp|278x284]]
-
 Este podría ser un Contenedor principal, con 5 regiones que a su vez, cada una de ellas podría contener otros contenedores o componentes como botón, lista, etc.
 
 > [!info] Aclaración de container y component
