@@ -19,8 +19,8 @@ Swing provee múltiples componentes de GUI que no están presentes en el [[AWT]]
 - **Lightweight**: Dibujado en [[Java]], no usa componentes nativos
 - **Consistente**: Mismo aspecto en todas las plataformas
 - **Más componentes**: JTable, JTree, JTabbedPane, JSplitPane, etc.
-- **Personalizable**: Look and Feel configurable (Metal, Nimbus, etc.)
 - **Menos bugs**: Una sola implementación para todas las plataformas
+- **Personalizable**: Look and Feel configurable (Metal, Nimbus, etc.)
 
 # Explicación
 
