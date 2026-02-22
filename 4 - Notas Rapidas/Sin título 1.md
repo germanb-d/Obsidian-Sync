@@ -2,6 +2,9 @@
 ![[1 - Archivos Adjuntos/Imagenes/Diagram.svg]]
 
 
-Hola ->
+Hola -> pepe
 #Flashcard 
-Fe
+Jjfsdf ;; frrf
+
+Jkljilnionoinoi
+Dewklfnaew
