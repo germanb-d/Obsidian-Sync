@@ -159,8 +159,7 @@ _La negativa a test de alcoholemia se considera positiva_
 
 # VELOCIDADES MÁXIMAS Y MÍNIMAS
 
-_Las velocidades mínimas son la mitad de las máximas_
-
+Las velocidades mínimas son la mitad de las máximas
 ## Zona Urbana
 
 - **Calles**: Máx. 40 km/h - Mín. 20 km/h
