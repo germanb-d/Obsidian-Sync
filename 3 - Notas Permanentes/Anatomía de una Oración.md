@@ -101,3 +101,59 @@ Estas partes añaden detalle, contexto y descripción, pero no son estrictamente
     *   **Adverbio:** `yesterday` (modifica "built" - ¿Cuándo?).
 
 **Consejo Práctico:** Para analizar cualquier oración, **empieza siempre por encontrar el verbo principal**. Una vez que lo tengas, pregúntate "¿quién o qué [verbo]?" para hallar el **sujeto**, y luego "¿[verbo] qué?" para hallar el **objeto directo**. El resto de elementos son modificadores que añaden detalle.
+
+
+---
+
+## Flashcards
+
+---
+source: "[[Anatomía de una Oración]]"
+template: Prueba IA
+generated: 2/3/2026, 06:58:13
+---
+
+What two elements must every complete sentence have as a minimum?
+?
+A Subject and a Predicate.
+#flashcard
+
+How do you identify the Subject of a sentence?
+?
+Find the main verb and ask "¿Quién?" or "¿Qué?" performs the action or is in the state described.
+#flashcard
+
+What does the Predicate of a sentence include?
+?
+Everything that is said about the subject, always including the main verb.
+#flashcard
+
+What is the role of the Verb in a sentence?
+?
+It describes the action performed or the state of the subject.
+#flashcard
+
+How do you identify the Direct Object in a sentence?
+?
+Find the verb and ask "¿Qué?" or "¿A quién?" receives the action directly from the verb.
+#flashcard
+
+What is the function of an Indirect Object?
+?
+It indicates the person or thing that benefits from or is affected by the action, often appearing with a Direct Object.
+#flashcard
+
+What do Adjectives modify or describe?
+?
+Nouns (the subject, object, etc.).
+#flashcard
+
+What do Adverbs modify or describe?
+?
+A verb, an adjective, or another adverb.
+#flashcard
+
+What is the practical first step recommended for analyzing any sentence?
+?
+Always start by finding the main verb.
+#flashcard
