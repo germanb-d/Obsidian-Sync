@@ -4,7 +4,7 @@
 
 Hola -> pepe
 #Flashcard 
-Jjfsdf ;; frrf
+Jjfsdf ;; frrf <!--SR:!2026-03-05,3,250-->
 
 Jkljilnionoinoi
 Dewklfnaew
