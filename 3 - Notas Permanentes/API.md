@@ -35,3 +35,24 @@ En lugar de que cada programador tenga que crear desde cero las mismas funcional
 5. **Mantenimiento**: Actualizaciones centralizadas
 
 En resumen, una API es como una "caja de herramientas" que los programadores pueden usar para construir aplicaciones más eficientemente, sin tener que crear todo desde cero.
+¡Claro! Aquí tienes algunas flashcards basadas en la nota [[API]] para que puedas estudiar:
+
+---
+# Flashcards
+
+#Mazo
+¿Qué proporciona una API? :: Componentes reutilizables que solucionan problemas específicos y de reiterada ocurrencia en distintos contextos de programación.
+¿Cuál es la pregunta clave que responde una API? :: "¿Para qué desarrollarlos una y otra vez?"
+¿Cuál es el propósito principal de una API? :: Ofrecer soluciones ya implementadas y probadas para funcionalidades básicas, evitando que los programadores las creen desde cero repetidamente.
+Menciona un ejemplo de API en Java para manejar colecciones de datos. :: Collections API.
+¿Qué API de Java se utiliza para el manejo de errores? :: Exception API.
+¿Qué APIs de Java se usan para interfaces gráficas? :: AWT/Swing API.
+¿Para qué sirve la IO API en Java? :: Para entrada/salida de datos.
+¿Qué API de Java se usa para comunicaciones de red? :: Network API.
+Nombra un beneficio de usar APIs relacionado con no crear algo desde cero. :: Reutilización.
+¿Qué beneficio de las APIs asegura que el código ya ha sido probado y mejorado? :: Confiabilidad.
+¿Cómo contribuyen las APIs a un desarrollo más rápido? :: A través de la Eficiencia.
+¿Qué beneficio de las APIs promueve una forma común de realizar tareas? :: Estandardización.
+¿Qué beneficio de las APIs se refiere a que las actualizaciones se gestionan en un solo lugar? :: Mantenimiento.
+
+
