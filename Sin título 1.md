@@ -22,5 +22,11 @@ E. VERDADERO We users are what makes social media run, and yet we also aren’t 
 Otra frase: but grew frustrated when she felt that the platform was taking away her ability to access her audience through the feed.
 
 3. Every coffee shop looks the same because The Social Media encourage a certain aesthetic more Instagrammability (instagrameable).
-4. A. Wash and he team
-5. 
+4. 
+A. Wash and he team / The coffee shop
+B. The idea of “It almost feels like, you
+must have a social media acumen, you must be savvy in this area that is adjacent to your
+business, but not directly embedded in your business, in order to be successful and
+visible,”
+C. The some companies 
+D. Walsh and his team
