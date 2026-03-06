@@ -51,3 +51,4 @@ Una manera de conectar con otros colegas cafeteros y de la industria del café e
 C. positive user reviews on the business’s listing on Yelp or Google Maps
 
 
+Una preposición como for siempre lleva ing después?
