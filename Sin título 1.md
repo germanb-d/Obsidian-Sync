@@ -17,6 +17,7 @@ B. VERDADERO Misma frase que la anterior y
 C. FALSO Her goal was to build “something that did not exist at that moment in Bucharest” – a space that was, at least aesthetically, non-local
 
 D. FALSE “don’t let you take advantage of the community you’ve already built. From a certain moment onward, things are unfair,” Ungureanu said.
+Corrección: “there have been fewer and fewer likes over time proportional to our user numbers,”
 
 E. VERDADERO We users are what makes social media run, and yet we also aren’t given full control over the relationships we develop on the platforms, in large part because algorithmic recommendations are so dominant.
 
