@@ -34,3 +34,12 @@ E. The opinion of they are not necessarily hitting as many eyeballs as they thin
 F. The coffee shop 
 G. Anca Ungureanu
 H. The coffee shop
+I. The users of Anca profile
+J. The Users
+
+
+5. Completar
+
+6. A. 1
+B. 
+
