@@ -45,5 +45,6 @@ El ***lente*** con el cual observamos el mundo de los distintos cafés de especi
 B. positive user reviews on the business’s listing on Yelp or Google Maps.
 
 7. A. 1
-B. 
+B. a ***way*** to connect with other cafes and coffee-industry colleagues in different cities
+Una manera de conectar con otros colegas cafeteros y de la industria del cafe
 
