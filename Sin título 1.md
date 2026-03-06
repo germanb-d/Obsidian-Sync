@@ -65,3 +65,6 @@ Run: Operar
 Feed: Página de inicio. Viene de alimentar? 
 
 6 y 7 entran en el vocabulario del examen 
+
+
+Ir could be better if the social media promote the content depend on the distance t
