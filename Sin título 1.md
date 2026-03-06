@@ -30,3 +30,7 @@ business, but not directly embedded in your business, in order to be successful 
 visible,”
 C. The some companies 
 D. Walsh and his team
+E. The opinion of they are not necessarily hitting as many eyeballs as they think they could or should
+F. The coffee shop 
+G. Anca Ungureanu
+H. The coffee shop
