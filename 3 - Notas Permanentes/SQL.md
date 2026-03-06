@@ -64,3 +64,5 @@ UNION ALL
 ```
 
 Se dice expresiones porque en las columnas puede haber funciones complejas.
+
+
