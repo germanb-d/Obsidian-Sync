@@ -25,7 +25,7 @@ Otra frase: but grew frustrated when she felt that the platform was taking away 
 
 3. Every coffee shop looks the same because The Social Media encourage a certain aesthetic more Instagrammability (instagrameable).
 4. 
-A. Wash and he team / The coffee shop
+A. Wash and he team / The coffee shops
 B. The idea of “It almost feels like, you
 must have a social media acumen, you must be savvy in this area that is adjacent to your
 business, but not directly embedded in your business, in order to be successful and
@@ -51,4 +51,4 @@ Una manera de conectar con otros colegas cafeteros y de la industria del café e
 C. positive user reviews on the business’s listing on Yelp or Google Maps
 
 
-Una preposición como for siempre lleva ing después?
+Una preposición como for, in,on, about, opposite siempre lleva ing después? Todas las preposiciones? 
