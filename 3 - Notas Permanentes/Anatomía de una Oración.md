@@ -5,7 +5,7 @@ tags:
 ---
 ¡Excelente pregunta! Identificar las partes de una oración es como hacer una autopsia gramatical: una vez que sabes qué buscar, todo cobra sentido.
 
-Aquí te explico todas las partes fundamentales, desde las más esenciales hasta los modificadores, con ejemplos en inglés y español.
+Aquí te explico todas las partes fundamentales, desde las más esenciales hasta los modificadores, con ejemplos en inglés y español. 
 
 ---
 
