@@ -21,4 +21,6 @@ E. VERDADERO We users are what makes social media run, and yet we also aren’t 
 
 Otra frase: but grew frustrated when she felt that the platform was taking away her ability to access her audience through the feed.
 
-3. The Social Media encourage a certain aesthetic 
+3. Every coffee shop looks the same because The Social Media encourage a certain aesthetic more Instagrammability (instagrameable).
+4. A. Wash and he team
+5. 
