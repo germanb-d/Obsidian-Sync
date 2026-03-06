@@ -42,9 +42,10 @@ J. The Users
 A. the lens in which we view the global speciality cafe world
 El ***lente*** con el cual observamos el mundo de los distintos cafés de especialidad.
 
-B. positive user reviews on the business’s listing on Yelp or Google Maps.
-
-7. A. 1
 B. a ***way*** to connect with other cafes and coffee-industry colleagues in different cities
-Una manera de conectar con otros colegas cafeteros y de la industria del cafe
+
+Una manera de conectar con otros colegas cafeteros y de la industria del café en distintas ciudades.
+
+C. positive user reviews on the business’s listing on Yelp or Google Maps
+
 
