@@ -36,6 +36,7 @@ Dentro del predicado, el verbo es la parte más importante.
     *   **Acción:** `run`, `code`, `think`, `create`.
     *   **Estado (Verbos "to be", "feel", "seem"):** `is`, `are`, `feel`, `seem`.
 
+
 ---
 
 # 3. Los Acompañantes Esenciales (Los Órganos Vitales)
