@@ -35,8 +35,8 @@ D. Walsh and his team
 E. The opinion of they are not necessarily hitting as many eyeballs as they think they could or should
 F. The coffee shop 
 G. Anca Ungureanu
-H. The coffee shop
-I. The users of Anca profile
+H. The coffee shop (están en contra de que? De la cafetería)
+I. The users of Anca profile (no va por es plural y es un posesivo( se pregunta De Quien)) RTO: The app
 J. The Users
 
 
@@ -52,3 +52,4 @@ C. positive user reviews on the business’s listing on Yelp or Google Maps
 
 
 Una preposición como for, in,on, about, opposite siempre lleva ing después? Todas las preposiciones? 
+disheartening. = Desgarrador 
