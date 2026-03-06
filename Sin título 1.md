@@ -55,3 +55,13 @@ D. Algo de cielo raso
 
 Una preposición como for, in,on, about, opposite siempre lleva ing después? Todas las preposiciones? 
 disheartening. = Desgarrador 
+
+ well-informed = argumento/fundamento/informado 
+guesswork = Conjetura (adivinar - trabajo)
+Draws= cajon/atraer. Se usa cuando tenés un político que llena un estadio draws many people. La idea de atraer humanos, traer de una manera humana
+
+Run: Operar
+
+Feed: Página de inicio. Viene de alimentar? 
+
+6 y 7 entran en el vocabulario del examen 
