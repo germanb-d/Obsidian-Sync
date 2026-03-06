@@ -40,7 +40,9 @@ J. The Users
 
 5. Completar
 A. the lens in which we view the global speciality cafe world
-El lente con el cual observamos el 
+El ***lente*** con el cual observamos el mundo de los distintos cafés de especialidad.
+
+B. positive user reviews on the business’s listing on Yelp or Google Maps.
 
 7. A. 1
 B. 
