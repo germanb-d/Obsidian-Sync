@@ -10,6 +10,7 @@ La lapicera se le llama kiki o quiere decir que quiere una lapicera
 
  2. 
  A. FALSO “We’ve put a lot of time and energy into creating beautiful content. But as a result of that algorithm, we find we’re not necessarily hitting as many eyeballs as we think we could or should, and sometimes that can be a little disheartening.”
+Corrección: “We want to have design choices that play into nice photos
  
 B. VERDADERO Misma frase que la anterior y
 
