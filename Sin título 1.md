@@ -48,7 +48,9 @@ B. a ***way*** to connect with other cafes and coffee-industry colleagues in dif
 
 Una manera de conectar con otros colegas cafeteros y de la industria del café en distintas ciudades.
 
-C. positive user reviews on the business’s listing on Yelp or Google Maps
+C. positive user reviews on the business’s listing (se puede referir a páginas o perfiles) on Yelp or Google Maps.
+
+D. Algo de cielo raso
 
 
 Una preposición como for, in,on, about, opposite siempre lleva ing después? Todas las preposiciones? 
