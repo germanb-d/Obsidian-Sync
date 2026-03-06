@@ -39,7 +39,9 @@ J. The Users
 
 
 5. Completar
+A. the lens in which we view the global speciality cafe world
+El lente con el cual observamos el 
 
-6. A. 1
+7. A. 1
 B. 
 
