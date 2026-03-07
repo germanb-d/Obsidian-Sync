@@ -103,3 +103,10 @@ Estas partes añaden detalle, contexto y descripción, pero no son estrictamente
 **Consejo Práctico:** Para analizar cualquier oración, **empieza siempre por encontrar el verbo principal**. Una vez que lo tengas, pregúntate "¿quién o qué [verbo]?" para hallar el **sujeto**, y luego "¿[verbo] qué?" para hallar el **objeto directo**. El resto de elementos son modificadores que añaden detalle.
 
 
+## Hfdkijsahfjk
+
+
+#### Adsjkfaslfjkh
+
+##### Sdjklafajlk
+
