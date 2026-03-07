@@ -56,7 +56,6 @@ Estos elementos completan el significado del verbo. No todas las oraciones los t
     *   (Nota: A menudo va después de preposiciones como "to" o "for": "The programmer sent a report **to the team**").
 
 ---
-
 # 4. Los Modificadores (La Sangre Y la Piel)
 
 Estas partes añaden detalle, contexto y descripción, pero no son estrictamente esenciales para la gramática básica.
