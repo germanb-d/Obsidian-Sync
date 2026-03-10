@@ -83,7 +83,7 @@ En proyectos grandes esto implicaba **mucho tiempo de espera**.
 
 ---
 
-# Proceso Unificado (UP)
+## Proceso Unificado (UP)
 
 El **Proceso Unificado** es un modelo de desarrollo más organizado que el cascada, pero sigue siendo bastante estructurado.
 
@@ -130,7 +130,7 @@ Si los **requisitos cambian a mitad del desarrollo**, puede ser difícil adaptar
 
 ---
 
-# Modelo en V
+## Modelo en V
 
 El **modelo en V** es una evolución del modelo cascada.
 
@@ -171,7 +171,7 @@ Sistema de ventas online.
 
 ---
 
-# Ciclo de Vida en Espiral
+## Ciclo de Vida en Espiral
 
 El **modelo espiral** combina:
 
@@ -234,7 +234,7 @@ Esto proporciona **mejor visibilidad del proyecto**.
 
 ---
 
-# Limitaciones de los modelos tradicionales
+## Limitaciones de los modelos tradicionales
 
 Estos modelos fueron muy útiles en el pasado porque:
 
