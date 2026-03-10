@@ -97,31 +97,25 @@ Divide el desarrollo en **fases principales**:
     
 4. **Transición**
 
-Características:
+Características
 
 - Se basa en **casos de uso definidos por el usuario**.
     
 - Tiene **iteraciones**, pero el proceso sigue siendo bastante planificado.
     
 - Funciona mejor cuando **los requisitos no cambian demasiado**.
-    
 
-Ejemplo:
+> [!example] Ejemplo
+> Sistema para una clínica.
+> 1. **Inicio**  
+>     Se define qué hará el sistema (pacientes, turnos, médicos).
+> 2. **Elaboración**  
+>     Se diseña la arquitectura del sistema.
+> 3. **Construcción**  
+>     Se programan los módulos.
+> 4. **Transición**  
+>     Se entrega el sistema al cliente.
 
-Sistema para una clínica.
-
-1. **Inicio**  
-    Se define qué hará el sistema (pacientes, turnos, médicos).
-    
-2. **Elaboración**  
-    Se diseña la arquitectura del sistema.
-    
-3. **Construcción**  
-    Se programan los módulos.
-    
-4. **Transición**  
-    Se entrega el sistema al cliente.
-    
 
 Problema:
 
