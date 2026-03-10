@@ -97,7 +97,7 @@ Divide el desarrollo en **fases principales**:
     
 4. **Transición**
 
-Características
+Características:
 
 - Se basa en **casos de uso definidos por el usuario**.
     
