@@ -45,7 +45,7 @@ En resumen, una API es como una "caja de herramientas" que los programadores pue
 ¿Cuál es la pregunta clave que responde una API? :: "¿Para qué desarrollarlos una y otra vez?"
 ¿Cuál es el propósito principal de una API? :: Ofrecer soluciones ya implementadas y probadas para funcionalidades básicas, evitando que los programadores las creen desde cero repetidamente.
 Menciona un ejemplo de API en [[Java]] para manejar [[Colecciones]] de datos. :: Collections API.
-¿Qué API de [[Java]] se utiliza para el manejo de errores? :: Exception API.
+¿Qué API de [[Java]] se utiliza para el manejo de errores? :: Exception API. <!--SR:!2026-03-13,3,250-->
 ¿Qué APIs de [[Java]] se usan para [[Interfaces]] gráficas? :: [[AWT]]/[[Swing]] API.
 ¿Para qué sirve la IO API en [[Java]]? :: Para entrada/salida de datos.
 ¿Qué API de [[Java]] se usa para comunicaciones de red? :: Network API.
