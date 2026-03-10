@@ -11,7 +11,6 @@ Dewklfnaew
 
 
 
-^sprout-917346315
 Q ; Que dia es Hoy? ;
 A ; Dia orrible ;
 
