@@ -86,7 +86,7 @@ En proyectos grandes esto implicaba **mucho tiempo de espera**.
 ## Proceso Unificado (UP)
 
 El **Proceso Unificado** es un modelo de desarrollo más organizado que el cascada, pero sigue siendo bastante estructurado.
-
+%%> Se diferencia con el de cascada en que este se contruye en partes (iteraciones) y el cliente puede ver avances %%
 Divide el desarrollo en **fases principales**:
 
 1. **Inicio (Inception)**
@@ -96,7 +96,6 @@ Divide el desarrollo en **fases principales**:
 3. **Construcción**
     
 4. **Transición**
-    
 
 Características:
 
