@@ -420,9 +420,9 @@ Modelos de desarrollo tradicionales conocidos:
 ?
 - Proceso Unificado (UP)
 - Modelo en V
-- Ciclo de Vida en Espiral
+- Ciclo de Vida en Espiral <!--SR:!2026-03-12,1,226-->
 
-Modelos tradicionales derivan de → Modelo en cascada
+Modelos tradicionales derivan de → Modelo en cascada <!--SR:!2026-03-12,1,226-->
 
 ## Modelo en Cascada
 
@@ -453,7 +453,7 @@ Esto genera problemas porque si los requisitos cambian o algo se entendió mal, 
 ## Proceso Unificado (UP)
 
 Proceso Unificado (UP) → Modelo de desarrollo más organizado que el cascada, pero estructurado <!--SR:!2026-03-12,1,226-->
-Proceso Unificado (UP) se construye en partes (iteraciones) ↔ El modelo en cascada es lineal <!--SR:!2000-01-01,1,250!2026-03-12,1,226-->
+Proceso Unificado (UP) se construye en partes (iteraciones) ↔ El modelo en cascada es lineal <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
 
 Fases principales del Proceso Unificado:
 ?
@@ -466,7 +466,7 @@ Características del Proceso Unificado:
 ?
 - Se basa en casos de uso definidos por el usuario.
 - Tiene iteraciones, pero el proceso sigue siendo bastante planificado.
-- Funciona mejor cuando los requisitos no cambian demasiado.
+- Funciona mejor cuando los requisitos no cambian demasiado. <!--SR:!2026-03-12,1,226-->
 
 Problema del Proceso Unificado → Si los requisitos cambian a mitad del desarrollo, puede ser difícil adaptarse. <!--SR:!2026-03-12,1,226-->
 
@@ -485,20 +485,20 @@ Etapas de desarrollo y prueba asociadas en el Modelo en V:
 |Requisitos|Prueba de aceptación|
 |Diseño del sistema|Prueba del sistema|
 |Diseño detallado|Prueba de integración|
-|Implementación|Prueba unitaria|
+|Implementación|Prueba unitaria| <!--SR:!2026-03-12,1,226-->
 
 Características del Modelo en V:
 ?
 - Cada fase se diseña, implementa y prueba antes de pasar a la siguiente.
 - No tiene tanto análisis de riesgos como otros modelos.
-- El desarrollo sigue siendo secuencial y bastante rígido.
+- El desarrollo sigue siendo secuencial y bastante rígido. <!--SR:!2026-03-12,1,226-->
 
 ## Ciclo de Vida en Espiral
 
 Modelo espiral combina → Modelo cascada y desarrollo iterativo <!--SR:!2026-03-12,1,226-->
 Modelo espiral fue propuesto por → Barry Boehm <!--SR:!2026-03-12,1,226-->
 
-El proyecto en el modelo espiral se desarrolla en → Ciclos llamados espirales
+El proyecto en el modelo espiral se desarrolla en → Ciclos llamados espirales <!--SR:!2026-03-12,1,226-->
 
 Actividades en cada ciclo del Modelo en Espiral:
 ?
@@ -511,7 +511,7 @@ El Modelo en Espiral permite:
 ?
 - Ver avances del proyecto
 - Identificar problemas temprano
-- Reducir riesgos
+- Reducir riesgos <!--SR:!2026-03-12,1,226-->
 
 ## Limitaciones de los modelos tradicionales
 
@@ -527,11 +527,11 @@ Problemas de los modelos tradicionales cuando:
 - Se necesita desarrollar rápido
 - El cliente quiere ver resultados tempranos
 
-Para resolver los problemas de los modelos tradicionales aparecen → Las metodologías ágiles
+Para resolver los problemas de los modelos tradicionales aparecen → Las metodologías ágiles <!--SR:!2026-03-12,1,226-->
 
 ## Metodologías Ágiles
 
-Metodologías ágiles buscan → Hacer el desarrollo más flexible
+Metodologías ágiles buscan → Hacer el desarrollo más flexible <!--SR:!2026-03-12,1,226-->
 
 Objetivo de las metodologías ágiles:
 ?
@@ -544,9 +544,9 @@ Características principales de las metodologías ágiles:
 - Desarrollo incremental
 - Iteraciones cortas
 - Comunicación constante con el cliente
-- Menos documentación
+- Menos documentación <!--SR:!2026-03-12,1,226-->
 
-En metodologías ágiles se entregan versiones funcionales del sistema → De manera frecuente
+En metodologías ágiles se entregan versiones funcionales del sistema → De manera frecuente <!--SR:!2026-03-12,1,226-->
 
 Esto permite en metodologías ágiles:
 ?
@@ -560,8 +560,8 @@ Manifiesto Ágil establece → Valores fundamentales para el desarrollo de softw
 
 ### 1. El equipo es lo más importante
 
-El equipo es el principal factor de éxito ↔ Un buen equipo es más importante que un entorno perfecto <!--SR:!2000-01-01,1,250!2026-03-12,1,226-->
-Primero se forma el equipo y luego se organiza el trabajo ↔ El equipo es lo más importante <!--SR:!2000-01-01,1,250!2026-03-12,1,226-->
+El equipo es el principal factor de éxito ↔ Un buen equipo es más importante que un entorno perfecto <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
+Primero se forma el equipo y luego se organiza el trabajo ↔ El equipo es lo más importante <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
 
 ### 2. Menor documentación exhaustiva
 
@@ -570,7 +570,7 @@ La idea es crear documentos → Solo cuando son necesarios, que sean claros y br
 
 ### 3. Colaboración con el cliente
 
-Se prioriza trabajar junto al cliente y recibir feedback constante ↔ En lugar de depender exclusivamente de contratos rígidos <!--SR:!2000-01-01,1,250!2026-03-12,1,226-->
+Se prioriza trabajar junto al cliente y recibir feedback constante ↔ En lugar de depender exclusivamente de contratos rígidos <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
 
 ### 4. Respuesta al cambio
 
@@ -589,4 +589,4 @@ Metodologías ágiles:
 ??
 - Flexibles
 - Iterativas
-- Adaptadas a cambios <!--SR:!2026-03-12,1,226!2000-01-01,1,250-->
+- Adaptadas a cambios <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
