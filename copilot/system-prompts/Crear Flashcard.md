@@ -1,8 +1,8 @@
-![[06-03-2026-1772832265210.webp|697]]
-
-
-![[06-03-2026-1772832809635.webp]]
-
+---
+copilot-system-prompt-created: 1773234939115
+copilot-system-prompt-modified: 1773234939115
+copilot-system-prompt-last-used: 0
+---
 Con el contexto de {[[Nota Name]]} crea flashcards, estas pueden ser:
 Single-Line Basic: Pregunta → respuesta
 Single-Line Bidirectional: Info 1 ↔ Info 2
@@ -14,3 +14,4 @@ Multi-line Bidirectional:
 Info 1
 ??
 Info 2
+
