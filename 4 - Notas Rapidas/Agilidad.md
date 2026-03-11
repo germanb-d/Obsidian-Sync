@@ -398,195 +398,28 @@ Si querés, también puedo hacerte **una versión ultra resumida tipo machete de
     
 
 porque **esas comparaciones suelen aparecer muchísimo en exámenes de Ingeniería de Software**.
+
 # Flashcards
-#Mazo/POO2/Agilidad
+#Mazo
 
-## Contexto
+Qué son los modelos de desarrollo de software → Describen cómo organizar el proceso de creación de un sistema.
 
-Modelos de desarrollo de software → Describen cómo organizar el proceso de creación de un sistema <!--SR:!2026-03-12,1,226-->
-Modelos muy estructurados → Cada etapa debe completarse antes de pasar a la siguiente <!--SR:!2026-03-12,1,226-->
+Cuándo funcionan bien los modelos estructurados → Requisitos estables, mucho presupuesto, tiempo no crítico.
 
-Modelos estructurados funcionan bien cuando:
+Modelos de desarrollo tradicionales (ejemplos) → Proceso Unificado (UP), Modelo en V, Ciclo de Vida en Espiral.
+
+Problema principal del Modelo en Cascada
 ?
-- Los requisitos del sistema son estables
-- El proyecto tiene mucho presupuesto
-- El tiempo de desarrollo no es crítico <!--SR:!2026-03-12,1,226-->
+El usuario ve el sistema casi al final, lo que hace costoso corregir cambios o malentendidos.
 
-Problema de modelos estructurados → Los requisitos cambian constantemente <!--SR:!2026-03-12,1,226-->
+Modelo en V (estructura) ↔ Proceso en forma de V, con etapas de desarrollo en un lado y etapas de prueba asociadas en el otro.
 
-## Modelos de desarrollo tradicionales
+Actividades de cada ciclo en el Modelo Espiral → Planificación, Análisis de riesgos, Desarrollo, Evaluación.
 
-Modelos de desarrollo tradicionales conocidos:
+Objetivo de las Metodologías Ágiles → Reducir malentendidos, entregar software más rápido, adaptarse a cambios.
+
+Características principales de las Metodologías Ágiles → Desarrollo incremental, iteraciones cortas, comunicación constante con el cliente, menos documentación.
+
+Diferencia clave: Modelos tradicionales vs. Metodologías ágiles
 ?
-- Proceso Unificado (UP)
-- Modelo en V
-- Ciclo de Vida en Espiral <!--SR:!2026-03-12,1,226-->
-
-Modelos tradicionales derivan de → Modelo en cascada <!--SR:!2026-03-12,1,226-->
-
-## Modelo en Cascada
-
-Modelo en cascada → Uno de los primeros modelos de desarrollo de software <!--SR:!2026-03-12,1,226-->
-Modelo en cascada se basa en → Una secuencia lineal de etapas <!--SR:!2026-03-12,1,226-->
-
-Etapas típicas del Modelo en Cascada:
-?
-1. Análisis
-2. Diseño
-3. Codificación
-4. Pruebas
-5. Operación
-6. Mantenimiento <!--SR:!2026-03-12,1,226-->
-
-Funcionamiento del Modelo en Cascada:
-?
-- Primero se analizan todos los requisitos.
-- Luego se diseña el sistema.
-- Después se programa.
-- Finalmente se prueba y se entrega. <!--SR:!2026-03-12,1,226-->
-
-Problema del Modelo en Cascada:
-?
-El usuario recién puede ver o usar el sistema casi al final del proceso.
-Esto genera problemas porque si los requisitos cambian o algo se entendió mal, puede ser muy costoso corregirlo. <!--SR:!2026-03-12,1,226-->
-
-## Proceso Unificado (UP)
-
-Proceso Unificado (UP) → Modelo de desarrollo más organizado que el cascada, pero estructurado <!--SR:!2026-03-12,1,226-->
-Proceso Unificado (UP) se construye en partes (iteraciones) ↔ El modelo en cascada es lineal <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-
-Fases principales del Proceso Unificado:
-?
-1. Inicio (Inception)
-2. Elaboración
-3. Construcción
-4. Transición <!--SR:!2026-03-12,1,226-->
-
-Características del Proceso Unificado:
-?
-- Se basa en casos de uso definidos por el usuario.
-- Tiene iteraciones, pero el proceso sigue siendo bastante planificado.
-- Funciona mejor cuando los requisitos no cambian demasiado. <!--SR:!2026-03-12,1,226-->
-
-Problema del Proceso Unificado → Si los requisitos cambian a mitad del desarrollo, puede ser difícil adaptarse. <!--SR:!2026-03-12,1,226-->
-
-## Modelo en V
-
-Modelo en V → Evolución del modelo cascada <!--SR:!2026-03-12,1,226-->
-Modelo en V se llama así porque → El proceso se representa con forma de V <!--SR:!2026-03-12,1,226-->
-
-Lado izquierdo del Modelo en V → Etapas de desarrollo <!--SR:!2026-03-12,1,226-->
-Lado derecho del Modelo en V → Etapas de prueba <!--SR:!2026-03-12,1,226-->
-
-Etapas de desarrollo y prueba asociadas en el Modelo en V:
-?
-|Desarrollo|Prueba|
-|---|---|
-|Requisitos|Prueba de aceptación|
-|Diseño del sistema|Prueba del sistema|
-|Diseño detallado|Prueba de integración|
-|Implementación|Prueba unitaria| <!--SR:!2026-03-12,1,226-->
-
-Características del Modelo en V:
-?
-- Cada fase se diseña, implementa y prueba antes de pasar a la siguiente.
-- No tiene tanto análisis de riesgos como otros modelos.
-- El desarrollo sigue siendo secuencial y bastante rígido. <!--SR:!2026-03-12,1,226-->
-
-## Ciclo de Vida en Espiral
-
-Modelo espiral combina → Modelo cascada y desarrollo iterativo <!--SR:!2026-03-12,1,226-->
-Modelo espiral fue propuesto por → Barry Boehm <!--SR:!2026-03-12,1,226-->
-
-El proyecto en el modelo espiral se desarrolla en → Ciclos llamados espirales <!--SR:!2026-03-12,1,226-->
-
-Actividades en cada ciclo del Modelo en Espiral:
-?
-1. Planificación
-2. Análisis de riesgos
-3. Desarrollo
-4. Evaluación <!--SR:!2026-03-12,1,226-->
-
-El Modelo en Espiral permite:
-?
-- Ver avances del proyecto
-- Identificar problemas temprano
-- Reducir riesgos <!--SR:!2026-03-12,1,226-->
-
-## Limitaciones de los modelos tradicionales
-
-Modelos tradicionales fueron útiles porque:
-?
-- Solo grandes empresas desarrollaban software
-- Los proyectos tenían presupuestos muy altos
-- Los requisitos cambiaban poco <!--SR:!2026-03-12,1,226-->
-
-Problemas de los modelos tradicionales cuando:
-?
-- Los requisitos cambian mucho
-- Se necesita desarrollar rápido
-- El cliente quiere ver resultados tempranos
-
-Para resolver los problemas de los modelos tradicionales aparecen → Las metodologías ágiles <!--SR:!2026-03-12,1,226-->
-
-## Metodologías Ágiles
-
-Metodologías ágiles buscan → Hacer el desarrollo más flexible <!--SR:!2026-03-12,1,226-->
-
-Objetivo de las metodologías ágiles:
-?
-- Reducir malentendidos
-- Entregar software más rápido
-- Adaptarse a cambios <!--SR:!2026-03-12,1,226-->
-
-Características principales de las metodologías ágiles:
-?
-- Desarrollo incremental
-- Iteraciones cortas
-- Comunicación constante con el cliente
-- Menos documentación <!--SR:!2026-03-12,1,226-->
-
-En metodologías ágiles se entregan versiones funcionales del sistema → De manera frecuente <!--SR:!2026-03-12,1,226-->
-
-Esto permite en metodologías ágiles:
-?
-- Detectar errores antes
-- Ajustar requisitos
-- Mejorar el producto continuamente <!--SR:!2026-03-12,1,226-->
-
-## Manifiesto Ágil
-
-Manifiesto Ágil establece → Valores fundamentales para el desarrollo de software <!--SR:!2026-03-12,1,226-->
-
-### 1. El equipo es lo más importante
-
-El equipo es el principal factor de éxito ↔ Un buen equipo es más importante que un entorno perfecto <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-Primero se forma el equipo y luego se organiza el trabajo ↔ El equipo es lo más importante <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-
-### 2. Menor documentación exhaustiva
-
-Menor documentación exhaustiva no significa → Eliminar la documentación <!--SR:!2026-03-12,1,226-->
-La idea es crear documentos → Solo cuando son necesarios, que sean claros y breves, y apoyar la comunicación con el cliente <!--SR:!2026-03-12,1,226-->
-
-### 3. Colaboración con el cliente
-
-Se prioriza trabajar junto al cliente y recibir feedback constante ↔ En lugar de depender exclusivamente de contratos rígidos <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-
-### 4. Respuesta al cambio
-
-En metodologías tradicionales el plan debe seguirse estrictamente ↔ En metodologías ágiles el plan puede adaptarse a los cambios del proyecto <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-Esto permite reaccionar mejor cuando → Cambian los requisitos o aparecen nuevas necesidades <!--SR:!2026-03-12,1,226-->
-
-## Idea clave para recordar (muy importante)
-
-Modelos tradicionales:
-??
-- Rígidos
-- Secuenciales
-- Cambios costosos <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
-
-Metodologías ágiles:
-??
-- Flexibles
-- Iterativas
-- Adaptadas a cambios <!--SR:!2026-03-12,1,226!2026-03-12,1,226-->
+Tradicionales: rígidos, secuenciales, cambios costosos. Ágiles: flexibles, iterativas, adaptadas a cambios.
