@@ -469,3 +469,4 @@ Aquí tienes una serie de flashcards basadas en el contenido de tu nota [[Agilid
 
 -   Modelos tradicionales | rígidos, secuenciales, cambios costosos
 -   Metodologías ágiles | flexibles, iterativas, adaptadas a cambios
+

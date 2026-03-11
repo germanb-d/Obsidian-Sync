@@ -1,11 +1,10 @@
 ---
 copilot-command-context-menu-enabled: false
 copilot-command-slash-enabled: false
-copilot-command-context-menu-order: 1120
+copilot-command-context-menu-order: 120
 copilot-command-model-key: ""
 copilot-command-last-used: 0
 ---
-
 Convert {} into a Twitter thread following these rules:
 
     1. Each tweet must be under 240 characters
