@@ -43,7 +43,7 @@ Una [[Clase]] puede implementar varias interfaces:
 
   ```java
    public class Perro implements Mascota, AnimalDomestico { ... }
-   ```
+  ``` 
 
 Si no se implementan todos los métodos → la clase debe declararse **abstract**.
 
