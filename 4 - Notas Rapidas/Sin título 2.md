@@ -16,4 +16,10 @@ En este ejemplo, el programador está realizando un casteo explícito de un obje
 Lambda: Yo con clases anonimas pedo crear y luego ejecutar, son dos etapas separadas. En cambio, las expresiones lambda permiten definir y ejecutar una función anónima en una sola etapa, lo que puede simplificar el código y mejorar la legibilidad. Por ejemplo, en Java, puedo definir una expresión lambda como `(x) -> x * 2` y ejecutarla inmediatamente, sin necesidad de crear una clase anónima separada. 
 - Puede devolver sin return en caso de que solo se ejecute una linea. 
 - Toma de contexto todas las variables declaradas en esa misma clase que se esta declarando.
-	-  Runnable,Predicate
+	- 
+- Tipo T es lo q sea 
+  
+  
+-  Runnable,Predicate , Fuction 
+
+Supllier, runnable, predicate
