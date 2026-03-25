@@ -23,3 +23,7 @@ Lambda: Yo con clases anonimas pedo crear y luego ejecutar, son dos etapas separ
 -  Runnable,Predicate , Fuction 
 
 Supllier, runnable, predicate
+
+
+Predicate sale de Fuction? 
+Donde puedo usar Predicate puedo usar Fuction?
