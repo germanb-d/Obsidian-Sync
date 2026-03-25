@@ -13,4 +13,7 @@ Un ejemplo de casteo explícito sería: String s = (String) o;
 En este ejemplo, el programador está realizando un casteo explícito de un objeto de tipo Object a un string, lo que puede lanzar una excepción si el objeto no es en realidad un string. Esto destaca la importancia de manejar el casteo de manera segura para evitar errores en tiempo de ejecución.
 
 
-Lambda: Yo con clases anonimas pedo crear y luego ejecutar, son dos etapas separadas. En cambio, las expresiones lambda permiten definir y ejecutar una función anónima en una sola etapa, lo que puede simplificar el código y mejorar la legibilidad. Por ejemplo, en Java, puedo definir una expresión lambda como `(x) -> x * 2` y ejecutarla inmediatamente, sin necesidad de crear una clase anónima separada. UNA LA
+Lambda: Yo con clases anonimas pedo crear y luego ejecutar, son dos etapas separadas. En cambio, las expresiones lambda permiten definir y ejecutar una función anónima en una sola etapa, lo que puede simplificar el código y mejorar la legibilidad. Por ejemplo, en Java, puedo definir una expresión lambda como `(x) -> x * 2` y ejecutarla inmediatamente, sin necesidad de crear una clase anónima separada. 
+- Puede devolver sin return en caso de que solo se ejecute una linea. 
+- Toma de contexto todas las variables declaradas en esa misma clase que se esta declarando.
+	-  Runnable,Predicate
