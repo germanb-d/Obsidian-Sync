@@ -39,8 +39,8 @@ Building platforms - auditing
 
 Report - Audits - tester
 
+En el punto 6 si dividimos lo subrayado en sustantivo, oracion y frase que los une ( that y where)
 
-En el pinto 
 ---
 On: está quieto sobre.... ()
 On to: colócalo sobre.... (Se está moviendo)  
