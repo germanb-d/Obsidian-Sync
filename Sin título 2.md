@@ -57,6 +57,13 @@ Where: con lugares
 When: con tiempos (por ej: moment)
 Whose(cuyo): marca pertenencia (belonging?)
 
+Estas oraciones se llaman defining porque son necesarias para reconocer a la persona 
+
+A diferencia de "Harry Potter", ==which is a very popular series of novels==, is very famous in Argentina
+Es una oración non defining, siempre está entre comas 
+Se pueden usar palabras como:
+Which: cosas 
+Who: personas 
 
 ---
 On: está quieto sobre.... ()
