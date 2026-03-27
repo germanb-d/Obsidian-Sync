@@ -3,7 +3,7 @@ copilot-command-context-menu-enabled: true
 copilot-command-slash-enabled: true
 copilot-command-context-menu-order: 130
 copilot-command-model-key: ""
-copilot-command-last-used: 1773236542790
+copilot-command-last-used: 1774624175115
 ---
 Escribe siempre primero:
 
