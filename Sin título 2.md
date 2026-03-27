@@ -14,3 +14,9 @@ Que en las cuestiones legales las consecuencias son mucho más graves
 
 
 AfterThought
+
+
+
+Algorithm bias - However - on a massive scale
+
+Opportunity to - protect digital masks 
