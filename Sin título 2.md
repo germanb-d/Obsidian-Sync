@@ -65,6 +65,8 @@ Se pueden usar palabras como:
 Which: cosas 
 Who: personas 
 
+Ambas formas de oraciones siguen siendo clausulas relativas 
+
 ---
 On: está quieto sobre.... ()
 On to: colócalo sobre.... (Se está moviendo)  
