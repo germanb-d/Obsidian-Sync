@@ -40,6 +40,16 @@ Building platforms - auditing
 Report - Audits - tester
 
 En el punto 6 si dividimos lo subrayado en sustantivo, oracion y frase que los une ( that y where)
+Igual que como es en español al decir un sustantivo, una oración y la frase que los une ( un que o un dónde)
+
+Tom cruise is an actor
+Tom cruise stand in "Mission Impossible"
+
+Ambas las puedo unir con un who o that. Igual que en español con un que
+
+El sustantivo que sería modificado por la oración ( that stand in "Mission Impossible") es actor, no Tom Cruise.
+
+Cláusula relativa es como se le llama a esa oración que modifica  a actor
 
 ---
 On: está quieto sobre.... ()
