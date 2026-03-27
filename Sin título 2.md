@@ -51,6 +51,12 @@ El sustantivo que sería modificado por la oración ( that stand in "Mission Imp
 
 Cláusula relativa es como se le llama a esa oración que modifica  a actor
 
+Al that se le llama pronombre relativo, va con personas o sustantivos (cosas e ideas)
+
+Where: con lugares
+When: con tiempos (por ej: moment)
+
+
 ---
 On: está quieto sobre.... ()
 On to: colócalo sobre.... (Se está moviendo)  
