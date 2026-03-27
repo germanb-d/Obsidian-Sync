@@ -35,3 +35,4 @@ After you review a tracked file, Syro's weighted scheduler picks the next review
 ---
 
 You have finished the basic Syro note review tutorial. Add your first timeline checkpoint on the right and move this note out of today's `NEW NOTES` queue when you are ready.
+
