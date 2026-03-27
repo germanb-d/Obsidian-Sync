@@ -1,3 +1,6 @@
+---
+flashcard_uid: f990eb6b
+---
 
 ## Contexto
 
@@ -396,27 +399,3 @@ Si querés, también puedo hacerte **una versión ultra resumida tipo machete de
 
 porque **esas comparaciones suelen aparecer muchísimo en exámenes de Ingeniería de Software**.
 
-# Flashcards
-#Mazo
-
-Qué son los modelos de desarrollo de software → Describen cómo organizar el proceso de creación de un sistema.
-
-Cuándo funcionan bien los modelos estructurados → Requisitos estables, mucho presupuesto, tiempo no crítico.
-
-Modelos de desarrollo tradicionales (ejemplos) → Proceso Unificado (UP), Modelo en V, Ciclo de Vida en Espiral.
-
-Problema principal del Modelo en Cascada
-?
-El usuario ve el sistema casi al final, lo que hace costoso corregir cambios o malentendidos.
-
-Modelo en V (estructura) ↔ Proceso en forma de V, con etapas de desarrollo en un lado y etapas de prueba asociadas en el otro.
-
-Actividades de cada ciclo en el Modelo Espiral → Planificación, Análisis de riesgos, Desarrollo, Evaluación.
-
-Objetivo de las Metodologías Ágiles → Reducir malentendidos, entregar software más rápido, adaptarse a cambios.
-
-Características principales de las Metodologías Ágiles → Desarrollo incremental, iteraciones cortas, comunicación constante con el cliente, menos documentación.
-
-Diferencia clave: Modelos tradicionales vs. Metodologías ágiles
-?
-Tradicionales: rígidos, secuenciales, cambios costosos. Ágiles: flexibles, iterativas, adaptadas a cambios.

@@ -1,8 +1,8 @@
+---
+flashcard_uid: 961cab66
+---
 Pepe ;; frontpepe 
 
-%%> What occurs in the mitochondria?;; %%
-%%> This is why it generates ATP %%
 
-
-
+FLascard es Flashcard
 
