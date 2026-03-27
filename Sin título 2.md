@@ -55,6 +55,7 @@ Al that se le llama pronombre relativo, va con personas o sustantivos (cosas e i
 
 Where: con lugares
 When: con tiempos (por ej: moment)
+Whose(cuyo): marca pertenencia (belonging?)
 
 
 ---
