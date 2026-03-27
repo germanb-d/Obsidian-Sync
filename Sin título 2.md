@@ -33,9 +33,14 @@ And regulated - audited for acauricy - failproof (a prueba de error) - laballing
 
 Beyond the realm of (mas Alla del dominio)
 
-Blon
+Blind spots
+
+Building platforms - auditing 
+
+Report - Audits - tester
 
 
+En el pinto 
 ---
 On: está quieto sobre.... ()
 On to: colócalo sobre.... (Se está moviendo)  
