@@ -19,4 +19,16 @@ AfterThought
 
 Algorithm bias - However - on a massive scale
 
-Opportunity to - protect digital masks 
+Opportunity to - protect digital masks on to
+
+facial recognition software - unless (a menos que) 
+
+Undergraduate - used to
+
+
+---
+On: está quieto sobre.... ()
+On to: colócalo sobre.... (Se está moviendo)  
+
+In: Está quieto dentro de....
+In to: colócalo dentro de....
