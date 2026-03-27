@@ -29,8 +29,11 @@ What was going on - turns out - the same
 
 How recognize - the training sets - harder to detect
 
-And r
+And regulated - audited for acauricy - failproof (a prueba de error) - laballing faces 
 
+Beyond the realm of (mas Alla del dominio)
+
+Blon
 
 
 ---
