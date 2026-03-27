@@ -25,6 +25,13 @@ facial recognition software - unless (a menos que)
 
 Undergraduate - used to
 
+What was going on - turns out - the same
+
+How recognize - the training sets - harder to detect
+
+And r
+
+
 
 ---
 On: está quieto sobre.... ()
