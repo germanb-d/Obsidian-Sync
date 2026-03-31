@@ -397,3 +397,7 @@ Si querés, también puedo hacerte **una versión ultra resumida tipo machete de
 
 porque **esas comparaciones suelen aparecer muchísimo en exámenes de Ingeniería de Software**.
 
+Q | ppepe |
+A | pablo |
+
+
