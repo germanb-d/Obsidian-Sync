@@ -429,3 +429,6 @@ T | Modelo en V: Relación Desarrollo-Prueba |
 Q | En el Modelo en V, ¿qué relación existe entre las etapas de desarrollo y las etapas de prueba? |
 A | Cada etapa de desarrollo tiene una etapa de prueba asociada en el lado derecho de la V. |
 I | El modelo en V visualiza las etapas de prueba como contrapartes directas de las etapas de desarrollo. |
+
+
+
