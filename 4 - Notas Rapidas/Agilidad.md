@@ -1,6 +1,3 @@
----
-flashcard_uid: f990eb6b
----
 
 ## Contexto
 
@@ -17,7 +14,7 @@ Estos modelos funcionan bien cuando:
 Sin embargo, con el tiempo se observó que **los requisitos cambian constantemente**, por lo que estos modelos comenzaron a presentar problemas.
 
 ---
-
+ 
 # Modelos de desarrollo tradicionales
 
 Algunos modelos de desarrollo conocidos son:
