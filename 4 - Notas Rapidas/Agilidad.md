@@ -13,6 +13,7 @@ Estos modelos funcionan bien cuando:
 
 Sin embargo, con el tiempo se observó que **los requisitos cambian constantemente**, por lo que estos modelos comenzaron a presentar problemas.
 
+
 ---
  
 # Modelos de desarrollo tradicionales
@@ -395,26 +396,4 @@ Si querés, también puedo hacerte **una versión ultra resumida tipo machete de
     
 
 porque **esas comparaciones suelen aparecer muchísimo en exámenes de Ingeniería de Software**.
-
-# Flashcards
-#Mazo
-
-Modelos de desarrollo tradicionales → Modelos muy estructurados donde cada etapa debe completarse antes de pasar a la siguiente.
-
-Los modelos tradicionales funcionan bien cuando → Requisitos estables, mucho presupuesto, tiempo de desarrollo no crítico.
-
-Etapas del Modelo en Cascada → Análisis, Diseño, Codificación, Pruebas, Operación, Mantenimiento.
-
-Problema principal del Modelo en Cascada → El usuario ve el sistema casi al final, cambios costosos de corregir.
-
-Actividades en cada ciclo del Modelo Espiral → Planificación, Análisis de riesgos, Desarrollo, Evaluación.
-
-Objetivo de las metodologías ágiles → Reducir malentendidos, entregar software más rápido, adaptarse a cambios.
-
-Características principales de las metodologías ágiles → Desarrollo incremental, iteraciones cortas, comunicación constante con el cliente, menos documentación.
-
-Modelos tradicionales: rígidos, secuenciales, cambios costosos
-??
-Metodologías ágiles: flexibles, iterativas, adaptadas a cambios
-
 
