@@ -397,7 +397,35 @@ Si querés, también puedo hacerte **una versión ultra resumida tipo machete de
 
 porque **esas comparaciones suelen aparecer muchísimo en exámenes de Ingeniería de Software**.
 
+^learnkit-132889128
 Q | ppepe |
 A | pablo |
 
+^learnkit-758167166
+T | Metodologías Ágiles: Objetivo Principal |
+Q | ¿Cuál es el objetivo principal de las metodologías ágiles en el desarrollo de software? |
+A | Hacer el desarrollo más flexible, entregar software más rápido y adaptarse a cambios. |
+I | Las metodologías ágiles buscan superar las limitaciones de los modelos tradicionales. |
 
+^learnkit-775642827
+T | Modelo en Cascada: Etapas y Funcionamiento |
+OQ | Ordena las etapas típicas del modelo en cascada |
+1 | Análisis |
+2 | Diseño |
+3 | Codificación |
+4 | Pruebas |
+5 | Operación |
+6 | Mantenimiento |
+I | El modelo en cascada sigue una secuencia lineal estricta. |
+
+^learnkit-289231377
+T | Proceso Unificado (UP): Fases Principales |
+Q | ¿Cuáles son las cuatro fases principales del Proceso Unificado (UP)? |
+A | Inicio (Inception), Elaboración, Construcción, Transición |
+I | El Proceso Unificado es un modelo de desarrollo estructurado que divide el trabajo en estas fases. |
+
+^learnkit-290421551
+T | Modelo en V: Relación Desarrollo-Prueba |
+Q | En el Modelo en V, ¿qué relación existe entre las etapas de desarrollo y las etapas de prueba? |
+A | Cada etapa de desarrollo tiene una etapa de prueba asociada en el lado derecho de la V. |
+I | El modelo en V visualiza las etapas de prueba como contrapartes directas de las etapas de desarrollo. |
