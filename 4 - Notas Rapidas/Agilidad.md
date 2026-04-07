@@ -130,12 +130,12 @@ En el lado izquierdo se encuentran las **etapas de desarrollo**, y en el lado de
 
 Cada etapa de desarrollo tiene una etapa de prueba asociada.
 
-|Desarrollo|Prueba|
-|---|---|
-|Requisitos|Prueba de aceptación|
-|Diseño del sistema|Prueba del sistema|
-|Diseño detallado|Prueba de integración|
-|Implementación|Prueba unitaria|
+| Desarrollo         | Prueba                |
+| ------------------ | --------------------- |
+| Requisitos         | Prueba de aceptación  |
+| Diseño del sistema | Prueba del sistema    |
+| Diseño detallado   | Prueba de integración |
+| Implementación     | Prueba unitaria       |
 
 Características:
 
@@ -430,6 +430,3 @@ Q | En el Modelo en V, ¿qué relación existe entre las etapas de desarrollo y 
 A | Cada etapa de desarrollo tiene una etapa de prueba asociada en el lado derecho de la V. |
 I | El modelo en V visualiza las etapas de prueba como contrapartes directas de las etapas de desarrollo. |
 
-
-
-/
