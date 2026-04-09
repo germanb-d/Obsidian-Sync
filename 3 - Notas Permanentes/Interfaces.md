@@ -86,4 +86,4 @@ for (Volador v : seresQueVuelan) {
 
 - Desde [[Java]] 8, las interfaces permiten métodos **default** (con implementación) y métodos **static**.
 - En la teoría (y en la cursada), las interfaces deben considerarse como **contratos sin implementación**.
-    
+     
