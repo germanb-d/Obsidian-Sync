@@ -54,4 +54,3 @@ Nombra un beneficio de usar APIs relacionado con no crear algo desde cero. :: Re
 ¿Cómo contribuyen las APIs a un desarrollo más rápido? :: A través de la Eficiencia.
 ¿Qué beneficio de las APIs promueve una forma común de realizar tareas? :: Estandardización.
 ¿Qué beneficio de las APIs se refiere a que las actualizaciones se gestionan en un solo lugar? :: Mantenimiento.
-
