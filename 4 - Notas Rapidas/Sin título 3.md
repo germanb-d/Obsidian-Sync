@@ -8,5 +8,11 @@ Dudo que el video trate de la rotación y la translación de la tierra, aunque e
 
 Aunque los ejemplos que da son sobre la evolución de como vemos la traslación de la tierra y los planetas, la charla apunta más a como gracias a renovar nuestras ideas y no apegarnos a las teorías y bases anteriores es como terminamos descubriendo métodos más óptimos, haciendo analogías posteriores con el mundo tecnológico.
 
+2) Indique si las siguientes afirmaciones son verdaderas o falsas de acuerdo al video. 
+	1) No se
+	2) Falso
+	3) Verdadero
 
 12 min
+
+Yes, some reasons because there’s a tendency to patch programs instead of rewriting them could be that involve more time and money rewriting a program
