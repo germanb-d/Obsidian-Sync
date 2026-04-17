@@ -15,4 +15,4 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 
 12 min
 
-Yes, some reasons because there’s a tendency to patch programs instead of rewriting them could be that it involves more time and money rewriting a program. in addition to this, rewrite a program could generate problems that the old code don't have or are solved.
+Yes, some reasons because there’s a tendency to patch programs instead of rewriting them is that it involves more time and money. in addition to this, rewriting a program could generate problems that the old code doesn’t have or are solved. 
