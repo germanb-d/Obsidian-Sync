@@ -15,4 +15,4 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 
 12 min
 
-Yes, there’s a tendency to patch programs instead of rewriting them is because it involves more time and money. in addition to this, rewriting a program could generate problems that the old code doesn’t have or are solved. Therefore, this process involves much time, so this means more cost and problems to the company for something that the consumers may not value like a new feature.
+Yes, there’s a tendency to patch programs instead of rewriting them is because it involves more time and money. in addition to this, rewriting a program could generate problems that the old code doesn’t have or are solved. Therefore, this process involves much time, so this means more costs and problems for the company for something that the consumers may not value like a new feature.
