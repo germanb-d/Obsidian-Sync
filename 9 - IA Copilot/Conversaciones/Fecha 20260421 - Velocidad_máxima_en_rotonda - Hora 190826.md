@@ -55,3 +55,16 @@ Error Details: API key is not provided for the embedding model: text-embedding-3
 
 La pregunta clave que responde una API es: "¿Para qué desarrollarlos una y otra vez?", ofreciendo soluciones ya implementadas y probadas.
 [Timestamp: 2026/04/21 19:16:27]
+
+**user**: [[API]]  Que proporciona una API?
+[Context: Notes: 3 - Notas Permanentes/API.md, 3 - Notas Permanentes/Interfaces.md]
+[Timestamp: 2026/04/21 19:25:38]
+
+**ai**: Según la nota [[API]], una API proporciona:
+
+-   **Componentes reutilizables** que solucionan problemas específicos y de reiterada ocurrencia en distintos contextos de programación.
+-   Ofrece soluciones ya implementadas y probadas para funcionalidades básicas, evitando que los programadores las creen desde cero repetidamente.
+-   Es como una "caja de herramientas" que los programadores pueden usar para construir aplicaciones más eficientemente.
+
+La pregunta clave que responde una API es: "¿Para qué desarrollarlos una y otra vez?".
+[Timestamp: 2026/04/21 19:25:41]
