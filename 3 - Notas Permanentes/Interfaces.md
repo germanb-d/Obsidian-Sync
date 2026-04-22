@@ -4,7 +4,6 @@ Materia: Seminario de Lenguajes
 tags:
 ---
 
-W
 
 ![[java-interfaces-comparable-tutorial-slides.pdf]]
 
