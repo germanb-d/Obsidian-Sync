@@ -60,3 +60,11 @@ A | Answer |
 
 ###### Hola
 
+**Hola**
+
+*Hola*
+
+Hola
+
+
+
