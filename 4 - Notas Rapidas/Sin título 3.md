@@ -7,4 +7,9 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 3) .
 	1) La empresa escale 
 	2) Buscar la raiz del problema
-	3) 
+	3) Pueden crecer de forma masiva por ser descentralizada
+4) .
+	1) Falso
+	2) No fallo...
+	3) Creo q falso porque los pone de ejemplo
+	4) 
