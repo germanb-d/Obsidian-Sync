@@ -21,3 +21,6 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 	4) the point is .... Come close
 	5) answer is.... Ever breaking.... All the time never broken
 	6) meeting ground... Computer speak
+6) .
+
+
