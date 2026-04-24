@@ -12,8 +12,11 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 	1) No se
 	2) Falso
 	3) Verdadero
-	4) Falso
-	5) 
+	4) Falso. Aunque proponia el sol en el medio segui creyendo en las orbitas circulares
+	5) Falso. Dijo q las orbitas eran elipses
+3) Complete las oraciones con información del vídeo
+	1)  Kepler no probó con las elipses por mucho tiempo porque **suponía que sus antecesores, al ser personas muy inteligentes, ya habrían descartado esta opción.**
+	2) El relato que realiza el dr. Kay sobre los modelos del sistema solar es una analogía de lo que ocurre en la computación, porque 
 
 
 
