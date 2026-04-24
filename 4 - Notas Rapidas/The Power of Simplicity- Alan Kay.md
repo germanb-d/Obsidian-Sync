@@ -18,14 +18,14 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 3) Complete las oraciones con información del vídeo
 	1)  Kepler no probó con las elipses por mucho tiempo porque **suponía que sus antecesores, al ser personas muy inteligentes, ya habrían descartado esta opción.**
 	2) El relato que realiza el dr. Kay sobre los modelos del sistema solar es una analogía de lo que ocurre en la computación, porque **demuestra como aun en personas muy inteligentes puede existir una resistencia al cambio y como aun se suele preferir trabajar sobre lo que ya esta dicho frente a cuestionar/cambiar esas bases.**
-	3) Una de las maneras más utilizadas para llegar a la simplicidad es **(get sofistiquedy building blocks) tener unos bloques de construcción sofisticados, entendido como unas mejores bases?**
+	3) Una de las maneras más utilizadas para llegar a la simplicidad es **(get sofistiquedy building blocks) tener unos bloques de construcción sofisticados, entendido como unas mejores bases? Unidad basica del sistema**
 	4) La razón por la cual las personas no tendemos a realizar cambios radicales que menciona el dr. Kay, tanto en la computación como en el ámbito empresarial, es que las personas **no tenemos el concepto de progreso en nuestros genes, tendemos a adptarmos por naturaleza**
 4) Complete los espacios en blanco con las expresiones faltantes
 	1) Planet is a Greek word **meaning** “wanderer”.
 	2) ...very very hard to understand what’s **actually going on**
 	3) God is a perfect being and **therefore** would only use circles to explain the course of these orbits and **turns out** the orbits are not circular
 	4) Copernicus’ scheme only made things **slightly more simple** but **in fact it** still had this mess
-	5) He (ni idea q dijo)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** were really smart had already tried ellipses and found them **wanting**
+	5) He (ni idea q dijo)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** (clausula relativa)were really smart had already tried ellipses and found them **wanting**
 	6)  It’s this **inability** to fix the building blocks that is one of the **largest problems** that computing has today in **large** organizations.
 	7) And so when we **come up against** difficulties, our tendency is to **cope with** these difficulties
 
