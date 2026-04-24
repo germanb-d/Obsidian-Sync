@@ -10,7 +10,7 @@ Dudo que el vídeo trate de la rotación y la traslación de la tierra, aunque e
 Aunque los ejemplos que da son sobre la evolución de como vemos la traslación de la tierra y los planetas, la charla apunta más a como gracias a renovar nuestras ideas y no apegarnos a las teorías y bases anteriores es como terminamos descubriendo métodos más óptimos, haciendo analogías posteriores con el mundo tecnológico.
 
 2) Indique si las siguientes afirmaciones son verdaderas o falsas de acuerdo al video. 
-	1) No se
+	1) Falso
 	2) Falso
 	3) Verdadero
 	4) Falso. Aunque proponia el sol en el medio segui creyendo en las orbitas circulares
