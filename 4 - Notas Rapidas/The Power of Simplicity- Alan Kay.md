@@ -25,7 +25,7 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 	2) ...very very hard to understand what’s **actually going on**
 	3) God is a perfect being and **therefore** would only use circles to explain the course of these orbits and **turns out** the orbits are not circular
 	4) Copernicus’ scheme only made things **slightly more simple** but **in fact it** still had this mess
-	5) He (ni idea q dijo)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** (clausula relativa)were really smart had already tried ellipses and found them **wanting**
+	5) He (ni idea q dijo)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** (clausula relativa) were really smart had already tried ellipses and found them **wanting**
 	6)  It’s this **inability** to fix the building blocks that is one of the **largest problems** that computing has today in **large** organizations.
 	7) And so when we **come up against** difficulties, our tendency is to **cope with** these difficulties
 
