@@ -1,4 +1,5 @@
 PDF: [[alan kay video 1.pdf]]
+# Desarrollo
 
 > Antes de mirar el vídeo, observe estas imágenes y, teniendo en cuenta el título de la charla, realice tres predicciones acerca de lo que se va a explicar 
 
@@ -24,9 +25,15 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 	2) ...very very hard to understand what’s **actually going on**
 	3) God is a perfect being and **therefore** would only use circles to explain the course of these orbits and **turns out** the orbits are not circular
 	4) Copernicus’ scheme only made things **slightly more simple** but **in fact it** still had this mess
-	5) He (ni idea)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** were really smart had already tried ellipses and found them **wanting**
+	5) He (ni idea q dijo)(no intento? Por logica) ellipses for years. You know why? Because he **figured** that the people before him **who** were really smart had already tried ellipses and found them **wanting**
 	6)  It’s this **inability** to fix the building blocks that is one of the **largest problems** that computing has today in **large** organizations.
 	7) And so when we **come up against** difficulties, our tendency is to **cope with** these difficulties
 
 
+No hay punto 5?
 
+# Pregunta del TP y del foro 
+
+6) Writing: Dr. Kay indicates that, in computing, there’s a tendency to patch programs instead of rewriting them when there are difficulties. Apart from our genetic makeup, do you think there are some other reasons for this? What are they? Answer in 4 sentences. 
+
+Yes, there’s a tendency to patch programs instead of rewriting them is because it involves more time and money. in addition to this, rewriting a program could generate problems that the old code doesn’t have or are solved. Therefore, this process involves much time, so this means more costs and problems for the company for something that the consumers may not value like a new feature
