@@ -10,6 +10,6 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 	3) Pueden crecer de forma masiva por ser descentralizada
 4) .
 	1) Falso
-	2) No fallo...
-	3) Creo q falso porque los pone de ejemplo
+	2) No fallo... Pero si se cambio dos veces. Falso
+	3) Verdadero 
 	4) 
