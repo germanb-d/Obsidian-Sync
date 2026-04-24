@@ -24,3 +24,7 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 6) .
 
 
+Se usa el pasado participio con ever,never,aalreay, yet ,since, this year, week, mounth
+No se usa con yesterday, last year,mounth,keek, ago, Time/date
+
+Can be possible develop a research group in a university but not 
