@@ -18,7 +18,11 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 	1)  Kepler no probó con las elipses por mucho tiempo porque **suponía que sus antecesores, al ser personas muy inteligentes, ya habrían descartado esta opción.**
 	2) El relato que realiza el dr. Kay sobre los modelos del sistema solar es una analogía de lo que ocurre en la computación, porque **demuestra como aun en personas muy inteligentes puede existir una resistencia al cambio y como aun se suele preferir trabajar sobre lo que ya esta dicho frente a cuestionar/cambiar esas bases.**
 	3) Una de las maneras más utilizadas para llegar a la simplicidad es **(get sofistiquedy building blocks) tener unos bloques de construcción sofisticados, entendido como unas mejores bases?**
-	4) La razón por la cual las personas no tendemos a realizar cambios radicales que menciona el dr. Kay, tanto en la computación como en el ámbito empresarial, es que las personas **no tenemos el concepto de progreso en nuestros genes, tendemos a adptarmos por naturanel**
+	4) La razón por la cual las personas no tendemos a realizar cambios radicales que menciona el dr. Kay, tanto en la computación como en el ámbito empresarial, es que las personas **no tenemos el concepto de progreso en nuestros genes, tendemos a adptarmos por naturaleza**
+4) Complete los espacios en blanco con las expresiones faltantes
+	1) Planet is a Greek word **meaning** “wanderer”.
+	2) ...very very hard to understand what’s **actually going on**
+	3) God is a perfect being and **therefore** would only use circles to explain the course of these orbits and **turns out** the orbits are not circular
 
 
 
