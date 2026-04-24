@@ -17,7 +17,7 @@ Aunque los ejemplos que da son sobre la evolución de como vemos la traslación 
 3) Complete las oraciones con información del vídeo
 	1)  Kepler no probó con las elipses por mucho tiempo porque **suponía que sus antecesores, al ser personas muy inteligentes, ya habrían descartado esta opción.**
 	2) El relato que realiza el dr. Kay sobre los modelos del sistema solar es una analogía de lo que ocurre en la computación, porque **demuestra como aun en personas muy inteligentes puede existir una resistencia al cambio y como aun se suele preferir trabajar sobre lo que ya esta dicho frente a cuestionar/cambiar esas bases.**
-	3) Una de las maneras más utilizadas para llegar a la simplicidad es
+	3) Una de las maneras más utilizadas para llegar a la simplicidad es (get sofistiquedy building blocks) tener unos bloques de construcción sofisticados, entendido como unas mejores bases?
 
 
 
