@@ -14,4 +14,6 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 	3) Verdadero 
 	4) Falso
 	5) Verdadero
-5) 
+5) .
+	1) Faced with
+	2) we need to do
