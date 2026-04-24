@@ -12,4 +12,6 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 	1) Falso
 	2) No fallo... Pero si se cambio dos veces. Falso
 	3) Verdadero 
-	4) 
+	4) Falso
+	5) Verdadero
+5) 
