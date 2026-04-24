@@ -16,4 +16,8 @@ Los sistemas q tienen un control central tienden a poder crecer menos. Internet 
 	5) Verdadero
 5) .
 	1) Faced with
-	2) we need to do
+	2) we need to do......entities
+	3) Whereas (sin  embargo) ...... Deal (el asunto basico)
+	4) the point is .... Come close
+	5) answer is.... Ever breaking.... All the time never broken
+	6) meeting ground... Computer speak
