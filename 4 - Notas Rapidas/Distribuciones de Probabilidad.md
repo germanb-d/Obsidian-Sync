@@ -34,7 +34,18 @@ Ver q en la formula la escribe y luego saca C(10,4)
 
 El 68% de los datos dentro del color verde
 95% dentro de lo verde y amarillo
-Y el 99.7 dentro de naranja, amarill
+Y el 99.7 dentro de naranja, amarillo y verde
+
+Cuando se dice simetrica respecto a la media significa que la media es la linea vertical en el centro
+
+
+
+![[Distribuciones de Probabilidad-1777315355816.webp]]
+
+![[Distribuciones de Probabilidad-1777315380265.webp]]
+
+
+
 
 
 
