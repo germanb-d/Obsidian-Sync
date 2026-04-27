@@ -44,7 +44,7 @@ Cuando se dice simetrica respecto a la media significa que la media es la linea 
 
 ![[Distribuciones de Probabilidad-1777315380265.webp]]
 
-
+Si X es menor que la media entonces se buscara en la tabla negativa o en la positiva restandole 1
 
 
 
