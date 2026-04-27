@@ -26,6 +26,17 @@ Ver q en la formula la escribe y luego saca C(10,4)
 
 ## Normal
 
+![[Distribuciones de Probabilidad-1777315101748.webp]]
+
+
+
+![[Distribuciones de Probabilidad-1777315174522.webp]]
+
+El 68% de los datos dentro del color verde
+95% dentro de lo verde y amarillo
+Y el 99.7 dentro de naranja, amarill
+
+
 
 
 ## Poisson
