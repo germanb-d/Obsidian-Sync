@@ -26,4 +26,6 @@ Ver q en la formula la escribe y luego saca C(10,4)
 
 ## Normal
 
+
+
 ## Poisson
