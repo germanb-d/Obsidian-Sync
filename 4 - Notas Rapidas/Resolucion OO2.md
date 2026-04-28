@@ -194,7 +194,7 @@ return contenidoGuardado;
 
 class TestGenerarInforme{
 
-Almacen guardados = new FakePDF;
+Almacen guardados = new FakePDF; //deberia crear un fake no un almacen
 GeneradorDeInformes generador = new GeneradorDeInformes(guardados);
 generador.guardarInforme("123");
 
