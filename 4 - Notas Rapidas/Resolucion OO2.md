@@ -158,12 +158,12 @@ B)
 
 ``` java
 public interface Almacen{
-void guardarInforme( String titulo, String contenido);
+void guardarInforme(String contenido);
 
 public class PDF implements Almacen{
 @Override
-void guardarInforme( String titulo, String contenido){
-leWriter writer = new FileWriter("informe.pdf"); // Dependencia rígida
+void guardarInforme(String contenido){
+leWriter writer = new FileWriter("informe.pdf")); //podria pedir el titulo como parametro tambien
         writer.write(contenido);
 }
 }
@@ -172,9 +172,18 @@ public class GeneradorDeInformes(Almacen guardados){
 private Almacen guardados;
 
 public void exportar(String contenido){
-guardados.guardarInf
+guardados.guardarInforme(contenido);
 }
 }
 }
 
+
+//TEST
+
+new fakePDF implements Almacen{
+
+@Override
+void guardarInforme(String contenido){
+
+}
 ```
