@@ -17,3 +17,18 @@ public class SistemaAlquiler {
     }
 }
 ```
+
+
+``` java
+public interface auto{
+    public int calcularPrecio(int dias);
+}
+
+public class autoLujo{
+    
+    @override 
+    public int calcularPrecio(int dias){
+    return }
+}
+
+```
