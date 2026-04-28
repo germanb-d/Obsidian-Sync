@@ -105,7 +105,7 @@ class testEsApto {
 
 Cliente pepe = new CLiente(1000); //1000 es el dni
 new Puntajes P = new fakeWeb();
-new CalculadorEnvio calculadora = new CalcularEnvio(P);
+new ValidadorDeCredito calculadora = new ValidadorDeCredito(P);
 
 AssertEquals(100, P.devolverPuntaje(pepe.getDNI()))
 AssertEquals (pepe.getDNI, P.ComprobarUltimoDNI)
