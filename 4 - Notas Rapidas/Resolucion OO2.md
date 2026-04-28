@@ -181,9 +181,20 @@ guardados.guardarInforme(contenido);
 //TEST
 
 new fakePDF implements Almacen{
-
+String contenidoGuardado;
 @Override
 void guardarInforme(String contenido){
+contenidoGuardado = contenido;
+}
+}
+
+class TestGenerarInforme{
+
+Almacen guardados = new FakePDF;
+GeneradorDeInformes generador = new GeneradorDeInformes(guardados);
+generador.guardarInforme("123");
+
 
 }
+
 ```
