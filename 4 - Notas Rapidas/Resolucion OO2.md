@@ -21,32 +21,43 @@ public class SistemaAlquiler {
 
 ``` java
 public interface auto{
-    public int calcularPrecio(int dias);
+    public double calcularPrecio(int dias);
 }
 
 public class autoLujo{
-    public static final int AUMENTO = 1.20; 
-    private int precioDiario
+    public static final double AUMENTO = 1.20; 
+    private double precioDiario
     @override 
-    public int calcularPrecio(int dias){
+    public double calcularPrecio(int dias){
     return (dias * precioDiario) * AUMENTO  
     }
 }
 
 public class autoComun{
-private int precioDiario
+private double precioDiario
 
 @override 
-   public int calcularPrecio(int dias){
+   public double calcularPrecio(int dias){
    return (dias * precioDiario)
 }
 
 
 public class Alquiler{
     
-    private int costeVehicular(int dias, Auto auto){
-        
+    public double costeVehicular(){
+        return this.auto.calcularPrecio(this.dias);
     }
 }
+
+public class SistemaAlquiler{
+public double calcularPrecioTotal(Alquiler alquiler) {
+return alquiler.costeVehicular();
+}
+
+```
+
+
+```java
+
 
 ```
