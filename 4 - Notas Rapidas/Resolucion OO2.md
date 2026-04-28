@@ -139,9 +139,24 @@ public class Bibliotecario {
 
 // TEST
 
-class TestBibbliotecario{
-
-
-
+class testRetiro{
+    Socio pepe = new Socio();
+        pepe.añadirPrestamo(new Libro("El principito")); //agregaria al array
+        pepe.añadirPrestamo(new Libro("El 2"));
+        pepe.añadirPrestamo(new Libro("El 3"));
+        pepe.añadirPrestamo(new Libro("El 4"));
+        pepe.añadirPrestamo(new Libro("El 5"));
+        pepe.añadirPrestamo(new Libro("El 6"));
+      
+        Bibliotecario Pablo = new Bibliotecario();
+        
+          AssertFalse(Pablo.puedeRetirar(pepe)); 
 }
+```
+
+B)
+
+``` java
+
+
 ```
