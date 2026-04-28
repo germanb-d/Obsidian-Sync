@@ -68,4 +68,11 @@ AssertEquals("600", SA.calcularPrecioTotal(casa1)); //100x5 = 500 ---- 5000x1.2 
 ```
 
 
+2)
 
+```
+public class ValidadorDeCredito{ 
+
+
+}
+```
