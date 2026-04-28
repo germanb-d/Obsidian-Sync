@@ -88,9 +88,26 @@ return puntaje >700
 
 ```java
 public class fakeWeb implements Puntajes{
-
+int DNI;
 @override
-public void devolverPuntaje( int DNI);
+public int devolverPuntaje( int DNI){
+this.DNI = DNI
+return 100;
+}
+
+
+public int comprobarUltimoDNI(){
+return DNI;
+}
+}
+
+class testEsApto {
+
+Cliente pepe = new CLiente("1000"); //1000 es el dni
+new Puntajes P = new fakeWeb();
+new CalculadorEnvio calculadora = new CalcularEnvio(P);
+
+Assert
 }
 
 ```
