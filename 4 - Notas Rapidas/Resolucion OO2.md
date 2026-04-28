@@ -72,7 +72,7 @@ AssertEquals("600", SA.calcularPrecioTotal(casa1)); //100x5 = 500 ---- 5000x1.2 
 
 ```java
 public interface Puntajes{
-public void devolverPuntaje( int DNI);
+public int devolverPuntaje( int DNI);
 }
 
 public class ValidadorDeCredito{ 
@@ -103,11 +103,12 @@ return DNI;
 
 class testEsApto {
 
-Cliente pepe = new CLiente("1000"); //1000 es el dni
+Cliente pepe = new CLiente(1000); //1000 es el dni
 new Puntajes P = new fakeWeb();
 new CalculadorEnvio calculadora = new CalcularEnvio(P);
 
-Assert
+AssertEquals(100, P.devolverPuntaje(pepe.getDNI()))
+
 }
 
 ```
