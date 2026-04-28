@@ -157,6 +157,24 @@ class testRetiro{
 B)
 
 ``` java
+public interface Almacen{
+void guardarInforme( String titulo, String contenido);
 
+public class PDF implements Almacen{
+@Override
+void guardarInforme( String titulo, String contenido){
+leWriter writer = new FileWriter("informe.pdf"); // Dependencia rígida
+        writer.write(contenido);
+}
+}
+
+public class GeneradorDeInformes(Almacen guardados){ 
+private Almacen guardados;
+
+public void exportar(String contenido){
+guardados.guardarInf
+}
+}
+}
 
 ```
