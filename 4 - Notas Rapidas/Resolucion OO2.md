@@ -70,9 +70,27 @@ AssertEquals("600", SA.calcularPrecioTotal(casa1)); //100x5 = 500 ---- 5000x1.2 
 
 2)
 
-```
-public class ValidadorDeCredito{ 
-
-
+```java
+public interface Puntajes{
+public void devolverPuntaje( int DNI);
 }
+
+public class ValidadorDeCredito{ 
+   private Puntajes puntajes;
+
+public boolean esApto(Cliente cliente, Puntajes puntajes){
+int puntaje = puntajes.devolverPuntaje(cliente.getDNI);
+return puntaje >700
+}
+}
+```
+
+
+```java
+public class fakeWeb implements Puntajes{
+
+@override
+public void devolverPuntaje( int DNI);
+}
+
 ```
