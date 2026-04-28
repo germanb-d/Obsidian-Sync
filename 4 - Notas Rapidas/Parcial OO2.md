@@ -85,3 +85,51 @@ public void registrarPrestamo(Libro libro) {
 
 
 
+
+# Nuevos 1 y 2 
+
+
+¡Claro! Aquí tenés dos ejercicios nuevos siguiendo exactamente la misma lógica de los temas centrales del parcial:
+
+### **Ejercicio A: Heurística "Tell Don't Ask"**
+
+En un sistema de biblioteca, el bibliotecario decide si un socio puede retirar un libro pidiéndole su lista de préstamos actuales:
+
+``` java
+public class Bibliotecario {
+    public boolean puedeRetirar(Socio socio) {
+        // "Pide" la lista y decide desde afuera
+        if (socio.getPrestamos().size() > 5) {
+            return false;
+        }
+        return true;
+    }
+}
+```
+
+**Se pide:**
+
+1. Refactorizá para aplicar **Tell Don't Ask**, moviendo la responsabilidad al objeto que tiene los datos.
+2. Escribí un test unitario que verifique que un socio con 6 libros no puede retirar más.
+
+---
+
+### **Ejercicio B: Testabilidad con Inyección de Dependencias**
+
+La clase `GeneradorDeInformes` guarda un archivo PDF directamente en el disco rígido usando una clase concreta de Java, lo que hace que el test dependa del sistema de archivos real.
+
+```
+public class GeneradorDeInformes {
+    public void exportar(String contenido) {
+        FileWriter writer = new FileWriter("informe.pdf"); // Dependencia rígida
+        writer.write(contenido);
+    }
+}
+```
+
+**Se pide:**
+
+1. Refactorizá aplicando **Inyección de Dependencias** y **Dependencia de Abstracciones** para que el destino del informe sea intercambiable.
+2. Escribí un test unitario que use un **Fake Object** (por ejemplo, uno que guarde el contenido en un `String` en memoria) para verificar que el informe se "envió" correctamente sin escribir el disco.
+
+¿Por cuál te gustaría empezar a resolver? Si querés, probá el de **Tell Don't Ask** que es clave para entender cómo "ordenar acciones" en lugar de "pedir datos".

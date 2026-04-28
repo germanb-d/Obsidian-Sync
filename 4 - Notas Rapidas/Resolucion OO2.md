@@ -113,3 +113,17 @@ AssertEquals (pepe.getDNI, P.ComprobarUltimoDNI)
 }
 
 ```
+
+
+# Nuevos 1 y 2 
+
+
+``` java
+public class Socio(){
+Libro Prestamos[]; //supongo que prestamos es de clase 
+
+}
+
+public boolean puedeRetirar
+
+```
