@@ -120,10 +120,30 @@ AssertEquals (pepe.getDNI, P.ComprobarUltimoDNI)
 
 ``` java
 public class Socio(){
-Libro Prestamos[]; //supongo que prestamos es de clase 
+private ArrayList<Libro> Prestamos = new ArrayList(); //supongo que prestamos es de clase Libro
 
+public int devolverCantPrestamos(){
+return Prestamos.size();
+}  
 }
 
-public boolean puedeRetirar
+public class Bibliotecario {
+public static final LIMITE_PRESTAMOS =5;
+    public boolean puedeRetirar(Socio socio) {
+        // "Pide" la lista y decide desde afuera
+        if (socio.devolverCantPrestamos > LIMITE_PRESTAMOS) {
+            return false;
+        }
+        return true;
+    }
+}
 
+
+// TEST
+
+class TestBibbliotecario{
+
+
+
+}
 ```
