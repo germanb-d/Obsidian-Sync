@@ -25,10 +25,28 @@ public interface auto{
 }
 
 public class autoLujo{
-    
+    public static final int AUMENTO = 1.20; 
+    private int precioDiario
     @override 
     public int calcularPrecio(int dias){
-    return }
+    return (dias * precioDiario) * AUMENTO  
+    }
+}
+
+public class autoComun{
+private int precioDiario
+
+@override 
+   public int calcularPrecio(int dias){
+   return (dias * precioDiario)
+}
+
+
+public class Alquiler{
+    
+    private int costeVehicular(int dias, Auto auto){
+        
+    }
 }
 
 ```
