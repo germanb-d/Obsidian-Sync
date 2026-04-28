@@ -58,6 +58,11 @@ return alquiler.costeVehicular();
 
 
 ```java
+//TEST
+Auto auto = new autoLujo("100"); //100 seria para el atributo precioDiario
+Alquiler casa1 = new Alquiler(auto, "5"); //5 Dias
+SistemaAlquiler SA = new SistemaAlquiler();
 
+AssertEquals("600", SA.calcularPrecioTotal(casa1)); //100x5 = 500 ---- 5000x1.2 = 600
 
 ```
