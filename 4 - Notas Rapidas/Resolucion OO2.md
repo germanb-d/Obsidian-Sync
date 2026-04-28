@@ -75,7 +75,7 @@ public interface Puntajes{
 public int devolverPuntaje( int DNI);
 }
 
-public class ValidadorDeCredito{ 
+public class ValidadorDeCredito(Puntajes puntajes){ 
    private Puntajes puntajes;
 
 public boolean esApto(Cliente cliente, Puntajes puntajes){
@@ -108,7 +108,8 @@ new Puntajes P = new fakeWeb();
 new CalculadorEnvio calculadora = new CalcularEnvio(P);
 
 AssertEquals(100, P.devolverPuntaje(pepe.getDNI()))
-
+AssertEquals (pepe.getDNI, P.ComprobarUltimoDNI)
+    AssertFalse(calculadora.EsApto(pepe,P))
 }
 
 ```
