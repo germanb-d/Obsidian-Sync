@@ -230,8 +230,15 @@ if (productos.size() >10)
 //TEST -------------------------
 
 class TestCarrito{
+ProcesadorVentas PV = new ProcesadorVentas();
+Carrito carrito = new Carrito(/*Parametros*/);
 
-new Carrito(/*Parametros*/);
+for (int 0, i<12, i++){
+carrito.agregarProducto(new Producto(Galletitas, 100)); 
+}
+
+PV.procesar
+
 
 }
 ```
