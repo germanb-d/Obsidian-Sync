@@ -215,12 +215,15 @@ public class ProcesadorVentas {
 }
 
 public class Carrito{
-List<Productos> productos = new List<Productos>;
+public static final DESCUENTO_MAS10 = 0.10;
+List<Productos> productos = new ArrayList<Productos>;
+double precioTotal
 
-// Suponemos q se le agregan productos
+// Supongo q se le agregan productos y se van sumando al precio;
 
 public void procesarProductos(){
-Productos
+if (productos.size() >10)
+    precioTotal = precioTotal*DESCUENTO_MAS10
 }
 }
 ```
