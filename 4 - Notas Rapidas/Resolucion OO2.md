@@ -299,12 +299,32 @@ NotificadorTest{
 @Test
 public void testRecibeMSJ(){
 String msj = "hola";
-fakeMail mail = new fakeMail;
+fakeMail mail = new fakeMail();
 Notificador notificador = new Notificador(mail);
 notificador.avisar(msj);
 
 assertEquals(msj, mail.retornarMsj());
 } 
 
+}
+```
+
+
+
+# Punto 3 
+
+
+```java
+
+public interface Empleado(){
+public int retornarSueldo();
+}
+
+public class EmpleadComun(){
+
+@override
+public int retornarSueldo(){
+return
+}
 }
 ```
