@@ -233,11 +233,14 @@ class TestCarrito{
 ProcesadorVentas PV = new ProcesadorVentas();
 Carrito carrito = new Carrito(/*Parametros*/);
 
-for (int 0, i<12, i++){
+for (int i=0, i<12, i++){
 carrito.agregarProducto(new Producto(Galletitas, 100)); 
 }
 
-PV.procesar
+PV.procesar(carrito);
+
+// 100x11 = 1100 ; 1100 - 10% = 990
+AssertEquals(carrito.devolverPrecioTotal,990.0, 0.01); //pedia tolerancia con doubles
 
 
 }
