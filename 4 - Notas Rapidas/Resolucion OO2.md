@@ -466,6 +466,12 @@ public Clima(ProovedorClima datosClima) {
 
 
 ```java
+
+public abstract class Producto{
+
+
+}
+
 class Producto {
 
     public CategoriaProducto tipo;
@@ -529,3 +535,5 @@ class Producto {
 }
 
 ```
+
+
