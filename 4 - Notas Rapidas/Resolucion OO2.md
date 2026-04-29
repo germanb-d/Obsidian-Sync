@@ -426,6 +426,12 @@ Punto 2
 
 
 ```java
+public interface ProovedorClima{
+void devolverClima(LocalDate fecha);
+}
+
+
+
 public class Clima {
 
      private ProovedorClima datosClima;
