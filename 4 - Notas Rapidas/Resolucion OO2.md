@@ -320,11 +320,36 @@ public interface Empleado(){
 public int retornarSueldo();
 }
 
-public class EmpleadComun(){
+public class EmpleadoComun() implements Empleado{
+private int sueldoBase;
 
 @override
 public int retornarSueldo(){
-return
+return sueldo base;
+
 }
+}
+
+public class Gerente() implements Empleado{
+pivate static int PAGO_EXTRA = 5000;
+private int sueldoBase;
+
+@override
+public int retornarSueldo(){
+return sueldo base = PAGO_EXTRA;
+}
+}
+
+public class Cadete() implements Empleado{
+pivate static int PAGO_EXTRA = 5000;
+private int sueldoBase;
+
+@override
+public int retornarSueldo(){
+return sueldo base = PAGO_EXTRA;
+}
+}
+
+
 }
 ```
