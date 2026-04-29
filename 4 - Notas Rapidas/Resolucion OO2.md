@@ -392,6 +392,10 @@ public class Controlador {
 
         return cantidadCausas;
     }
+    
+    public void agregarJuez(Juez J){
+ jueces.add(J);   
+    }
 }
 
 
@@ -418,3 +422,33 @@ assertEquals(3, control.calcularCausasTotales());
 
 ```
 
+Punto 2
+
+
+```java
+public class Clima {
+
+     private ProovedorClima datosClima;
+
+public Clima(ProovedorClima datosClima) {
+
+   this.datosClima = datosClima;
+
+}
+
+    public ClimaValor climaEn(LocalDate fecha) {
+
+   String clima = this.climaOnline.clima(fecha); //new WeatherOnline().getWeather(fecha);
+
+        //clima = "SOLEADO|25"
+
+        String[] tipoYNudos = clima.split("|");
+
+        return new ClimaValor(tipoYNudos[0], Integer.valueOf(tipoYNudos[1]));
+
+    }
+
+}
+
+
+```
