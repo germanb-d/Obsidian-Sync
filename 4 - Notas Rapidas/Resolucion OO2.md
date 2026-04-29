@@ -287,8 +287,12 @@ public String retornarMsj();
 
 NotificadorTest{
 
+@Test
+public void testRecibeMSJ(){
+Notificador notificador = new Notificador();
 
-public void 
+
+} 
 
 }
 ```
