@@ -208,8 +208,19 @@ AssertEquals("123", guardados.devolverContenido())
 ---
 
 ```java
-public interface Producto(){
+public class ProcesadorVentas {
+    public void procesar(Carrito carrito) {
+       carrito.procesarProductos()
+    }
+}
 
-public 
+public class Carrito{
+List<Productos> productos = new List<Productos>;
+
+// Suponemos q se le agregan productos
+
+public void procesarProductos(){
+Productos
+}
 }
 ```
