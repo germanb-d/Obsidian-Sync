@@ -255,16 +255,40 @@ public interface Notificacion{
 public void Notificar( String mensaje);
 }
 
-public class GmailService extends Notificador{
-
+public class Mail extends Notificador{
+GmailService service = new GmailService();
 @Override 
-public void Notificar(mensaje)
+public void Notificar(String mensaje){
+service.send(mensaje);
+}
 }
 public class Notificador {
 public void avisar(String msg){
 Notificacion service = new Notificacion();
 servuce.Notificar(msg);
 }
+
+}
+
+
+//TEST------------------------------------
+
+public class fakeMail extends Notificador{
+public String msjEnviado;
+
+@Override 
+public void Notificar(String mensaje){
+msjEnviado = mensaje;
+}
+
+public String retornarMsj();
+}
+
+
+NotificadorTest{
+
+
+public void 
 
 }
 ```
