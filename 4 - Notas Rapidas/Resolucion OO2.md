@@ -393,5 +393,14 @@ public class Controlador {
         return cantidadCausas;
     }
 }
+
+
+public testControlador{
+
+//Arraylist<Juez> jueces = new ArrayList<Juez>();
+Juez juez1 = new Juez(pablo, rodriguez)
+
+
+Controlador control = new Controlador()
 ```
 
