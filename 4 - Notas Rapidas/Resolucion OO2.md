@@ -255,13 +255,15 @@ public interface Notificacion{
 public void Notificar( String mensaje);
 }
 
-public class Mail extends Notificador{
+public class Mail implements Notificacion{
 GmailService service = new GmailService();
 @Override 
 public void Notificar(String mensaje){
 service.send(mensaje);
 }
 }
+
+
 public class Notificador {
 private Notificacion service;
 
@@ -278,7 +280,7 @@ service.Notificar(msg);
 
 //TEST------------------------------------
 
-public class fakeMail extends Notificador{
+public class fakeMail implements Notificacion{
 public String msjEnviado;
 
 @Override 
@@ -286,7 +288,9 @@ public void Notificar(String mensaje){
 msjEnviado = mensaje;
 }
 
-public String retornarMsj();
+public String retornarMsj(){
+return msjEnviado;
+}
 }
 
 
@@ -294,11 +298,12 @@ NotificadorTest{
 
 @Test
 public void testRecibeMSJ(){
+String msj = "hola";
+fakeMail mail = new fakeMail;
+Notificador notificador = new Notificador(mail);
+notificador.avisar(msj);
 
-
-Notificador notificador = new Notificador();
-
-
+assertEquals(msj, mail.retornarMsj());
 } 
 
 }
