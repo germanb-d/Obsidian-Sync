@@ -316,11 +316,11 @@ assertEquals(msj, mail.retornarMsj());
 
 ```java
 
-public interface Empleado(){
+public interface Empleado{
 public int retornarSueldo();
 }
 
-public class EmpleadoComun() implements Empleado{
+public class EmpleadoComun implements Empleado{
 private int sueldoBase;
 
 @override
@@ -330,26 +330,29 @@ return sueldo base;
 }
 }
 
-public class Gerente() implements Empleado{
+public class Gerente implements Empleado{
 pivate static int PAGO_EXTRA = 5000;
 private int sueldoBase;
 
 @override
 public int retornarSueldo(){
-return sueldo base = PAGO_EXTRA;
+return sueldo base + PAGO_EXTRA;
 }
 }
 
-public class Cadete() implements Empleado{
-pivate static int PAGO_EXTRA = 5000;
+public class Cadete implements Empleado{
+pivate static int PAGO_EXTRA = 1000;
 private int sueldoBase;
 
 @override
 public int retornarSueldo(){
-return sueldo base = PAGO_EXTRA;
+return sueldo base + PAGO_EXTRA;
 }
 }
 
 
+
+public double calcularSueldo(Empleado e) {
+    return e.retornarSueldo();
 }
 ```
