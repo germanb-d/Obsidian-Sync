@@ -356,3 +356,32 @@ public double calcularSueldo(Empleado e) {
     return e.retornarSueldo();
 }
 ```
+
+
+---
+
+
+Parcial de ejemplo:
+
+1)
+
+
+```java
+public class Juez {
+    private String nombre;
+    private String apellido;
+    private Collection<Causa> causasACargo;
+    
+    public void agregarCausa(Causa causa) {
+        this.causasACargo.add(causa);
+    }
+     public int devolverCantCausas(){
+  return causasACargo.   
+     }
+  
+
+}
+
+
+```
+
