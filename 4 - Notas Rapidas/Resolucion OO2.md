@@ -376,12 +376,22 @@ public class Juez {
         this.causasACargo.add(causa);
     }
      public int devolverCantCausas(){
-  return causasACargo.   
+          return causasACargo.size();
      }
-  
-
 }
 
+public class Controlador {
 
+    private Collection<Juez> jueces;
+    
+    public int calcularCausasTotales() {
+        int cantidadCausas = 0;
+        for (Juez juez : jueces) {
+              cantidadCausas += juez.devolverCantCausas();
+        }
+
+        return cantidadCausas;
+    }
+}
 ```
 
