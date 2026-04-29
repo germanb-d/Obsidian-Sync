@@ -460,3 +460,78 @@ public Clima(ProovedorClima datosClima) {
 
 
 
+3
+
+
+
+
+```java
+class Producto {
+
+    public CategoriaProducto tipo;
+
+    public double precio;
+
+  
+
+    public Producto(TipoProducto tipo, double precio) {
+
+        this.tipo = tipo;
+
+        this.precio = precio;
+
+    }
+
+  
+
+    public double precioFinal(double descuentoInicial) {
+        double impuestos = 0;
+        boolean envioGratis = false;
+
+        double descuento = descuentoInicial;
+
+        if (tipo == TipoProducto.LIBRO) {
+
+            impuestos = 0.1;
+
+            if (precio > 100) {
+
+                envioGratis = true;
+
+            }
+
+        } else if (tipo == TipoProducto.ALIMENTO) {
+
+            impuestos = 0.05;
+
+            if (precio > 100) {
+
+                descuento = descuento + 0.15;
+
+            }
+
+            if (precio > 200) {
+
+                envioGratis = true;
+
+            }
+
+        } 
+
+        double total = precio * (1 + impuestos) * (1 - descuento);
+
+        if (envioGratis) {
+
+            total -= 10;
+
+        }
+
+  
+
+        return total;
+
+    }
+
+}
+
+```
