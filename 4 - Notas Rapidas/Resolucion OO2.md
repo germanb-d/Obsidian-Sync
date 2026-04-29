@@ -203,3 +203,13 @@ AssertEquals("123", guardados.devolverContenido())
 }
 
 ```
+
+
+---
+
+```java
+public interface Producto(){
+
+public 
+}
+```

@@ -133,3 +133,68 @@ public class GeneradorDeInformes {
 2. Escribí un test unitario que use un **Fake Object** (por ejemplo, uno que guarde el contenido en un `String` en memoria) para verificar que el informe se "envió" correctamente sin escribir el disco.
 
 ¿Por cuál te gustaría empezar a resolver? Si querés, probá el de **Tell Don't Ask** que es clave para entender cómo "ordenar acciones" en lugar de "pedir datos".
+
+---
+
+Aquí tenés un modelo de parcial integrando todos los temas clave de las fuentes y lo que vinimos practicando:
+
+### **PUNTO 1: Heurística "Tell Don't Ask"**
+
+Dado el siguiente código de un sistema de Ventas:
+
+```
+public class ProcesadorVentas {
+    public void procesar(Carrito carrito) {
+        if (carrito.getProductos().size() > 10) { // Pide la lista y decide
+            carrito.aplicarDescuento(0.10);
+        }
+    }
+}
+```
+
+**Se pide:** Refactorizá para aplicar **Tell Don't Ask**, moviendo la responsabilidad al objeto que tiene los datos. Escribí el test unitario para un carrito con 11 productos.
+
+---
+
+### **PUNTO 2: Inyección de Dependencias y Fake Objects**
+
+La clase `Notificador` envía correos usando una librería externa `GmailService` que se conecta a internet:
+
+```
+public class Notificador {
+    public void avisar(String msg) {
+        GmailService service = new GmailService(); // Acoplamiento rígido
+        service.send(msg);
+    }
+}
+```
+
+**Se pide:**
+
+1. Refactorizá aplicando **Inyección de Dependencias** y **Dependencia de Abstracciones** para que el servicio sea testable.
+2. Implementá un **Fake Object** y escribí un test que verifique que el mensaje enviado es el correcto sin usar internet.
+
+---
+
+### **PUNTO 3: Polimorfismo vs. Condicionales**
+
+Refactorizá el siguiente método para eliminar los `if` usando polimorfismo:
+
+```
+public double calcularSueldo(Empleado e) {
+    if (e.tipo().equals("GERENTE")) {
+        return e.base() + 5000;
+    } else if (e.tipo().equals("CADETE")) {
+        return e.base() + 1000;
+    }
+    return e.base();
+}
+```
+
+---
+
+### **PUNTO 4: Diseño en Capas (Layering)**
+
+En el ejercicio 1 del TP 4, tenías un `JFrame` que hacía validaciones y guardaba en la BD. **Se pide:** Explicá qué es un **Humble Object** (como la vista refactorizada) y por qué las validaciones de negocio deben ir en el **Modelo de Dominio** y no en la UI.
+
+¿Querés empezar resolviendo el **Punto 1** o preferís que profundicemos en la teoría de alguno antes?
