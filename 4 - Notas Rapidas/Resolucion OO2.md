@@ -263,9 +263,14 @@ service.send(mensaje);
 }
 }
 public class Notificador {
+private Notificacion service;
+
+public Notificador(Notificacion service){
+this.service = service;
+}
+
 public void avisar(String msg){
-Notificacion service = new Notificacion();
-servuce.Notificar(msg);
+service.Notificar(msg);
 }
 
 }
@@ -289,6 +294,8 @@ NotificadorTest{
 
 @Test
 public void testRecibeMSJ(){
+
+
 Notificador notificador = new Notificador();
 
 
