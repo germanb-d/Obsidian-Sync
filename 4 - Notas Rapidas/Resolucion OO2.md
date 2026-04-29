@@ -246,3 +246,25 @@ AssertEquals(carrito.devolverPrecioTotal,990.0, 0.01); //pedia tolerancia con do
 }
 ```
 
+
+# Punto 2
+
+
+```java
+public interface Notificacion{
+public void Notificar( String mensaje);
+}
+
+public class GmailService extends Notificador{
+
+@Override 
+public void Notificar(mensaje)
+}
+public class Notificador {
+public void avisar(String msg){
+Notificacion service = new Notificacion();
+servuce.Notificar(msg);
+}
+
+}
+```
