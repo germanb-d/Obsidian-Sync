@@ -422,9 +422,8 @@ assertEquals(3, control.calcularCausasTotales());
 
 ```
 
+
 Punto 2
-
-
 ```java
 public interface ProovedorClima{
 void devolverClima(LocalDate fecha);
@@ -458,3 +457,6 @@ public Clima(ProovedorClima datosClima) {
 
 
 ```
+
+
+
