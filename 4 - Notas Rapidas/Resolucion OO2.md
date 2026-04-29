@@ -398,9 +398,23 @@ public class Controlador {
 public testControlador{
 
 //Arraylist<Juez> jueces = new ArrayList<Juez>();
-Juez juez1 = new Juez(pablo, rodriguez)
+@Test
+public void testCausasTotales() {
+Juez juez1 = new Juez("pablo", "rodriguez");
+Juez juez2 = new Juez("pepe", "argento");
 
+Juez1.agregarCausa( new Causa(/*Parametros*/));
+Juez1.agregarCausa( new Causa(/*Parametros*/));
+Juez2.agregarCausa( new Causa(/*Parametros*/));
 
 Controlador control = new Controlador()
+
+control.agregarJuez(juez1);
+control.agregarJuez(juez2);
+
+assertEquals(3, control.calcularCausasTotales());
+
+}
+
 ```
 
