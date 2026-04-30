@@ -17,3 +17,7 @@ Se diseña una fachada qq tendra los metodos como endpoints?
 Que la comunicacion la maneje una clase distinta a parque? Tipo parque y comunicadorParque: Recibe y pasa endPoints
 
 Estoy entendiendo como conectar el front de react con el back en java
+
+
+
+C
