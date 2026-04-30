@@ -178,3 +178,10 @@ Main
 
 Firebise para q el sistema de usuarios sea mas sencillo. Usamos SQL 
 
+
+
+Security: configuracion para los controladores del endpoint
+- a q endpoints puede acceder q usuario
+- Las comunicaciones deberian ir cifradas con JWT
+
+
