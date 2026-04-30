@@ -20,4 +20,6 @@ Estoy entendiendo como conectar el front de react con el back en java
 
 
 
-C
+Spring Boot para bootearlo y de compilador maven?
+
+Bite
