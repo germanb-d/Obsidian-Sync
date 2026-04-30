@@ -185,3 +185,4 @@ Security: configuracion para los controladores del endpoint
 - Las comunicaciones deberian ir cifradas con JWT
 
 
+Fecha de Sprint 
