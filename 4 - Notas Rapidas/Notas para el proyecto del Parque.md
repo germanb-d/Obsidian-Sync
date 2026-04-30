@@ -102,7 +102,6 @@ Estás entendiendo los fundamentos de una arquitectura **cliente-servidor REST**
 
 
 
-
 # Arquitectura y modelo 
 ### 1. Arquitectura del Sistema
 
@@ -159,3 +158,23 @@ La interfaz se construye mediante componentes reutilizables que consumen los ser
 Se utiliza **Maven** para la construcción del proyecto back-end, gestionando las dependencias de **Spring Boot** (Starter Web, Data JPA, Security) y drivers de base de datos. La estructura de archivos sigue el estándar de Maven (`src/main/java` para código y `src/main/resources` para configuraciones).
 
 Esta arquitectura de tres capas garantiza que el sistema sea capaz de centralizar la información dispersa actualmente en documentos y planillas, cumpliendo con el objetivo de optimizar la toma de decisiones en el Parque Industrial.
+
+
+
+
+
+# Convención 
+
+1. carpetas -> camelCase
+2. archivos -> PascalCase
+En java son todas las de siempre
+
+
+Main
+
+
+
+
+
+Firebise para q el sistema de usuarios sea mas 
+
