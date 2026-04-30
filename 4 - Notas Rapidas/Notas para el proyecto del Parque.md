@@ -186,3 +186,6 @@ Security: configuracion para los controladores del endpoint
 
 
 Fecha de Sprint e ingresos brutos
+
+
+Mediados de Junio
