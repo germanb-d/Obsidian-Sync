@@ -1,3 +1,8 @@
+Pregunta a notebookLM:
+Usando Spring Boot y maven para el back, junto con vite y react para el front. Creame la arquitectura y el modelado que tenga una capa controlador, una capa servicios y una capa para las entidades. Todo esto para el proyecto del parque industrial usando los tps y el diagrama de clases subido como guia.
+
+
+Respuesta:
 Para el desarrollo de la Plataforma de Gestión del Parque Industrial de Viedma (GPIV), se propone una arquitectura de software basada en el patrón de diseño de capas, utilizando **Spring Boot** para el backend y **React con Vite** para el frontend. Esta estructura permite una clara separación entre el modelo de dominio, la lógica de negocio y la interfaz de usuario, facilitando la mantenibilidad y escalabilidad del sistema.
 
 ### 1. Arquitectura del Sistema
