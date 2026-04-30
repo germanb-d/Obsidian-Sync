@@ -1,3 +1,4 @@
+# Notas Rapidas
 La planning en un SCRUM se hacen los tickets y se distribuyen con tiempo estimado y dificultad
 
 
@@ -29,6 +30,80 @@ RTA de Notebook LM:
 
 Para el desarrollo de la Plataforma de Gestión del Parque Industrial de Viedma (GPIV), se propone una arquitectura de software basada en el patrón de diseño de capas, utilizando **Spring Boot** para el backend y **React con Vite** para el frontend. Esta estructura permite una clara separación entre el modelo de dominio, la lógica de negocio y la interfaz de usuario, facilitando la mantenibilidad y escalabilidad del sistema.
 
+---
+
+## Respesta de Claude
+
+Te explico todo punto por punto, como si fuera una clase ordenada:
+
+---
+
+**SCRUM / Planning**
+
+En la _planning_ del sprint, el equipo toma las tareas (tickets) y les asigna dos cosas: una estimación de tiempo y un nivel de dificultad (story points). Así se decide cuánto entra en el sprint.
+
+---
+
+**Firebase**
+
+Es una base de datos en la nube de Google. "Abrir BD en Firebase" significa que van a usar ese servicio como su base de datos, sin tener que instalar nada local.
+
+---
+
+**Endpoint**
+
+Es una URL específica en el backend que "escucha" peticiones. Por ejemplo: `POST /api/parque/crear`. El frontend le _tira un request_ a esa dirección y el backend responde.
+
+---
+
+**El flujo general**
+
+```
+REACT (front)  →  request HTTP  →  JAVA (back)  →  Firebase (BD)
+                                        ↓
+REACT (front)  ←  JSON/GSON    ←  respuesta
+```
+
+El back recibe el pedido, consulta la base de datos, y devuelve los datos en formato **JSON** (en Java se usa la librería **GSON** para convertir objetos a JSON y viceversa).
+
+---
+
+**Método POST** (en tus notas dice "poust", es POST)
+
+Es uno de los métodos HTTP. Se usa para _enviar_ datos al servidor. Cada request HTTP tiene dos partes:
+
+- **Header**: metadatos (tipo de contenido, autenticación, etc.)
+- **Body**: los datos en sí, por ejemplo `{ "nombre": "Juan", "nivel": 3 }`
+
+Cuando llega ese request al back, vos tenés que _parsear_ el body (convertirlo de JSON a un objeto Java) y validar/limpiar los datos antes de usarlos. Sí, toda la comunicación front-back pasa por endpoints.
+
+---
+
+**La Fachada (Facade)**
+
+Es un patrón de diseño. La idea es tener una clase que actúe de "intermediaria" y exponga los métodos como endpoints. En vez de que `Parque` maneje todo, separás responsabilidades:
+
+|Clase|Responsabilidad|
+|---|---|
+| `Parque` |Lógica del negocio (reglas, datos)|
+| `ComunicadorParque` |Recibe requests HTTP y llama a `Parque` |
+
+Esto es exactamente lo que en Spring Boot (Java) se llama un **Controller**: una clase cuya única función es recibir requests, delegarle el trabajo a las clases de lógica, y devolver la respuesta.
+
+---
+
+**En resumen, la arquitectura que estás aprendiendo es:**
+
+```
+React → HTTP Request → Controller (ComunicadorParque) → Parque (lógica) → Firebase
+```
+
+Estás entendiendo los fundamentos de una arquitectura **cliente-servidor REST**, que es la más usada en la industria. ¿Querés que profundice en alguno de estos puntos?
+
+
+
+
+# Arquitectura y modelo 
 ### 1. Arquitectura del Sistema
 
 La solución se divide en dos grandes bloques conectados mediante una API REST:
