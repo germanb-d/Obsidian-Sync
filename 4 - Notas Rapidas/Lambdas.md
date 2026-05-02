@@ -5,7 +5,8 @@ tags:
 ---
 # Que son y como llegaron
 
-Introduccion
+## Introducción
+
 Nace a partir de JDK 8 con la programacion funcional.
 Es una forma de escribir ciertos metodos de forma mas abreviada.
 
@@ -14,7 +15,7 @@ Es una forma de escribir ciertos metodos de forma mas abreviada.
 - Con mas de un parametro: `{java}(parametro 1, parametro 2) -> sentencia`
 - Con más de una sentencia: `{java}(Parametro) ->{sentencia 1; sentencia 2;}`
 
-
+Evolución Histórica
 
 
 
