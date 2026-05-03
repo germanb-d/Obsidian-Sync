@@ -83,10 +83,10 @@ Cuando llega ese request al back, vos tenés que _parsear_ el body (convertirlo 
 
 Es un patrón de diseño. La idea es tener una clase que actúe de "intermediaria" y exponga los métodos como endpoints. En vez de que `Parque` maneje todo, separás responsabilidades:
 
-|Clase|Responsabilidad|
-|---|---|
-| `Parque` |Lógica del negocio (reglas, datos)|
-| `ComunicadorParque` |Recibe requests HTTP y llama a `Parque` |
+| Clase               | Responsabilidad                         |
+| ------------------- | --------------------------------------- |
+| `Parque`            | Lógica del negocio (reglas, datos)      |
+| `ComunicadorParque` | Recibe requests HTTP y llama a `Parque` |
 
 Esto es exactamente lo que en Spring Boot (Java) se llama un **Controller**: una clase cuya única función es recibir requests, delegarle el trabajo a las clases de lógica, y devolver la respuesta.
 
