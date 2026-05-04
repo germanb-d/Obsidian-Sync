@@ -192,6 +192,6 @@ Mediados de Junio
 
 
 COntroladores
-Entid 
+Entidades 
 Servicio 
 Persistencia
