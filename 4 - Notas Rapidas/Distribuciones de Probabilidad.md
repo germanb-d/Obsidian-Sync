@@ -49,5 +49,6 @@ Si X es menor que la media entonces se buscara en la tabla negativa o en la posi
 
 
 
+Si se sale de la tabla es 0
 
 ## Poisson
