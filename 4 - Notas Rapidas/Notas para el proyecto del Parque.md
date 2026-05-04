@@ -188,3 +188,10 @@ Fecha de Sprint e ingresos brutos
 
 
 Mediados de Junio
+
+
+
+COntroladores
+Entid 
+Servicio 
+Persistencia
