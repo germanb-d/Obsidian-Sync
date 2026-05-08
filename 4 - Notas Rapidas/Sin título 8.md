@@ -496,12 +496,15 @@ Complete the text using the correct past simple form of the verbs in brackets.
 
 ## Ask questions about the highlighted clues.
 
-6. The thief stole the diamond.
+1. The thief stole the diamond.
     
-7. He hid under the bed.
+2. He hid under the bed.
     
-8. The crime happened at midnight.
+3. The crime happened at midnight.
     
-9. The detective found the fingerprints.
+4. The detective found the fingerprints.
     
-10. She cried because she was scared.
+5. She cried because she was scared.
+6. 
+
+
