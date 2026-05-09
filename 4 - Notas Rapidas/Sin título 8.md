@@ -507,4 +507,3 @@ Complete the text using the correct past simple form of the verbs in brackets.
 5. She cried because she was scared.
 6. 
 
-
