@@ -28,15 +28,13 @@ Pregunta → Respuesta
 Single-Line Bidirectional
 Concepto 1 ↔ Concepto 2
 
-Multi-line Basic
-Pregunta
-?
-Respuesta
+^learnkit-990983012
+Q | Multi-line Basic Pregunta |
+A | Respuesta |
 
-Multi-line Bidirectional
-Concepto 1
-??
-Concepto 2
+^learnkit-378167914
+RQ | Multi-line Bidirectional Concepto 1 |
+A | Concepto 2 |
 
 Usa tarjetas bidireccionales solo cuando ambos lados puedan funcionar como pregunta.
 Prioriza definiciones, conceptos clave, comparaciones y listas cortas.

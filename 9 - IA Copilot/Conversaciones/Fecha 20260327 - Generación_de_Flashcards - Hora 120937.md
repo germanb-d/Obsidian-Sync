@@ -32,15 +32,13 @@ Pregunta → Respuesta
 Single-Line Bidirectional
 Concepto 1 ↔ Concepto 2
 
-Multi-line Basic
-Pregunta
-?
-Respuesta
+^learnkit-556391678
+Q | Multi-line Basic Pregunta |
+A | Respuesta |
 
-Multi-line Bidirectional
-Concepto 1
-??
-Concepto 2
+^learnkit-271422918
+RQ | Multi-line Bidirectional Concepto 1 |
+A | Concepto 2 |
 
 Usa tarjetas bidireccionales solo cuando ambos lados puedan funcionar como pregunta.
 Prioriza definiciones, conceptos clave, comparaciones y listas cortas.
@@ -64,7 +62,6 @@ Objetivo de las metodologías ágiles → Reducir malentendidos, entregar softwa
 
 Características principales de las metodologías ágiles → Desarrollo incremental, iteraciones cortas, comunicación constante con el cliente, menos documentación.
 
-Modelos tradicionales: rígidos, secuenciales, cambios costosos
-??
-Metodologías ágiles: flexibles, iterativas, adaptadas a cambios
-[Timestamp: 2026/03/27 12:09:48]
+^learnkit-964103710
+RQ | Modelos tradicionales: rígidos, secuenciales, cambios costosos |
+A | Metodologías ágiles: flexibles, iterativas, adaptadas a cambios [Timestamp: 2026/03/27 12:09:48] |

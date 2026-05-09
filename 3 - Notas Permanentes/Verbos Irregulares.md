@@ -26,7 +26,8 @@ Formas Negativa e Interrogativa
 - **Interrogativa:** Do you work? (¿Trabajas?) 
 - **Does**: he work? (¿Trabaja él?)
 
-El presente continuo (o [present continuous](https://www.google.com/search?client=firefox-b-d&sca_esv=9594ada01a48a169&sxsrf=AE3TifOd5S-thv-9IQc970B-L9QC9cIoEQ%3A1758556902170&q=present+continuous&sa=X&ved=2ahUKEwitoOL73uyPAxWXAbkGHaYrHUQQxccNegQIBhAB&mstk=AUtExfDiA7vTj8PkKMVcudG9zky-0-IiWc2qkORs64UHABwhYOjsrt5mwn650R_86bRKXJ-1ArmtZn6NoUGaCRCiOw8hYhQF4zoQfwtG5noQDdAmeEt4E19AohJYfuTmWsRSSbU44TifFsSc-9a6Jr-HWi200gJmCuwCqTaKcQPApmBXKXNGeMzYIHm6Q0begOdjV1HJl7YFRevL98yZWYIkl21HAOwUrfqif2Y27eG2w-SuXl4Q2PFGXXSOEOGo1GU3EteXjMPSNdwt2W1hURm5LEHm&csui=3)) ==se usa para describir acciones que están ocurriendo en el momento de hablar, en un futuro cercano programado, o para indicar tendencias generales==. Se forma con el verbo "to be" (am, is, are) seguido del verbo principal con la terminación -ing. Por ejemplo: "She is studying right now" (Ella está estudiando ahora mismo). 
+^learnkit-171922005
+CQ | El presente continuo (o [present continuous](https://www.google.com/search?client=firefox-b-d&sca_esv=9594ada01a48a169&sxsrf=AE3TifOd5S-thv-9IQc970B-L9QC9cIoEQ%3A1758556902170&q=present+continuous&sa=X&ved=2ahUKEwitoOL73uyPAxWXAbkGHaYrHUQQxccNegQIBhAB&mstk=AUtExfDiA7vTj8PkKMVcudG9zky-0-IiWc2qkORs64UHABwhYOjsrt5mwn650R_86bRKXJ-1ArmtZn6NoUGaCRCiOw8hYhQF4zoQfwtG5noQDdAmeEt4E19AohJYfuTmWsRSSbU44TifFsSc-9a6Jr-HWi200gJmCuwCqTaKcQPApmBXKXNGeMzYIHm6Q0begOdjV1HJl7YFRevL98yZWYIkl21HAOwUrfqif2Y27eG2w-SuXl4Q2PFGXXSOEOGo1GU3EteXjMPSNdwt2W1hURm5LEHm&csui=3)) {{c1::se usa para describir acciones que están ocurriendo en el momento de hablar, en un futuro cercano programado, o para indicar tendencias generales}}. Se forma con el verbo "to be" (am, is, are) seguido del verbo principal con la terminación -ing. Por ejemplo: "She is studying right now" (Ella está estudiando ahora mismo). |
 
 ¿Cuándo se usa?
 

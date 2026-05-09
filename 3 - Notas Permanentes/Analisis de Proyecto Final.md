@@ -123,7 +123,9 @@ Las expresiones **Lambda** se utilizan como [[Interfaces]] funcionales anónimas
 
 Mientras que la interfaz **Comparable** define el ordenamiento natural en la entidad, la interfaz **Comparator** se utiliza en la capa de servicio para definir **múltiples órdenes personalizados** y externos a la entidad.6
 
-Debido a que `Comparator` es una Interfaz Funcional (contiene exactamente un método abstracto, `compare(T o1, T o2)`), es el candidato perfecto para ser implementado mediante **expresiones Lambda**.6 Por ejemplo, para ordenar una lista de alumnos recuperada por el servicio por su nombre en lugar de por su legajo natural, se utilizaría un lambda: `list.stream().sorted(Comparator.comparing(Alumno::getNombre))`.
+^learnkit-771185961
+Q | Debido a que `Comparator` es una Interfaz Funcional (contiene exactamente un método abstracto, `compare(T o1, T o2)`), es el candidato perfecto para ser implementado mediante **expresiones Lambda**.6 Por ejemplo, para ordenar una lista de alumnos recuperada por el servicio por su nombre en lugar de por su legajo natural, se utilizaría un lambda: `list.stream().sorted(Comparator.comparing(Alumno |
+A | getNombre))`. |
 
 ### III.C. Capa API (`ar.unrn.api`)
 

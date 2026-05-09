@@ -32,15 +32,13 @@ Pregunta → Respuesta
 Single-Line Bidirectional
 Concepto 1 ↔ Concepto 2
 
-Multi-line Basic
-Pregunta
-?
-Respuesta
+^learnkit-236811986
+Q | Multi-line Basic Pregunta |
+A | Respuesta |
 
-Multi-line Bidirectional
-Concepto 1
-??
-Concepto 2
+^learnkit-266807668
+RQ | Multi-line Bidirectional Concepto 1 |
+A | Concepto 2 |
 
 Usa tarjetas bidireccionales solo cuando ambos lados puedan funcionar como pregunta.
 Prioriza definiciones, conceptos clave, comparaciones y listas cortas.
@@ -56,9 +54,9 @@ Cuándo funcionan bien los modelos estructurados → Requisitos estables, mucho 
 
 Modelos de desarrollo tradicionales (ejemplos) → Proceso Unificado (UP), Modelo en V, Ciclo de Vida en Espiral.
 
-Problema principal del Modelo en Cascada
-?
-El usuario ve el sistema casi al final, lo que hace costoso corregir cambios o malentendidos.
+^learnkit-745265328
+Q | Problema principal del Modelo en Cascada |
+A | El usuario ve el sistema casi al final, lo que hace costoso corregir cambios o malentendidos. |
 
 Modelo en V (estructura) ↔ Proceso en forma de V, con etapas de desarrollo en un lado y etapas de prueba asociadas en el otro.
 
@@ -68,7 +66,6 @@ Objetivo de las Metodologías Ágiles → Reducir malentendidos, entregar softwa
 
 Características principales de las Metodologías Ágiles → Desarrollo incremental, iteraciones cortas, comunicación constante con el cliente, menos documentación.
 
-Diferencia clave: Modelos tradicionales vs. Metodologías ágiles
-?
-Tradicionales: rígidos, secuenciales, cambios costosos. Ágiles: flexibles, iterativas, adaptadas a cambios.
-[Timestamp: 2026/03/11 10:42:36]
+^learnkit-419095820
+Q | Diferencia clave: Modelos tradicionales vs. Metodologías ágiles |
+A | Tradicionales: rígidos, secuenciales, cambios costosos. Ágiles: flexibles, iterativas, adaptadas a cambios. [Timestamp: 2026/03/11 10:42:36] |
