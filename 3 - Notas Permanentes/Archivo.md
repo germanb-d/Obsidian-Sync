@@ -168,3 +168,5 @@ Pero a veces puede usarse **acceso relativo** si se quiere llegar rápidamente a
 #### Relativo / Directo
 
 Se accede directamente al [[Registro]] mediante el [[NRR]].
+
+
