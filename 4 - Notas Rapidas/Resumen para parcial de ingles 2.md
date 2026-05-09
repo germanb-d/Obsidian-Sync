@@ -221,4 +221,4 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ¿Querés que imprima esto o lo paso a otro formato?
 
-Ewrfinmsal;kfndskjlgnvdfsjkldascnadscjklnasdvlkjnasdkvjllkadvnklaahsdfjkahsdbcdsajhcbaeihjaksdbcv
+Dkslvmakjdsfvndkfljvnkjfdlsvnjkld
