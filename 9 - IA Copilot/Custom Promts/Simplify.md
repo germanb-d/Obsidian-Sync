@@ -3,6 +3,6 @@ copilot-command-context-menu-enabled: false
 copilot-command-slash-enabled: false
 copilot-command-context-menu-order: 30
 copilot-command-model-key: ""
-copilot-command-last-used: 0
+copilot-command-last-used: 1778291999006
 ---
 Simplify {} to a 6th-grade reading level (ages 11-12). Use simple sentences, common words, and clear explanations. Maintain the original key concepts. Return only the simplified text.
