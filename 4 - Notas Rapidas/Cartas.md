@@ -1,4 +1,5 @@
-Germán: -10
-Mamá: 39
+Germán: -1
+Mamá: 35
 
-Mover comodines solo dentro del mismo juego
+- Mover comodines solo dentro del mismo juego
+- No sé vale cortar en la primer mano
