@@ -3,7 +3,6 @@ Categoria: Sistemas
 Materia: Seminario de Lenguajes
 tags:
 ---
-
 # ¿Qué Es MVC?
 
 El Modelo Vista Controlador (MVC) es un [[patrón de diseño de software]] ampliamente utilizado en diversos lenguajes de programación. De hecho, es uno de los patrones de diseño de software más populares.
