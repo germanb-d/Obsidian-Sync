@@ -48,3 +48,4 @@ Se trabaja con estructuras de almacenamiento como:
 
 > [!note]
 > - Pero, al final, **todo se traduce en archivos físicos**.
+
