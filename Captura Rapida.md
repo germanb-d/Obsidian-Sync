@@ -1,1 +1,2 @@
-- [ ] PepeLuis ⏳ 2026-05-13 17:00
+- [ ] PepeLuis ⏳ 2026-05-13 09:00 ✅ 2026-05-13
+- [/] Omprar panfdsafs 🔁 every week on Sunday
