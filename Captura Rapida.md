@@ -1,2 +1,5 @@
-- [ ] PepeLuis ⏳ 2026-05-13 09:00 ✅ 2026-05-13
+- [ ] PepeLuis 🔁 every day ⏳ 2026-05-14 09:00 ✅ 2026-05-13
+- [x] PepeLuis 🔁 every day 🛫 2026-05-14 ⏳ 2026-05-14 09:00 📅 2026-05-14 09:00 ✅ 2026-05-13
+- [x] PepeLuis 🔁 every day 🛫 2026-05-14 ⏳ 2026-05-14 09:00 📅 2026-05-15 09:00 ✅ 2026-05-13
+- [ ] PepeLuis 🔁 every day 🛫 2026-05-14 ⏳ 2026-05-14 09:00 📅 2026-05-16 09:00
 - [ ] Omprar panfdsafs 🔁 every week on Sunday
