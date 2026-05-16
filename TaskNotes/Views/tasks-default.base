@@ -81,6 +81,8 @@ views:
     sort:
       - property: due
         direction: ASC
+    expandedRelationshipFilterMode: inherit
+    enableSearch: false
   - type: tasknotesTaskList
     name: Not Blocked
     filters:
