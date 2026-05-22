@@ -10,7 +10,7 @@ Indicate whether these statements are true or false. Justify by highlighting the
 A) Banco Patagonia can’t claim that it’s “powered by AI” solely on the basis of its “Padi” assistant. **TRUE**
 >  a company may claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. Pagina 1
 
-B) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI. 
+B) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI.  FALSE
 
 > Uses machine learning (ML) because it can analyze data. The problem is that automation and data analysis functions can often be achieved with programmed instructions that never change. To be truly “Powered by AI,” artificial intelligence has to be an integral part of how the product or service works.
 
