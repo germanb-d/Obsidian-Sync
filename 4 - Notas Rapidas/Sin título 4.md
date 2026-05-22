@@ -17,20 +17,28 @@ B) If a company uses machine learning to automate its data analysis, then it’s
 
 C) One of the reasons for engaging in AI washing is for a company to charge people more for a particular product. 
 
+> "Companies that want to associate artificial intelligence with their brand may engage in AI washing in order to: ... Justify a higher price point." (Página 1)
+
+Customers that “vote with their feet” are likely to continue spending on companies that engage in AI washing, despite having found their products wanting. 
+
+> "When consumers purchase or subscribe to products/services that fail to deliver the AI capabilities that were advertised, they are likely to 'vote with their feet.' This means they will stop using the product/service and seek out alternatives..." (Página 2)
+
+No country has laws against AI washing. 
+
+> "Currently, there's no single comprehensive law that specifically addresses AI washing. However, several existing and emerging regulations and guidelines around the world address the broader issues..." (Página 2-3)
+> Aunque no hay una ley específica, existen regulaciones que indirectamente afectan al AI washing, y la EU AI Act la regulará. Por lo tanto, no es cierto que ningún país tenga leyes contra esto.
 
 
-3) Customers that “vote with their feet” are likely to continue spending on companies that engage in AI washing, despite having found their products wanting. 
-4) No country has laws against AI washing. 
-5) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
+4) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
 
-6) Find what the words in yellow refer to. 
+5) Find what the words in yellow refer to. 
 	1) it:
 	2) their: 
 	3) it: 
 	4) they:
 	5) this:
 
-7) Taking into account these sentences a) find the verb phrase, b) indicate the verb tense, c) translate the sentence: 
+6) Taking into account these sentences a) find the verb phrase, b) indicate the verb tense, c) translate the sentence: 
 	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works
 		1) Rta: 
 	2) The vendor’s artificial intelligence has helped them solve a very specific problem. 
@@ -38,7 +46,7 @@ C) One of the reasons for engaging in AI washing is for a company to charge peop
 	3) The objective of AI washing is to capitalize on people’s interest in AI and make an offering seem to be more cutting-edge than it really is.
 		1) Rta:
 
-8) Find the head noun and translate these phrases
+7) Find the head noun and translate these phrases
 	1) a deceptive promotional practice that exaggerates or outright lies about a product or service’s use of artificial intelligence (AI)
 		1) Rta:
 	2) the cloud service they offer
@@ -52,9 +60,9 @@ C) One of the reasons for engaging in AI washing is for a company to charge peop
 	6) the intention of purposely deceiving consumers or investor s to gain financial or other benefits
 		1) Rta:
 
-9) Four of the NPs above contain RELATIVE CLAUSES. Which are they? What’s the modified noun in each case?
+8) Four of the NPs above contain RELATIVE CLAUSES. Which are they? What’s the modified noun in each case?
 
-10) Answer these questions about the underlined expressions: 
+9) Answer these questions about the underlined expressions: 
 	1) What’s an example of cutting-edge technology? 
 	2) Give an example of a company that automates its workflow. 
 	3) What are the shortcomings of Banco Patagonia’s home banking website? 
@@ -66,12 +74,12 @@ C) One of the reasons for engaging in AI washing is for a company to charge peop
 	9) If I say that a person’s understanding of AI is fuzzy, are their ideas clear? 
 	10) What are some core components of AI? 
 
-11) How do the words in bold contribute to the overall meaning of these sentences? 
+10) How do the words in bold contribute to the overall meaning of these sentences? 
 	1)  For example, a company **may** claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. 
 	2) The company’s AI claims **should** be explainable and easily understood. 
 	3) Or they may claim the cloud service they offer uses machine learning (ML) because it **can** analyze data. 
 
-12) In the following sentences, two events are presented. Which of these depends on the other?
+11) In the following sentences, two events are presented. Which of these depends on the other?
 	1) Look for vendors whose websites include a glossary of AI-related terminology if you want to avoid companies that are AI washing. 
 	2) If the company claims to develop AI in-house instead of purchasing AI as a service (AIaaS), look at the “Who We Are” section of their website to see if the management team has the necessary skills to create AI models and tune foundation models for specific types of tasks. 
 	3) If a company claims to offer AI-powered solutions but fails to adequately explain how AI is used – or it exaggerates the role AI plays in its product/service – this could simply be regarded as misleading, which is bad enough. 
