@@ -26,7 +26,7 @@ Customers that “vote with their feet” are likely to continue spending on com
 No country has laws against AI washing. 
 
 > "Currently, there's no single comprehensive law that specifically addresses AI washing. However, several existing and emerging regulations and guidelines around the world address the broader issues..." (Página 2-3)
-> Aunque no hay una ley específica, existen regulaciones que indirectamente afectan al AI washing, y la EU AI Act la regulará. Por lo tanto, no es cierto que ningún país tenga leyes contra esto.
+> Aunque no hay una ley específica, existen regulaciones que indirectamente afectan al AI washing, tipo existe una ley para el fraude u otras. Decir q no hay leyes suena a 
 
 
 4) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
