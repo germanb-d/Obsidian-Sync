@@ -6,12 +6,19 @@
 
 
 Indicate whether these statements are true or false. Justify by highlighting the lines that support your answer. 
-1) Banco Patagonia can’t claim that it’s “powered by AI” solely on the basis of its “Padi” assistant. TRUE
->  a company may claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses.
 
-[[AI Washing.pdf#page=1&selection=21,60,26,54|AI Washing, página 1]]
-1) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI. 
-2) One of the reasons for engaging in AI washing is for a company to charge people more for a particular product. 
+A) Banco Patagonia can’t claim that it’s “powered by AI” solely on the basis of its “Padi” assistant. **TRUE**
+>  a company may claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. Pagina 1
+
+B) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI. 
+
+> Uses machine learning (ML) because it can analyze data. The problem is that automation and data analysis functions can often be achieved with programmed instructions that never change. To be truly “Powered by AI,” artificial intelligence has to be an integral part of how the product or service works.
+
+
+C) One of the reasons for engaging in AI washing is for a company to charge people more for a particular product. 
+
+
+
 3) Customers that “vote with their feet” are likely to continue spending on companies that engage in AI washing, despite having found their products wanting. 
 4) No country has laws against AI washing. 
 5) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
