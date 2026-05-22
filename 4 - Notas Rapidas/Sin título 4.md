@@ -86,25 +86,91 @@ la intención de engañar deliberadamente a consumidores o inversores para obten
 
 ## Four of the NPs above contain RELATIVE CLAUSES. Which are they? What’s the modified noun in each case?
 
-8) Answer these questions about the underlined expressions: 
-	1) What’s an example of cutting-edge technology? 
-	2) Give an example of a company that automates its workflow. 
-	3) What are the shortcomings of Banco Patagonia’s home banking website? 
-	4) What’s the opposite of a fast moving market? Provide an example. e. What does tuning a particular tool for a specific function imply? 
-	5) Give an example of a red flag that appears when a person pretends to know more about AI than he/she really does. 
-	6) Provide an example of a tech buzzword that used to be popular in the 90’s. 
-	7) What are the consequences of harming the perception of AI as a whole? 
-	8) If an action crosses the threshold of what is legal, what does this imply? 
-	9) If I say that a person’s understanding of AI is fuzzy, are their ideas clear? 
-	10) What are some core components of AI? 
 
-9) How do the words in bold contribute to the overall meaning of these sentences? 
-	1)  For example, a company **may** claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. 
-	2) The company’s AI claims **should** be explainable and easily understood. 
-	3) Or they may claim the cloud service they offer uses machine learning (ML) because it **can** analyze data. 
+|Frase|Relative clause|Modified noun (antecedente)|
+|---|---|---|
+|a. a deceptive promotional practice **that exaggerates or outright lies about a product or service’s use of artificial intelligence (AI)**|that exaggerates...|**practice**|
+|b. the cloud service **they offer** (relative pronoun omitted: _that/which_)|(that) they offer|**service**|
+|d. vendors **whose websites include a glossary of AI-related terminology**|whose websites include...|**vendors**|
+|e. customer testimonials **that explain how the vendor’s artificial intelligence has helped them solve a very specific problem**|that explain...|**testimonials**|
 
-10) In the following sentences, two events are presented. Which of these depends on the other?
-	1) Look for vendors whose websites include a glossary of AI-related terminology if you want to avoid companies that are AI washing. 
-	2) If the company claims to develop AI in-house instead of purchasing AI as a service (AIaaS), look at the “Who We Are” section of their website to see if the management team has the necessary skills to create AI models and tune foundation models for specific types of tasks. 
-	3) If a company claims to offer AI-powered solutions but fails to adequately explain how AI is used – or it exaggerates the role AI plays in its product/service – this could simply be regarded as misleading, which is bad enough. 
-	4) If the misrepresentations are made with the intention of purposely deceiving consumers or investor s to gain financial or other benefits, they may be regarded as fraud, and this can have legal consequences.
+_(La frase c no tiene cláusula relativa; la frase f tiene una frase preposicional con "of", no una cláusula relativa)._
+
+
+
+## Answer these questions about the underlined expressions: 
+1) What’s an example of cutting-edge technology? 
+2) Give an example of a company that automates its workflow. 
+3) What are the shortcomings of Banco Patagonia’s home banking website? 
+4) What’s the opposite of a fast moving market? Provide an example. e. What does tuning a particular tool for a specific function imply? 
+5) Give an example of a red flag that appears when a person pretends to know more about AI than he/she really does. 
+6) Provide an example of a tech buzzword that used to be popular in the 90’s. 
+7) What are the consequences of harming the perception of AI as a whole? 
+8) If an action crosses the threshold of what is legal, what does this imply? 
+9) If I say that a person’s understanding of AI is fuzzy, are their ideas clear? 
+10) What are some core components of AI? 
+_(Las expresiones subrayadas no se ven en el texto plano, pero se infieren del contexto del ejercicio; se responden según el sentido general del artículo.)_
+
+**a. What’s an example of cutting-edge technology?**  
+Ejemplo: Un asistente de voz verdaderamente basado en IA que aprende y se adapta al usuario, no solo un emparejador de palabras clave.
+
+**b. Give an example of a company that automates its workflow.**  
+Ejemplo: Una empresa que utiliza software de gestión de proyectos con reglas preprogramadas (como Zapier) para automatizar tareas repetitivas.
+
+**c. What are the shortcomings of Banco Patagonia’s home banking website?**  
+El artículo no menciona específicamente a Banco Patagonia; se puede inferir que una posible deficiencia sería afirmar tener IA cuando solo usa respuestas preescritas (como el ejemplo del chatbot).
+
+**d. What’s the opposite of a fast moving market? Provide an example.**  
+Opuesto: un mercado lento o estancado. Ejemplo: el mercado de máquinas de escribir.
+
+**e. What does tuning a particular tool for a specific function imply?**  
+Implica ajustar o adaptar una herramienta (por ejemplo, un modelo de IA) para que realice una tarea concreta de manera óptima.
+
+**f. Give an example of a red flag that appears when a person pretends to know more about AI than he/she really does.**  
+Ejemplo: Que no pueda explicar cómo se entrenaron los modelos de IA o cómo se maneja el sesgo y la deriva del modelo.
+
+**g. Provide an example of a tech buzzword that used to be popular in the 90’s.**  
+Ejemplo: "Multimedia", "ciberespacio" o "realidad virtual".
+
+**h. What are the consequences of harming the perception of AI as a whole?**  
+Consecuencias: Dificulta que los proyectos legítimos de IA ganen confianza y financiamiento, y convierte a la IA en una simple palabra de moda.
+
+**i. If an action crosses the threshold of what is legal, what does this imply?**  
+Implica que la acción es ilegal y puede tener consecuencias legales (como ser considerada fraude).
+
+**j. If I say that a person’s understanding of AI is fuzzy, are their ideas clear?**  
+No, sus ideas no son claras; "fuzzy" significa confuso, vago o poco definido.
+
+**k. What are some core components of AI?**  
+Algunos componentes centrales: modelos de machine learning, redes neuronales, algoritmos de aprendizaje, datos de entrenamiento, capacidad de adaptación y toma de decisiones autónoma.
+## How do the words in bold contribute to the overall meaning of these sentences? 
+1)  For example, a company **may** claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. 
+2) The company’s AI claims **should** be explainable and easily understood. 
+3) Or they may claim the cloud service they offer uses machine learning (ML) because it **can** analyze data. 
+**a. For example, a company **may** claim...**  
+"May" expresa posibilidad, no certeza. Indica que es algo que _puede_ ocurrir, no que todas las empresas lo hagan. Suaviza la afirmación.
+
+**b. The company’s AI claims **should** be explainable...**  
+"Should" expresa obligación o recomendación. Indica que es deseable o correcto que las afirmaciones sean explicables, pero no es una ley absoluta.
+
+**c. ...because it **can** analyze data.**  
+"Can" expresa capacidad. Indica que el servicio en la nube _tiene la habilidad_ de analizar datos, pero no necesariamente que use machine learning de forma genuina.
+
+
+## In the following sentences, two events are presented. Which of these depends on the other?
+1) Look for vendors whose websites include a glossary of AI-related terminology if you want to avoid companies that are AI washing. 
+2) If the company claims to develop AI in-house instead of purchasing AI as a service (AIaaS), look at the “Who We Are” section of their website to see if the management team has the necessary skills to create AI models and tune foundation models for specific types of tasks. 
+3) If a company claims to offer AI-powered solutions but fails to adequately explain how AI is used – or it exaggerates the role AI plays in its product/service – this could simply be regarded as misleading, which is bad enough. 
+4) If the misrepresentations are made with the intention of purposely deceiving consumers or investor s to gain financial or other benefits, they may be regarded as fraud, and this can have legal consequences.
+
+**a. Look for vendors whose websites include a glossary... if you want to avoid companies that are AI washing.**  
+Dependencia: **Evitar empresas que hacen AI washing** depende de **buscar proveedores con glosario**. (La condición es "si quieres evitar...")
+
+**b. If the company claims to develop AI in-house... look at the 'Who We Are' section...**  
+Dependencia: **Mirar la sección 'Quiénes somos'** depende de **que la empresa afirme desarrollar IA internamente**. (La condición es "si la empresa afirma...")
+
+**c. If a company claims... but fails to adequately explain how AI is used... this could simply be regarded as misleading...**  
+Dependencia: **Que se considere engañoso** depende de **que la empresa afirme tener soluciones de IA pero no explique adecuadamente su uso**.
+
+**d. If the misrepresentations are made with the intention of purposely deceiving... they may be regarded as fraud...**  
+Dependencia: **Que se considere fraude** depende de **que las tergiversaciones se hagan con intención de engañar**.
