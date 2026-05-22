@@ -2,10 +2,11 @@
 
 
 
-1) In a sentence, summarize the problem that this article addresses. 
+
+## In a sentence, summarize the problem that this article addresses. 
 
 
-Indicate whether these statements are true or false. Justify by highlighting the lines that support your answer. 
+## Indicate whether these statements are true or false. Justify by highlighting the lines that support your answer. 
 
 A) Banco Patagonia can’t claim that it’s “powered by AI” solely on the basis of its “Padi” assistant. **TRUE**
 >  a company may claim their chatbot is “Powered by the latest AI technology” when in reality, it simply matches keywords with pre-written responses. Pagina 1
@@ -26,17 +27,20 @@ Customers that “vote with their feet” are likely to continue spending on com
 No country has laws against AI washing. 
 
 > "Currently, there's no single comprehensive law that specifically addresses AI washing. However, several existing and emerging regulations and guidelines around the world address the broader issues..." (Página 2-3)
-> Aunque no hay una ley específica, existen regulaciones que indirectamente afectan al AI washing, tipo existe una ley para el fraude u otras. Decir q no hay leyes suena a 
+> Aunque no hay una ley específica, existen regulaciones que indirectamente afectan al AI washing, tipo existe una ley para el fraude u otras. Decir q no hay leyes suena q lo dice de una manera caotica (no creo q sea anarquico)
 
 
-4) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
+The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI. 
 
-5) Find what the words in yellow refer to. 
-	1) it:
-	2) their: 
-	3) it: 
-	4) they:
-	5) this:
+> "It can be tempting for marketers to take advantage of people's fuzzy understanding of artificial intelligence and slap the label AI on anything..." (Página 3) – La expresión "slap the label" sugiere una acción apresurada y poco cuidadosa.
+
+
+Find what the words in yellow refer to. 
+1) it: (página 1: "how it works") → se refiere a **AI** (inteligencia artificial).
+2) their: (página 1: "their chatbot") → se refiere a **a company** (una empresa).
+3) it: (página 1: "it simply matches keywords") → se refiere a **their chatbot** (el chatbot de la empresa).
+4) they:
+5) this:
 
 6) Taking into account these sentences a) find the verb phrase, b) indicate the verb tense, c) translate the sentence: 
 	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works
