@@ -111,3 +111,6 @@ O también (más común en tus parciales):
 ---
 
 ¿Querés que practiquemos con los textos de tus TPs? Te doy un título y vos armás la respuesta, o al revés.
+
+
+MS-DOS-Driven pc
