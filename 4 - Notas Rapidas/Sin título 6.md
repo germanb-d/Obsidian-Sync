@@ -33,3 +33,5 @@ A la inzquierda se guardo, lo de la derecha lo tengo q volver a rellenar.
 
 Te pide todo lo q es superficie requerida como datos pero despues no te lo muestra en la revision:
 ![[Sin título 6-1779978742428.webp]]
+
+No dice que sean m 2 
