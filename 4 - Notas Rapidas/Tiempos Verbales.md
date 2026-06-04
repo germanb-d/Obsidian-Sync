@@ -52,6 +52,12 @@ now · at the moment · right now · today · this week · currently
 
 ### Uso
 Se usa para: acciones terminadas en el pasado, secuencias de acciones, hechos del pasado con tiempo definido.
+
+| Verbo          | Past Simple positivo     | Past Simple negativo           | Past Simple pregunta       |
+| -------------- | ------------------------ | ------------------------------ | -------------------------- |
+| Work (regular) | I worked                 | I didn't work                  | Did I work?                |
+| Go (irregular) | I went                   | I didn't go                    | Did I go?                  |
+| **Be**         | I **was** / You **were** | I **wasn't** / You **weren't** | **Was** I? / **Were** you? |
 ### Forma afirmativa
 **Sujeto + past form**
 - I worked. / She played. / They went.
