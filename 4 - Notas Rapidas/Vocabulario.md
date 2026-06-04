@@ -1,270 +1,66 @@
-
-
 # VOCABULARIO DE SELF-DRIVING CARS
 
 ## SENSORS
 
-### sensor
+**sensor** · _sensor_ · collect information, detect, environment, data
 
-**Traducción:** sensor
-**Lo podés reconocer por:**
-- collect information
-- detect
-- environment
-- data
-**Ejemplo de contexto:**
+> The car uses several `______` to detect objects. → **sensors**
 
-> The car uses several ______ to detect objects.
+**camera** · _cámara_ · visible light, images, record objects
 
-Respuesta: **sensors**
+> Tesla relies mainly on `______` for self-driving. → **cameras**
 
----
+**radar** · _radar_ · radio waves, speed, distance, bad weather
 
-### camera
+> `______` can work well in fog and rain. → **Radar**
 
-**Traducción:** cámara
+**LiDAR** · _sensor láser_ · laser pulses, 3D map, surroundings
 
-**Pistas:**
-
-- visible light
-    
-- images
-    
-- record objects
-    
-
-**Contexto típico:**
-
-> Tesla relies mainly on ______ for self-driving.
-
-Respuesta: **cameras**
-
----
-
-### radar
-
-**Traducción:** radar
-
-**Pistas:**
-
-- radio waves
-    
-- speed
-    
-- distance
-    
-- bad weather
-    
-
-**Contexto típico:**
-
-> ______ can work well in fog and rain.
-
-Respuesta: **Radar**
-
----
-
-### LiDAR
-
-**Traducción:** sensor láser
-
-**Pistas:**
-
-- laser pulses
-    
-- 3D map
-    
-- surroundings
-    
-
-**Contexto típico:**
-
-> Waymo uses ______ to create 3D maps.
-
-Respuesta: **LiDAR**
+> Waymo uses `______` to create 3D maps. → **LiDAR**
 
 ---
 
 ## AI Y ENTRENAMIENTO
 
-### simulation
+**simulation** · _simulación_ · training, scenario, real world
 
-**Traducción:** simulación
+> Engineers train autonomous vehicles through `______`. → **simulations**
 
-**Pistas:**
+**scenario** · _escenario_ · driving, training, situation
 
-- training
-    
-- scenario
-    
-- real world
-    
+> The AI learns from different driving `______`. → **scenarios**
 
-**Contexto típico:**
+**training data** · _datos de entrenamiento_ · AI, learning, neural networks
 
-> Engineers train autonomous vehicles through ______.
+> Tesla has access to large amounts of `______`. → **training data**
 
-Respuesta: **simulations**
+**reinforcement learning** · _aprendizaje por refuerzo_ · reward, trial and error
 
----
+> Wayve relies heavily on `______`. → **reinforcement learning**
 
-### scenario
+**reward** · _recompensar_ · correct behavior, learning
 
-**Traducción:** escenario
-
-**Pistas:**
-
-- driving
-    
-- training
-    
-- situation
-    
-
-**Contexto típico:**
-
-> The AI learns from different driving ______.
-
-Respuesta: **scenarios**
-
----
-
-### training data
-
-**Traducción:** datos de entrenamiento
-
-**Pistas:**
-
-- AI
-    
-- learning
-    
-- neural networks
-    
-
-**Contexto típico:**
-
-> Tesla has access to large amounts of ______.
-
-Respuesta: **training data**
-
----
-
-### reinforcement learning
-
-**Traducción:** aprendizaje por refuerzo
-
-**Pistas:**
-
-- reward
-    
-- trial and error
-    
-
-**Contexto típico:**
-
-> Wayve relies heavily on ______.
-
-Respuesta: **reinforcement learning**
-
----
-
-### reward
-
-**Traducción:** recompensar
-
-**Pistas:**
-
-- correct behavior
-    
-- learning
-    
-
-**Contexto típico:**
-
-> The AI is ______ when it makes the right decision.
-
-Respuesta: **rewarded**
+> The AI is `______` when it makes the right decision. → **rewarded**
 
 ---
 
 ## VERBOS IMPORTANTES
 
-### rely on
+**rely on** · _depender de_ · depend, use heavily
 
-**Traducción:** depender de
+> Waymo `______` simulations to train its AI. → **relies on**
 
-**Pistas:**
+**deploy** · _desplegar_ · put into operation, use publicly
 
-- depend
-    
-- use heavily
-    
+> The company plans to `______` its vehicles in new cities. → **deploy**
 
-**Contexto típico:**
+**track** · _rastrear_ · object, movement, speed
 
-> Waymo ______ simulations to train its AI.
+> Radar helps `______` nearby vehicles. → **track**
 
-Respuesta: **relies on**
+**encounter** · _encontrar/enfrentarse a_ · problem, scenario
 
----
-
-### deploy
-
-**Traducción:** desplegar
-
-**Pistas:**
-
-- put into operation
-    
-- use publicly
-    
-
-**Contexto típico:**
-
-> The company plans to ______ its vehicles in new cities.
-
-Respuesta: **deploy**
-
----
-
-### track
-
-**Traducción:** rastrear
-
-**Pistas:**
-
-- object
-    
-- movement
-    
-- speed
-    
-
-**Contexto típico:**
-
-> Radar helps ______ nearby vehicles.
-
-Respuesta: **track**
-
----
-
-### encounter
-
-**Traducción:** encontrar / enfrentarse a
-
-**Pistas:**
-
-- problem
-    
-- scenario
-    
-
-**Contexto típico:**
-
-> New situations ______ on public roads.
-
-Respuesta: **encountered**
+> New situations `______` on public roads. → **encountered**
 
 ---
 
@@ -272,190 +68,49 @@ Respuesta: **encountered**
 
 ## CONCEPTOS PRINCIPALES
 
-### AI washing
+**AI washing** · _exagerar el uso de IA_ · marketing, deception, exaggeration
 
-**Traducción:** exagerar el uso de IA
+> Some companies engage in `______` to attract investors. → **AI washing**
 
-**Pistas:**
+**deceptive** · _engañoso_ · fraud, misleading
 
-- marketing
-    
-- deception
-    
-- exaggeration
-    
+> AI washing is a `______` practice. → **deceptive**
 
-**Contexto típico:**
+**fraud** · _fraude_ · legal consequences, deception
 
-> Some companies engage in ______ to attract investors.
+> Deliberately misleading investors may be considered `______`. → **fraud**
 
-Respuesta: **AI washing**
+**vendor** · _proveedor_ · product, service, company
 
----
+> Customers should ask questions before choosing a `______`. → **vendor**
 
-### deceptive
+**consumer** · _consumidor_ · customer, buyer
 
-**Traducción:** engañoso
-
-**Pistas:**
-
-- fraud
-    
-- misleading
-    
-
-**Contexto típico:**
-
-> AI washing is a ______ practice.
-
-Respuesta: **deceptive**
-
----
-
-### fraud
-
-**Traducción:** fraude
-
-**Pistas:**
-
-- legal consequences
-    
-- deception
-    
-
-**Contexto típico:**
-
-> Deliberately misleading investors may be considered ______.
-
-Respuesta: **fraud**
-
----
-
-### vendor
-
-**Traducción:** proveedor
-
-**Pistas:**
-
-- product
-    
-- service
-    
-- company
-    
-
-**Contexto típico:**
-
-> Customers should ask questions before choosing a ______.
-
-Respuesta: **vendor**
-
----
-
-### consumer
-
-**Traducción:** consumidor
-
-**Pistas:**
-
-- customer
-    
-- buyer
-    
-
-**Contexto típico:**
-
-> ______ may lose trust in the company.
-
-Respuesta: **consumers**
+> `______` may lose trust in the company. → **consumers**
 
 ---
 
 ## TECNOLOGÍA
 
-### machine learning
+**machine learning** · _aprendizaje automático_ · AI, data, learning
 
-**Traducción:** aprendizaje automático
+> The company claims to use `______` to analyze information. → **machine learning**
 
-**Pistas:**
+**workflow** · _flujo de trabajo_ · automate, process
 
-- AI
-    
-- data
-    
-- learning
-    
+> The software automates the company's `______`. → **workflow**
 
-**Contexto típico:**
+**bias** · _sesgo_ · data, model, fairness
 
-> The company claims to use ______ to analyze information.
+> Developers must reduce `______` in AI models. → **bias**
 
-Respuesta: **machine learning**
+**model drift** · _degradación del modelo_ · performance, AI model
 
----
-
-### workflow
-
-**Traducción:** flujo de trabajo
-
-**Pistas:**
-
-- automate
-    
-- process
-    
-
-**Contexto típico:**
-
-> The software automates the company's ______.
-
-Respuesta: **workflow**
-
----
-
-### bias
-
-**Traducción:** sesgo
-
-**Pistas:**
-
-- data
-    
-- model
-    
-- fairness
-    
-
-**Contexto típico:**
-
-> Developers must reduce ______ in AI models.
-
-Respuesta: **bias**
-
----
-
-### model drift
-
-**Traducción:** degradación del modelo
-
-**Pistas:**
-
-- performance
-    
-- AI model
-    
-
-**Contexto típico:**
-
-> Engineers monitor ______ over time.
-
-Respuesta: **model drift**
+> Engineers monitor `______` over time. → **model drift**
 
 ---
 
 ## EXPRESIONES MUY EXAMINABLES
-
-Estas son las que más probabilidades tienen de aparecer porque la profesora las preguntó explícitamente en las guías.
 
 |Expresión|Significado|
 |---|---|
@@ -480,47 +135,8 @@ Estas son las que más probabilidades tienen de aparecer porque la profesora las
 |threshold|límite|
 |transparency|transparencia|
 
-## Las 20 palabras que yo memorizaría sí o sí
+---
 
-1. sensor
-    
-2. LiDAR
-    
-3. radar
-    
-4. simulation
-    
-5. scenario
-    
-6. reinforcement learning
-    
-7. rely on
-    
-8. deploy
-    
-9. autonomous
-    
-10. training data
-    
-11. AI washing
-    
-12. deceptive
-    
-13. fraud
-    
-14. vendor
-    
-15. machine learning
-    
-16. workflow
-    
-17. bias
-    
-18. red flag
-    
-19. buzzword
-    
-20. core component
-    
+## LAS 20 PALABRAS QUE MEMORIZAR SÍ O SÍ
 
-Son las que aparecen varias veces en los textos y las que tienen más chances de ser usadas en oraciones para completar espacios. Además, muchas tienen un significado bastante específico, lo que las vuelve candidatas típicas para ejercicios de vocabulario.
+sensor · LiDAR · radar · simulation · scenario · reinforcement learning · rely on · deploy · autonomous · training data · AI washing · deceptive · fraud · vendor · machine learning · workflow · bias · red flag · buzzword · core component
