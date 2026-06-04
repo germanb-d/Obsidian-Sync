@@ -75,6 +75,16 @@ Después de **did** no va pasado:
 ### Señales típicas
 yesterday · last week · last year · ago · in 2020 · the day before
 
+## Past Simple de "be" (was / were)
+
+| Sujeto            | Forma    |
+| ----------------- | -------- |
+| I / He / She / It | **was**  |
+| You / We / They   | **were** |
+- I **was** / You **were** / He **was** → cambia según el sujeto
+- I **was not** (wasn't) / You **were not** (weren't) → también cambia
+- La pregunta: **Was** I? / **Were** you? / **Was** he? → el verbo "be" mismo se adelanta, sin usar "did"
+
 ---
 ## 4) PRESENT PERFECT
 
