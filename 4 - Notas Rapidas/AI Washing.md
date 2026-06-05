@@ -13,4 +13,8 @@ The problem that the article address is how the companies take advantage about  
 
 3) Find what the words in yellow refer to
 	1) it: The chatbot
-	2) their: 
+	2) their: markets
+	3) it: The AI
+	4) they: consumers and investors 
+	5) this: that they may be regarded as fraud
+	6) its: 
