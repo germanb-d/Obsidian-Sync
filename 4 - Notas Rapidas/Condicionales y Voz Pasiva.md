@@ -1,56 +1,78 @@
-## 1) CONDITIONALS
+# Condicionales
 
-### ZERO CONDITIONAL
+| Condicional | Lugar del modal               | Ejemplos de modales que puedes usar                |
+| ----------- | ----------------------------- | -------------------------------------------------- |
+| **First**   | _____ **+ infinitivo**        | will / can / could / may / might / should / must   |
+| **Second**  | _____ **+ infinitivo**        | would / could / might / should                     |
+| **Third**   | _____ **+ have + participio** | would have / could have / might have / should have |
+## ZERO CONDITIONAL
+> *If + present simple, present simple*
 
-Verdades generales, hechos que siempre pasan. **If + present simple, present simple**
-
-- If you heat water, it boils. / If it rains, the ground gets wet.
-
-No habla de futuro hipotético. Habla de reglas o hechos.
-
-### FIRST CONDITIONAL
-
-Posible en el futuro, realista. **If + present simple, will + base verb**
-
-- If I study, I will pass. / If she works hard, she will succeed.
-
-Hay posibilidad real. Variantes: **can / may / might**
-
-- If you practice, you might improve.
-
-### SECOND CONDITIONAL
-
-Situación irreal o poco probable en presente/futuro. **If + past simple, would + base verb**
-
-- If I had money, I would travel. / If he knew the answer, he would tell us.
-
-No es real ahora. Es imaginación, deseo o hipótesis. En inglés formal: **If I were you, I would accept the offer.**
-
-### THIRD CONDITIONAL
-
-Situación irreal en el pasado. Arrepentimiento, crítica o hipótesis sobre algo que ya no puede cambiar. **If + past perfect, would have + past participle**
-
-- If I had studied, I would have passed. / If they had arrived earlier, they would have seen the show.
-
-Ya ocurrió algo distinto. No se puede cambiar.
-
-### MIXED CONDITIONALS
-
-Mezclan pasado y presente.
-
-- If I had studied more, I would have a better job now. → causa en el pasado / efecto en el presente
-
-### UNLESS
-
-Significa **if not**.
-
-- Unless you hurry, you will be late. = If you don't hurry, you will be late.
-
-No lo uses como si fuera cualquier palabra más. Es una trampa común.
+- **Positivo:** If you heat water, it boils.
+- **Negativo:** If you don't heat water, it doesn't boil.
+- **Pregunta:** If you heat water, does it boil?
+- **Pregunta negativa:** If you heat water, doesn't it boil?
 
 ---
 
-## 2) VOZ PASIVA
+## FIRST CONDITIONAL
+> *If + present simple, will + base verb*
+
+- **Positivo:** If I study, I will pass.
+- **Negativo:** If I don't study, I won't pass.
+- **Pregunta:** If I study, will I pass?
+- **Pregunta negativa:** If I study, won't I pass?
+
+---
+
+## SECOND CONDITIONAL
+> *If + past simple, would + base verb*
+
+- **Positivo:** If I had money, I would travel.
+- **Negativo:** If I didn't have money, I wouldn't travel.
+- **Pregunta:** If I had money, would I travel?
+- **Pregunta negativa:** If I had money, wouldn't I travel?
+
+---
+
+## THIRD CONDITIONAL
+> *If + past perfect, would have + past participle*
+
+- **Positivo:** If I had studied, I would have passed.
+- **Negativo:** If I hadn't studied, I wouldn't have passed.
+- **Pregunta:** If I had studied, would I have passed?
+- **Pregunta negativa:** If I had studied, wouldn't I have passed?
+
+---
+
+## MIXED CONDITIONAL (pasado → presente)
+> *If + past perfect, would + base verb*
+
+- **Positivo:** If I had studied more, I would have a better job now.
+- **Negativo:** If I hadn't studied more, I wouldn't have a better job now.
+- **Pregunta:** If I had studied more, would I have a better job now?
+- **Pregunta negativa:** If I had studied more, wouldn't I have a better job now?
+
+---
+
+## UNLESS (equivale a *if not*)
+
+- **Positivo:** Unless you hurry, you will be late.
+- **Negativo** (cambiando la lógica): Unless you don't hurry, you won't be late.  
+  *(Esto suena raro. Con unless se evita doble negación. Mejor mantenerlo positivo.)*
+
+**Más natural con *unless* en negativa / pregunta:**
+
+| Tipo | Ejemplo |
+|------|---------|
+| Negativo (reformulado) | Unless you rest, you won't recover. |
+| Pregunta | Unless you hurry, will you be late? |
+| Pregunta negativa | Unless you hurry, won't you be late? |
+
+
+---
+
+# Voz Pasiva
 
 En la voz pasiva, lo importante no es quién hace la acción, sino qué recibe la acción.
 
