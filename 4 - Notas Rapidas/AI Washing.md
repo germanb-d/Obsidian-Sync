@@ -19,10 +19,16 @@ The problem that the article address is how the companies take advantage about  
 	5) this: that they may be regarded as fraud
 	6) its: product/service
 4) Taking into account these sentences: a) find the verb phrase, b) indicate the verb tense, c) translate the sentence
-	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works.
+	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works. **Presente**
 	   El marketing sobre IA/lavado con IA usualmente se presenta usando un vago lenguaje y con jerga relacionada con la IA para capitalizar una escasez general de conocimiento sobre que es la IA en realidad y como funciona esta.
-	2) The vendor’s artificial intelligence has helped them solve a very specific problem
+	2) The vendor’s artificial **intelligence** has helped them solve a very specific problem. **Pasado Simple**
 	   La inteligencia artificial del vendedor los ayudo a resolver un problema muy especifico
-	3) The objective of AI washing is to capitalize on people’s interest in AI and make an offering seem to be more cutting-edge than it really is
+	3) The **objective** of AI washing is to capitalize on people’s interest in AI and make an offering seem to be more cutting-edge than it really is
 	   El objetivo del lavado de IA es a capitalizar en el interes de las personas en IA  y hacerles parecer/ver una oferta mas innovadora de lo que en verdad es.
-	4) 
+5) Find the head noun and translate these phrases
+	1) a deceptive promotional practice that exaggerates or outright lies about a product or service’s use of artificial intelligence (AI) 
+	2) the cloud service they offer 
+	3) an integral part of how the product or service works. 
+	4) vendors whose websites include a glossary of AI-related terminology 
+	5) customer testimonials that explain how the vendor’s artificial intelligence has helped them solve a very specific problem 
+	6) the intention of purposely deceiving consumers or investor s to gain financial or other benefits
