@@ -26,7 +26,7 @@ No importa el orden. **Identifica el "if"** y el resto se ordena solo.
 
 ## FIRST CONDITIONAL
 > *If + present simple, will + base verb*
-customer's car
+
 - **Positivo:** If I study, I will pass.
 - **Negativo:** If I don't study, I won't pass.
 - **Pregunta:** If I study, will I pass?
