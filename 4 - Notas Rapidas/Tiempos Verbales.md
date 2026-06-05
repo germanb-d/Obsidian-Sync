@@ -1,3 +1,7 @@
+TO BE
+- Si la activa es Presente → **am / is / are**
+- Si la activa es Pasado → **was / were**
+- Si la activa es Futuro → **will be** 
 ## 1) PRESENT SIMPLE
 
 ### Uso
