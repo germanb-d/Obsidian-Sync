@@ -22,5 +22,7 @@ The problem that the article address is how the companies take advantage about  
 	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works.
 	   El marketing sobre IA/lavado con IA usualmente se presenta usando un vago lenguaje y con jerga relacionada con la IA para capitalizar una escasez general de conocimiento sobre que es la IA en realidad y como funciona esta.
 	2) The vendor’s artificial intelligence has helped them solve a very specific problem
-	   
+	   La inteligencia artificial del vendedor los ayudo a resolver un problema muy especifico
 	3) The objective of AI washing is to capitalize on people’s interest in AI and make an offering seem to be more cutting-edge than it really is
+	   El objetivo del lavado de IA es a capitalizar en el interes de las personas en IA  y hacerles parecer/ver una oferta mas innovadora de lo que en verdad es.
+	4) 
