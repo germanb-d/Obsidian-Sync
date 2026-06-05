@@ -96,6 +96,17 @@ yesterday · last week · last year · ago · in 2020 · the day before
 
 ### Uso
 Se usa para: experiencias de vida, acciones pasadas con efecto en el presente, acciones recientes, situaciones que empezaron en el pasado y continúan ahora.
+
+| Sujeto       | Have / Has |
+| ------------ | ---------- |
+| I            | **have**   |
+| You          | **have**   |
+| We           | **have**   |
+| They         | **have**   |
+| He           | **has**    |
+| She          | **has**    |
+| It           | **has**    |
+| The computer | **has**    |
 ### Forma afirmativa
 **Sujeto + have/has + past participle**
 - I have studied. / She has worked. / They have gone.
@@ -118,3 +129,5 @@ No los mezcles.
 - **Past Simple**: acción terminada en un momento del pasado → I saw that movie yesterday.
 - **Present Perfect**: experiencia o vínculo con el presente → I have seen that movie.
 Si hay tiempo definido como **yesterday / last year / in 2020**, normalmente va **Past Simple**.
+
+
