@@ -5,8 +5,9 @@ The problem that the article address is how the companies take advantage about  
 
 2) Indicate whether these statements are true or false. Justify by highlighting the lines that support your answer.
 	1) Banco Patagonia can’t claim that it’s “powered by AI” solely on the basis of its “Padi” assistant. **TRUE: Because "Padi" isn't a true AI, it is a chatbot that simply matches keywords with pre-written responses.**
-	2) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI. FALSE: the text specifically say that 
+	2) If a company uses machine learning to automate its data analysis, then it’s an instance of a company powered by AI. **FALSE:**
 	3) One of the reasons for engaging in AI washing is for a company to charge people more for a particular product. 
 	4) Customers that “vote with their feet” are likely to continue spending on companies that engage in AI washing, despite having found their products wanting. 
 	5) No country has laws against AI washing. 
 	6) The expression “slap the label AI” implies that the company that does this isn’t careful about what constitutes AI.
+
