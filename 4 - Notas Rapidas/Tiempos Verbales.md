@@ -56,6 +56,7 @@ now · at the moment · right now · today · this week · currently
 
 ### Uso
 Se usa para: acciones terminadas en el pasado, secuencias de acciones, hechos del pasado con tiempo definido.
+**Se usa la segunda columna de la lista de verbos irregulares**
 
 | Verbo          | Past Simple positivo     | Past Simple negativo           | Past Simple pregunta       |
 | -------------- | ------------------------ | ------------------------------ | -------------------------- |
@@ -100,6 +101,7 @@ yesterday · last week · last year · ago · in 2020 · the day before
 
 ### Uso
 Se usa para: experiencias de vida, acciones pasadas con efecto en el presente, acciones recientes, situaciones que empezaron en el pasado y continúan ahora.
+**Se usa la tercera columna de la lista de verbos irregulares**
 
 | Sujeto       | Have / Has |
 | ------------ | ---------- |

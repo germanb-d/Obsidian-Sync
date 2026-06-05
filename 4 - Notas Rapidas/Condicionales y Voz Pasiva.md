@@ -61,7 +61,11 @@ En la voz pasiva, lo importante no es quién hace la acción, sino qué recibe l
 
 ### Formas más comunes
 
-**Present Simple:** am/is/are + pp → The device is repaired. / The files are stored automatically. **Past Simple:** was/were + pp → The component was replaced. / The cables were connected. **Present Perfect:** have/has been + pp → The software has been updated. / The system has been tested. **Future:** will be + pp → The package will be delivered. / The machine will be fixed. **Modal:** modal + be + pp → The problem can be solved. / The part must be checked.
+- **Present Simple:** am/is/are + pp → The device is repaired. / The files are stored automatically. 
+- **Past Simple:** was/were + pp → The component was replaced. / The cables were connected. 
+- **Present Perfect:** have/has been + pp → The software has been updated. / The system has been tested. 
+- **Future:** will be + pp → The package will be delivered. / The machine will be fixed. 
+- **Modal:** modal + be + pp → The problem can be solved. / The part must be checked.
 
 ### Cuándo se usa
 
