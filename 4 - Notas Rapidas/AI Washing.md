@@ -28,9 +28,13 @@ The problem that the article address is how the companies take advantage about  
 5) Find the head noun and translate these phrases
 	1) a deceptive promotional **practice** that exaggerates or outright lies about a product or service’s use of artificial intelligence (AI) 
 	   Una practica promocion engañosa que exagera o miente completamente sobre el producto o uso del servicio de inteligencia artificial
-	2) the cloud service they offer 
+	2) the cloud **service** they offer 
 	   El servicio en la nube que ofrecen
-	3) an integral part of how the product or service works. 
-	4) vendors whose websites include a glossary of AI-related terminology 
-	5) customer testimonials that explain how the vendor’s artificial intelligence has helped them solve a very specific problem 
-	6) the intention of purposely deceiving consumers or investor s to gain financial or other benefits
+	3) an integral **part** of how the product or service works. 
+	   Una parte integral de como el producto o servicio funciona
+	4) **vendors** whose websites include a glossary of AI-related terminology
+	   Vendedores cuya pagina web uncluye un glosario sobre la terminologia relacionada con IA
+	5) customer **testimonials** that explain how the vendor’s artificial intelligence has helped them solve a very specific problem 
+	   Testimonios de consumidores que explican como la inteligencia artificial del vendedor les ayudo a resolver un problema muy especifico
+	6) the **intention** of purposely deceiving consumers or investors to gain financial or other benefits
+	   La intencion de engañar a los consumidores o inversores a proposito para aumentar su ganancias u otros beneficios
