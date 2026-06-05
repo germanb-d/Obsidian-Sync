@@ -61,12 +61,106 @@ En la voz pasiva, lo importante no es quién hace la acción, sino qué recibe l
 
 ### Formas más comunes
 
-- **Present Simple:** am/is/are + pp → The device is repaired. / The files are stored automatically. 
-- - **Present Continuous:** am/is/are + being + pp → The house **is being bought**. / The car **is being repaired**.
-- **Past Simple:** was/were + pp → The component was replaced. / The cables were connected. 
-- **Present Perfect:** have/has been + pp → The software has been updated. / The system has been tested. 
-- **Future:** will be + pp → The package will be delivered. / The machine will be fixed. 
-- **Modal:** modal + be + pp → The problem can be solved. / The part must be checked.
+#### **Present Simple Pasivo**
+
+- **Estructura:** am/is/are + participio pasado (pp)
+    
+- **Nota:** The device is repaired. / The files are stored automatically.
+    
+- **Afirmativa:** The device **is repaired** by a technician.
+    
+- **Negativa:** The device **is not repaired**; it is replaced. (o: The device isn't repaired...)
+    
+- **Interrogativa:** **Is** the device **repaired** regularly?
+    
+- **Interrogativa Negativa:** **Isn't** the device **repaired** yet?
+    
+
+---
+
+#### **Present Continuous Pasivo**
+
+- **Estructura:** am/is/are + being + participio pasado (pp)
+    
+- **Nota:** The house **is being bought**. / The car **is being repaired**.
+    
+- **Afirmativa:** The house **is being bought** by a developer.
+    
+- **Negativa:** The house **is not being bought**; they are renting it. (o: The house isn't being bought...)
+    
+- **Interrogativa:** **Is** the house **being bought** soon?
+    
+- **Interrogativa Negativa:** **Isn't** the house **being bought** by the end of the month?
+    
+---
+#### **Past Simple Pasivo**
+
+- **Estructura:** was/were + participio pasado (pp)
+    
+- **Nota:** The component was replaced. / The cables were connected.
+    
+- **Afirmativa:** The component **was replaced** yesterday.
+    
+- **Negativa:** The component **was not replaced**; it was fixed. (o: The component wasn't replaced...)
+    
+- **Interrogativa:** **Was** the component **replaced** on time?
+    
+- **Interrogativa Negativa:** **Wasn't** the component **replaced** by the engineer?
+    
+---
+#### **Present Perfect Pasivo**
+
+- **Estructura:** have/has + been + participio pasado (pp)
+    
+- **Nota:** The software has been updated. / The system has been tested.
+    
+- **Afirmativa:** The software **has been updated** successfully.
+    
+- **Negativa:** The software **has not been updated** yet. (o: The software hasn't been updated...)
+    
+- **Interrogativa:** **Has** the software **been updated**?
+    
+- **Interrogativa Negativa:** **Hasn't** the software **been updated** by now?
+    
+---
+#### **Future Pasivo (will)**
+
+- **Estructura:** will + be + participio pasado (pp)
+    
+- **Nota:** The package will be delivered. / The machine will be fixed.
+    
+- **Afirmativa:** The package **will be delivered** tomorrow.
+    
+- **Negativa:** The package **will not be delivered** today. (o: The package won't be delivered...)
+    
+- **Interrogativa:** **Will** the package **be delivered** by noon?
+    
+- **Interrogativa Negativa:** **Will not** the package **be delivered** tomorrow? (o: Won't the package be delivered tomorrow?)
+    
+---
+#### **Modal Pasivo**
+
+- **Estructura:** modal + be + participio pasado (pp)
+    
+- **Nota:** The problem can be solved. / The part must be checked.
+    
+- **Afirmativa:** The problem **can be solved** with effort.
+    
+- **Negativa:** The problem **cannot be solved** easily. (o: The problem can't be solved...)
+    
+- **Interrogativa:** **Can** the problem **be solved**?
+    
+- **Interrogativa Negativa:** **Cannot** the problem **be solved**? (o: Can't the problem be solved?)
+    
+- **Afirmativa (otro modal):** The part **must be checked** carefully.
+    
+- **Negativa (otro modal):** The part **must not be checked** by unauthorized personnel. (o: The part mustn't be checked...)
+    
+- **Interrogativa (otro modal):** **Must** the part **be checked** before use?
+    
+- **Interrogativa Negativa (otro modal):** **Must not** the part **be checked**? (o: Mustn't the part be checked?)
+    
+---
 
 ### Cuándo se usa
 
