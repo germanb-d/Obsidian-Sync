@@ -17,4 +17,9 @@ The problem that the article address is how the companies take advantage about  
 	3) it: The AI
 	4) they: consumers and investors 
 	5) this: that they may be regarded as fraud
-	6) its: 
+	6) its: product/service
+4) Taking into account these sentences: a) find the verb phrase, b) indicate the verb tense, c) translate the sentence
+	1) AI-washed marketing deliverables will often use vague language and AI-related jargon to capitalize on a general lack of understanding about what AI really is and how it works.
+	   El mercado 
+	2) The vendor’s artificial intelligence has helped them solve a very specific problem
+	3) The objective of AI washing is to capitalize on people’s interest in AI and make an offering seem to be more cutting-edge than it really is
