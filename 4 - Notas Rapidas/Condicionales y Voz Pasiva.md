@@ -5,6 +5,15 @@
 | **First**   | _____ **+ infinitivo**        | will / can / could / may / might / should / must   |
 | **Second**  | _____ **+ infinitivo**        | would / could / might / should                     |
 | **Third**   | _____ **+ have + participio** | would have / could have / might have / should have |
+
+| Orden                   | Ejemplo                        | ¿Lleva coma?                       |
+| ----------------------- | ------------------------------ | ---------------------------------- |
+| If clause + main clause | _If you study, you will pass._ | ✅ **Sí** (después de la if clause) |
+| Main clause + if clause | _You will pass if you study._  | ❌ **No** (sin coma)                |
+> **La cláusula que lleva el "if" (o "unless") es la única que indica la condición. La otra cláusula lleva el modal (will, would, could, etc.).**
+
+No importa el orden. **Identifica el "if"** y el resto se ordena solo.
+
 ## ZERO CONDITIONAL
 > *If + present simple, present simple*
 
