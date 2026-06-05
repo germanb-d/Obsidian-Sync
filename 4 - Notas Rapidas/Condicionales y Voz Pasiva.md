@@ -137,7 +137,7 @@ En la voz pasiva, lo importante no es quién hace la acción, sino qué recibe l
 - **Interrogativa:** **Was** the component **replaced** on time?
     
 - **Interrogativa Negativa:** **Wasn't** the component **replaced** by the engineer?
-    
+
 ---
 #### **Present Perfect Pasivo**
 
