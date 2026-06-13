@@ -23,11 +23,11 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ## 2. THAN (Para comparar)
 
-| Regla | Ejemplo |
-|:---|:---|
-| Adjetivo corto + **-er + than** | *Wi-Fi is **faster than** Bluetooth* |
-| **more/less +** adjetivo largo + **than** | *Python is **more intuitive than** Java* |
-| Irregulares: **better / worse than** | *This algorithm is **better than** the other* |
+| Regla                                     | Ejemplo                                       |
+| :---------------------------------------- | :-------------------------------------------- |
+| Adjetivo corto + **-er + than**           | *Wi-Fi is **faster than** Bluetooth*          |
+| **more/less +** adjetivo largo + **than** | *Python is **more intuitive than** Java*      |
+| Irregulares: **better / worse than**      | *This algorithm is **better than** the other* |
 
 ### ⚠️ NUNCA:
 - ❌ *more faster than* (doble comparativo)
@@ -77,11 +77,11 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ### Ejemplos de parciales:
 
-| Frase | HEAD NOUN | Traducción |
-|:---|:---|:---|
-| *the number of bytes they can hold* | **number** | el número de bytes que pueden contener |
-| *a person's short-term memory* | **memory** | la memoria de corto plazo de una persona |
-| *a device that uses NAND flash* | **device** | un dispositivo que usa NAND flash |
+| Frase                               | HEAD NOUN  | Traducción                               |
+| :---------------------------------- | :--------- | :--------------------------------------- |
+| *the number of bytes they can hold* | **number** | el número de bytes que pueden contener   |
+| *a person's short-term memory*      | **memory** | la memoria de corto plazo de una persona |
+| *a device that uses NAND flash*     | **device** | un dispositivo que usa NAND flash        |
 
 ### Cómo encontrar el HEAD NOUN:
 1. Preguntate: ¿De qué se habla?
@@ -116,11 +116,11 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 ### Ejemplo:
 > *"Reinforcement learning is a machine learning training method **that** rewards desired behaviors and punishes undesired ones."*
 
-| Parte | Ejemplo |
-|:---|:---|
-| Término | *Reinforcement learning* |
-| Grupo | *is a machine learning training method* |
-| Distintivo (con THAT) | *that rewards desired behaviors...* |
+| Parte                 | Ejemplo                                 |
+| :-------------------- | :-------------------------------------- |
+| Término               | *Reinforcement learning*                |
+| Grupo                 | *is a machine learning training method* |
+| Distintivo (con THAT) | *that rewards desired behaviors...*     |
 
 ### ⚠️ NUNCA usar "is when" o "is where"
 
@@ -221,3 +221,4 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 **🔴 IMPORTANTE:** La clave para aprobar no es saber todo de memoria. Es **saber buscar la información en el texto** y **reconocer las estructuras gramaticales** para responder.
 
 ¿Querés que imprima esto o lo paso a otro formato?
+
