@@ -8,12 +8,12 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ## 1. TIEMPOS VERBALES (Los que más aparecen)
 
-| Tiempo | Cuándo usarlo | Estructura | Señal |
-|:---|:---|:---|:---|
-| **Present Simple** | Hechos, verdades generales, rutinas | Sujeto + verbo (con **-s** en he/she/it) | *always, never, usually, every day* |
-| **Present Continuous** | Ahora mismo, tendencias, arreglos futuros | **am/is/are + verbo-ing** | *now, at the moment, currently* |
-| **Past Simple** | Acción terminada en un momento específico | Verbo en pasado (-ed o irregular) | *yesterday, last week, in 1970* |
-| **Present Perfect** | Experiencia, cambio, o acción que empezó en el pasado y sigue | **have/has + participio pasado** | *for, since, already, yet, ever, never* |
+| Tiempo                 | Cuándo usarlo                                                 | Estructura                               | Señal                                   |
+| :--------------------- | :------------------------------------------------------------ | :--------------------------------------- | :-------------------------------------- |
+| **Present Simple**     | Hechos, verdades generales, rutinas                           | Sujeto + verbo (con **-s** en he/she/it) | *always, never, usually, every day*     |
+| **Present Continuous** | Ahora mismo, tendencias, arreglos futuros                     | **am/is/are + verbo-ing**                | *now, at the moment, currently*         |
+| **Past Simple**        | Acción terminada en un momento específico                     | Verbo en pasado (-ed o irregular)        | *yesterday, last week, in 1970*         |
+| **Present Perfect**    | Experiencia, cambio, o acción que empezó en el pasado y sigue | **have/has + participio pasado**         | *for, since, already, yet, ever, never* |
 
 ### ⚠️ ERROR GRAVE QUE TE SALVA:
 - **TO BE** (am/is/are/was/were) NUNCA usa *did* en negativo
