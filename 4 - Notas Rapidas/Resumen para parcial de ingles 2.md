@@ -92,14 +92,15 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ## 6. LINKING EXPRESSIONS (Lo que preguntan en el parcial)
 
-| Conector | Relación | Traducción |
-|:---|:---|:---|
-| *however* | **contrast** | sin embargo |
-| *therefore* / *so* / *as a result* | **consequence** | por lo tanto |
-| *because* / *since* | **cause** | porque / dado que |
-| *for example* / *for instance* | **example** | por ejemplo |
-| *first* / *then* / *next* | **temporal/sequence** | primero / luego |
-| *furthermore* / *moreover* | **addition** | además |
+| Conector                           | Relación              | Traducción        |
+| :--------------------------------- | :-------------------- | :---------------- |
+| *however*                          | **contrast**          | sin embargo       |
+| *therefore* / *so* / *as a result* | **consequence**       | por lo tanto      |
+| *because* / *since*                | **cause**             | porque / dado que |
+| *for example* / *for instance*     | **example**           | por ejemplo       |
+| *first* / *then* / *next*          | **temporal/sequence** | primero / luego   |
+| *furthermore* / *moreover*         | **addition**          | además            |
+|                                    |                       |                   |
 
 ### Pregunta típica:
 > *"What relationship does 'however' express?"*
