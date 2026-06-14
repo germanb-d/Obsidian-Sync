@@ -207,14 +207,14 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ## ¡ÚLTIMO CONSEJO!
 
-| Si la pregunta es... | Usá... |
-|:---|:---|
-| *What is the text about?* | *This text describes/compares/explains...* |
-| *True or false?* | Buscá en el texto y señalá las líneas |
-| *What does X refer to?* | Mirá la oración anterior |
-| *Translate the noun phrase* | Encontrá el HEAD NOUN primero |
-| *What relationship does X express?* | Contrast / cause / consequence / example |
-| *Write a definition* | Término + grupo + that + característica |
+| Si la pregunta es...                | Usá...                                     |
+| :---------------------------------- | :----------------------------------------- |
+| *What is the text about?*           | *This text describes/compares/explains...* |
+| *True or false?*                    | Buscá en el texto y señalá las líneas      |
+| *What does X refer to?*             | Mirá la oración anterior                   |
+| *Translate the noun phrase*         | Encontrá el HEAD NOUN primero              |
+| *What relationship does X express?* | Contrast / cause / consequence / example   |
+| *Write a definition*                | Término + grupo + that + característica    |
 
 ---
 
