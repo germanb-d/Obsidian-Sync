@@ -168,11 +168,11 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ## 10. PASADO SIMPLE NEGATIVO (La trampa)
 
-| ✅ Correcto | ❌ Incorrecto |
-|:---|:---|
+| ✅ Correcto           | ❌ Incorrecto           |
+| :------------------- | :--------------------- |
 | *I **did not work*** | *I did not **worked*** |
-| *He **didn't go*** | *He didn't **went*** |
-| *She **was not*** | *She **did not be*** |
+| *He **didn't go***   | *He didn't **went***   |
+| *She **was not***    | *She **did not be***   |
 
 ### Regla de oro:
 - Verbos normales → **did not + verbo BASE**
