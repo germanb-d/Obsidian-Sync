@@ -73,6 +73,7 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 ## 5. NOUN PHRASES (Encontrar el HEAD NOUN)
 
 ### Fórmula:
+
 > **[Determinante] + [Adjetivos] + HEAD NOUN + [complemento]**
 
 ### Ejemplos de parciales:
