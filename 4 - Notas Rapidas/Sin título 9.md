@@ -1,6 +1,6 @@
 # Pepe
 
-## Lo mas Importante es poder escribir  rapidamente 
+## Lo mas Importante es poder escribir  rápidamente 
 
 ### Pepe 
 Sadsa
