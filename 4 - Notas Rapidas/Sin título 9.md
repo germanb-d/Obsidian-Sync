@@ -1,4 +1,4 @@
-# Lo mas Importante es poder escribir  rápidamente
+# Lo mas Importante es poder escribir  rápidamen
 
 ## Lo mas Importante es poder escribir  rápidamente 
 
