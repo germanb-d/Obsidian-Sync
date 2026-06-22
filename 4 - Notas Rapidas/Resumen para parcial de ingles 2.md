@@ -4,7 +4,7 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 # 🟦 RESUMEN PARA APROBAR EL PARCIAL - INGLÉS INTEGRAL 2 🟦
 
----
+
 
 ## 1. TIEMPOS VERBALES (Los que más aparecen)
 
