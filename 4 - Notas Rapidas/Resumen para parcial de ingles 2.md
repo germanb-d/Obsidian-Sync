@@ -221,6 +221,12 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 ¿Querés que imp
 
-
 Comjksdnsdkajlnkdasfnadsfjk
+
 Fjhsrukghdjkgb
+
+
+Sadfasfdasfadsf
+
+![[Resumen para parcial de ingles 2-1782251315319.webp]]
+Fdvdsfv
