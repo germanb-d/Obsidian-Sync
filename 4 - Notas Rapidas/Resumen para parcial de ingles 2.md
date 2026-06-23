@@ -232,15 +232,5 @@ Sadfasfdasfadsf
 ![[Resumen para parcial de ingles 2-1782251315319.webp|444]]
 Fdvdsfv
 
-
-
-
-
-
-
-
-
-
-
-
+%%> asdasdaesf%%
 
