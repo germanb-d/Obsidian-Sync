@@ -219,26 +219,7 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 **🔴 IMPORTANTE:** La clave para aprobar no es saber todo de memoria. Es **saber buscar la información en el texto** y **reconocer las estructuras gramaticales** para responder.
 
-¿Querés que imp
-
-Comjksdnsdkajlnkdasfnadsfjk
-
-Fjhsrukghdjkgb
-
-
-Sadfasfdasfadsf
-
-
-![[Resumen para parcial de ingles 2-1782251315319.webp|444]]
-Fdvdsfv
 
 
 
 
-![[Resumen para parcial de ingles 2-1782256437122.webp|357|159]]
-
-
-
-dsfgdsgsdf
-
-Fdsjkvn
