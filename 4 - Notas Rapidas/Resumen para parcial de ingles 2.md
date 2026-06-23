@@ -228,9 +228,19 @@ Fjhsrukghdjkgb
 
 Sadfasfdasfadsf
 
-<div data-better-edit-image="filled" style="width: 468px; max-width: 100%; margin: 0 auto; text-align: center;">
-  <img src="1 - Archivos Adjuntos/Imagenes/dyn-da5c4c0558c631e4417a93659182a8b1 1.png" style="width: 100%; max-width: 100%; display: block; border-radius: 4px;" />
-</div>
 
 ![[Resumen para parcial de ingles 2-1782251315319.webp|444]]
 Fdvdsfv
+
+
+
+
+
+
+
+
+
+
+
+
+
