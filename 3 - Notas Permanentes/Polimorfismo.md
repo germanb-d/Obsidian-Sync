@@ -66,5 +66,3 @@ Mismo mensaje (`sonido()`), distinta respuesta según el objeto real.
 - Reutilización de código.
 - Flexibilidad y extensibilidad del sistema.
 - Permite aplicar el principio [[Tell don't ask]] → le digo al objeto qué hacer sin preocuparme por su tipo concreto.
-
-
