@@ -235,11 +235,10 @@ Fdvdsfv
 
 
 
-![[Resumen para parcial de ingles 2-1782256437122.webp]]
+![[Resumen para parcial de ingles 2-1782256437122.webp|357|159]]
 
 
 
 dsfgdsgsdf
 
 Fdsjkvn
-
