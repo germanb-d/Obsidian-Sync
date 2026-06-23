@@ -233,3 +233,12 @@ Sadfasfdasfadsf
 Fdvdsfv
 
 
+
+
+![[Resumen para parcial de ingles 2-1782256437122.webp]]
+
+
+
+dsfgdsgsdf
+
+Fdsjkvn
