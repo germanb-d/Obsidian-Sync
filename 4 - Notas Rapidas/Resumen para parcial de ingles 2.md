@@ -222,4 +222,3 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 **🔴 IMPORTANTE:** La clave para aprobar no es saber todo de memoria. Es **saber buscar la información en el texto** y **reconocer las estructuras gramaticales** para responder.
 
 ¿Querés que imprima esto o lo paso a otro formato?
-
