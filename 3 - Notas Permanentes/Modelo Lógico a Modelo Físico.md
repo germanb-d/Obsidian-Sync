@@ -49,4 +49,3 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 
 
 # Dascdsa
-
