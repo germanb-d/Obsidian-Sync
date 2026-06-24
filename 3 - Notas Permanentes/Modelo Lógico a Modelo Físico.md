@@ -45,4 +45,8 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 	- Caso 1: Si yo hago una entidad `Persona` en vez de dos entidades `Profesor` y `Alumnos`, habría muchos atributos y relaciones opcionales.
 	  Caso 2: Una entidad separada para cada tipo de `Profesor` (titular, pasante, etc.) haría que se repitieran muchos datos, sería preferible que el tipo sea un atributo.
 - Partición de Interrelaciones
-- #Revisar
+- #Revisar 
+
+
+# Dascdsa
+
