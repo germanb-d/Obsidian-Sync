@@ -69,3 +69,17 @@ Mismo mensaje (`sonido()`), distinta respuesta según el objeto real.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
