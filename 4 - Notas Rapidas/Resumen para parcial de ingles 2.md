@@ -222,5 +222,3 @@ Acá tenés el **resumen estero** (completo, directo y sin vueltas) para aprobar
 
 
 
-
-Dasdfdas
