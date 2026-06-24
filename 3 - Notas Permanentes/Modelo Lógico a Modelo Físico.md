@@ -46,3 +46,11 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 	  Caso 2: Una entidad separada para cada tipo de `Profesor` (titular, pasante, etc.) haría que se repitieran muchos datos, sería preferible que el tipo sea un atributo.
 - Partición de  Interrelaciones
 - #Revisar 
+
+`Como por ejemplo` Cuando escribimos 
+
+> [!question] titulo 
+> Que paso
+
+
+> 
