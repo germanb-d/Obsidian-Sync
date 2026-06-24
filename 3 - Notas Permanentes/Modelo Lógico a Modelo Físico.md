@@ -42,14 +42,7 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 #### No Obligatorias
 
 - Partición de Entidades  
-	- Caso 1: Si yo hago una entidad `Persona` en vez de dos entidades `Profesor` y `Alumnos`, habría muchos atributos y <!--c:8hntg-->relaciones<!--/c:8hntg--> opcionales.
+	- Caso 1: Si yo hago una entidad `Persona` en vez de dos entidades `Profesor` y `Alumnos`, habría muchos atributos y relaciones opcionales.
 	  Caso 2: Una entidad separada para cada tipo de `Profesor` (titular, pasante, etc.) haría que se repitieran muchos datos, sería preferible que el tipo sea un atributo.
-- Partición de <!--c:anydc-->Interrelaciones<!--/c:anydc-->
+- Partición de  Interrelaciones
 - #Revisar 
-<!--co:anydc by:me at:2026-06-24T14:49:31.501Z status:resolved quote:"Interrelaciones"
-me (2026-06-24T14:49:31.501Z): Pepe luigi
--->
-<!--co:8hntg by:me at:2026-06-24T14:49:45.122Z status:resolved quote:"relaciones"
-me (2026-06-24T14:49:45.122Z): oai
--->
-
