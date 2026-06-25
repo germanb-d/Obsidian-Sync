@@ -3,7 +3,6 @@ Categoria: Sistemas
 Materia: Base de Datos 1
 tags:
 ---
-
 # Modelo Lógico Y Físico
 
 ## Modelo Conceptual - > Modelo Lógico
@@ -52,5 +51,4 @@ Estos datos son **redundantes**: Produce inconsistencias, o sea, que actualicen 
 > [!question] titulo 
 > Que paso
 
-
-> 
+ 
