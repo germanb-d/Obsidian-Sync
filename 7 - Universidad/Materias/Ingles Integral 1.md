@@ -4,8 +4,8 @@ Profesor: Andrea C. Rodeghiero
 Ayudante:
 Año: "2"
 Cuatrimestre: "2"
-Cursado: false
-Aprobado: false
+Cursado: true
+Aprobado: true
 banner: "[[Obsidian-Sync/1 - Archivos Adjuntos/Imagenes/Ingles 1-1755820063713.webp]]"
 ---
 

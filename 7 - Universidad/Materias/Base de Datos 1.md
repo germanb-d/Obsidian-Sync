@@ -4,8 +4,8 @@ Profesor: Sonia Alejandra Formia
 Ayudante:
 Año: "2"
 Cuatrimestre: "2"
-Cursado: false
-Aprobado: false
+Cursado: true
+Aprobado: true
 banner: "[[Base de Datos 1-1755819399363.webp]]"
 ---
 

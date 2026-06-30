@@ -4,8 +4,8 @@ Profesor: Lucas Difabio
 Ayudante: Bruno Joaquín Gorosito
 Año: "2"
 Cuatrimestre: "2"
-Cursado: false
-Aprobado: false
+Cursado: true
+Aprobado: true
 banner: "[[Obsidian-Sync/1 - Archivos Adjuntos/Imagenes/Seminario de Lenguaje-1755819970948.webp]]"
 ---
 
