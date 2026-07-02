@@ -311,3 +311,12 @@ If I have a lot of money probably update the RAM and the hard drive of my comput
 >
 > **"storage space"** es más específico que solo "space"
 
+
+
+
+
+
+
+
+
+
