@@ -310,13 +310,3 @@ If I have a lot of money probably update the RAM and the hard drive of my comput
 > ✅ "...so that my computer has more space"
 >
 > **"storage space"** es más específico que solo "space"
-
-
-
-
-
-
-
-
-
-
