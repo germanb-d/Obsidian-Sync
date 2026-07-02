@@ -3,6 +3,7 @@ Categoria: Sistemas
 Materia: Seminario de Lenguajes
 tags:
 ---
+
 # Definición
 
 Swing es una segunda generación de herramientas para el desarrollo de GUI. Incluida en el [[Java#JDK - Java Development Kit (Plataforma De Desarrollo)|JDK]]
